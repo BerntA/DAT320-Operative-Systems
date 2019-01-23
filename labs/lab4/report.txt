@@ -1,0 +1,78 @@
+== go test -bench . -benchmem -memprofilerate=1 -run none -v ==
+goos: windows
+goarch: amd64
+pkg: github.com/uis-dat320-fall18/assignments/lab4
+BenchmarkSafeStack-4                  30          42569100 ns/op          399995 B/op      19999 allocs/op
+BenchmarkSliceStack-4                100          16350935 ns/op           83271 B/op       9999 allocs/op
+BenchmarkCspStack-4                   10         159909140 ns/op         2320118 B/op      40000 allocs/op
+PASS
+ok      github.com/uis-dat320-fall18/assignments/lab4   4.853s
+== end ==
+
+
+== go test -bench BenchmarkCspStack -benchmem -memprofilerate=1 -run none -cpuprofile cpu.out -v ==
+goos: windows
+goarch: amd64
+pkg: github.com/uis-dat320-fall18/assignments/lab4
+BenchmarkCspStack-4           10         172009830 ns/op         2322059 B/op      40001 allocs/op
+PASS
+ok      github.com/uis-dat320-fall18/assignments/lab4   2.029s
+== end ==
+
+
+== go tool pprof cpu.out ==
+Main binary filename not available.
+Type: cpu
+Time: Sep 21, 2018 at 3:02pm (CEST)
+Duration: 2s, Total samples = 2.08s (103.94%)
+Entering interactive mode (type "help" for commands, "o" for options)
+(pprof) top10
+Showing nodes accounting for 1390ms, 66.83% of 2080ms total
+Dropped 27 nodes (cum <= 10.40ms)
+Showing top 10 nodes out of 76
+      flat  flat%   sum%        cum   cum%
+     330ms 15.87% 15.87%      650ms 31.25%  runtime.pcvalue
+     260ms 12.50% 28.37%      280ms 13.46%  runtime.step
+     230ms 11.06% 39.42%      240ms 11.54%  runtime.addspecial
+     150ms  7.21% 46.63%      950ms 45.67%  runtime.gentraceback
+     120ms  5.77% 52.40%      120ms  5.77%  runtime.stdcall1
+     110ms  5.29% 57.69%      110ms  5.29%  runtime.findfunc
+      60ms  2.88% 60.58%      110ms  5.29%  runtime.lock
+      50ms  2.40% 62.98%       50ms  2.40%  runtime.stdcall2
+      40ms  1.92% 64.90%       40ms  1.92%  runtime.(*fixalloc).alloc
+      40ms  1.92% 66.83%       60ms  2.88%  runtime.(*mspan).sweep
+
+(pprof) top10 -cum
+Showing nodes accounting for 0.75s, 36.06% of 2.08s total
+Dropped 27 nodes (cum <= 0.01s)
+Showing top 10 nodes out of 76
+      flat  flat%   sum%        cum   cum%
+     0.01s  0.48%  0.48%      1.58s 75.96%  runtime.systemstack
+         0     0%  0.48%      1.57s 75.48%  runtime.mstart
+         0     0%  0.48%      0.95s 45.67%  runtime.callers.func1
+     0.15s  7.21%  7.69%      0.95s 45.67%  runtime.gentraceback
+     0.33s 15.87% 23.56%      0.65s 31.25%  runtime.pcvalue
+         0     0% 23.56%      0.42s 20.19%  runtime.funcspdelta
+         0     0% 23.56%      0.29s 13.94%  runtime.mProf_Malloc.func1
+         0     0% 23.56%      0.29s 13.94%  runtime.setprofilebucket
+     0.26s 12.50% 36.06%      0.28s 13.46%  runtime.step
+         0     0% 36.06%      0.26s 12.50%  github.com/uis-dat320-fall18/assignments/lab4.BenchmarkCspStack
+== end ==
+
+//== go test -bench BenchmarkSafeStack -benchmem -memprofilerate=1 -run none -memprofile mem.out -v ==
+== go test -bench BenchmarkSafeStack -run none -memprofile=mem.out ==
+go tool pprof mem.out
+(pprof) sample_index = alloc_space
+(pprof)
+(pprof) top50
+Showing nodes accounting for 211.01MB, 100% of 211.01MB total
+      flat  flat%   sum%        cum   cum%
+  165.51MB 78.44% 78.44%   165.51MB 78.44%  github.com/uis-dat320-fall18/assignments/lab4.(*SafeStack).Push
+   45.50MB 21.56%   100%   211.01MB   100%  github.com/uis-dat320-fall18/assignments/lab4.benchStackOperations
+         0     0%   100%   211.01MB   100%  github.com/uis-dat320-fall18/assignments/lab4.BenchmarkSafeStack
+         0     0%   100%   209.51MB 99.29%  testing.(*B).launch
+         0     0%   100%     1.50MB  0.71%  testing.(*B).run1.func1
+         0     0%   100%   211.01MB   100%  testing.(*B).runN
+(pprof)
+== end ==
+test

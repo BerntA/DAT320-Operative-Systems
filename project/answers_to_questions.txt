@@ -1,0 +1,15 @@
+c3:
+More people visit the TV2 channel, NRK will have peaks during news hour.
+
+d:
+The viewers are calculated wrong, you store multiple entries for the same customers, causing havoc when calculating the view count.
+If one customer swapped to TV2, and later swapped to TV Norge, TV2 would always add a -1 view, later a new
+event could be registered for the same customer where he switches back to TV2, from TV Norge, now it will add a +1 again,
+BUT the view count will be 0, for both channels. It should be 0 for TV Norge only... And 1 for TV2.
+
+GRPC:
+a1 -> See drawing
+a2: 
+Be sure to only return valid ChZap and StatusChange objects, parse them correctly.
+The use of certain locks would help to provide consistency amongst the goroutines used, to prevent anamolies when working with shared objects
+on multiple 'threads'.

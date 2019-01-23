@@ -1,0 +1,21 @@
+Shell answers // Don't remove this line.
+1.) d
+2.) a
+3.) b
+4.) c
+5.) a
+6.) d
+7.) a
+8.) c
+9.) d
+10.) b
+11.) b
+12.) a
+13.) c
+14.) c
+15.) b
+16.) b
+17.) a
+18.) d
+19.) b
+20.) d

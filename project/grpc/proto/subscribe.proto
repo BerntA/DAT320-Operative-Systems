@@ -1,0 +1,32 @@
+syntax = "proto3";
+
+package proto;
+
+service Subscription {
+	rpc Subscribe(stream SubscribeMessage) returns (stream NotificationMessage) {}
+}
+
+message SubscribeMessage {
+	uint32 rate = 1;
+	uint32 type = 2;
+	string channel = 3;
+	uint32 window = 4;
+}
+
+message NotificationMessage {
+	repeated string data = 1;
+	repeated SMAMeasurement sma = 2;
+	repeated TopMutedData topmuted = 3;
+}
+
+message SMAMeasurement {
+	int64 time = 1;
+	uint32 views = 2;
+}
+
+message TopMutedData {
+	string channel = 1;
+	uint32 views = 2;
+	string time = 3;
+	string duration = 4;
+}

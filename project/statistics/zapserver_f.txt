@@ -1,0 +1,6811 @@
+2018/11/07 11:12:56 Starting ZapServer...
+Listening to: 224.0.1.130:10000
+Top 10 TV Channels:
+2018/11/07 11:12:56 efficient.ChannelsViewers took 3.208µs
+Started GRPC Server
+2018/11/07 11:12:56 efficient.ChannelsViewers took 2.426µs
+2018/11/07 11:12:56 efficient.AverageChannelDurations took 882ns
+Top 10 TV Channels:
+2018/11/07 11:12:57 efficient.ChannelsViewers took 33.876µs
+1 - TV2 Zebra: 3
+2 - TV2 Norge: 3
+3 - NRK2: 2
+4 - NRK1: 2
+5 - Disney Channel: 2
+6 - Eurosport 2: 1
+7 - TV2 Bliss: 1
+8 - TV Vest: 1
+9 - E! Ent.: 1
+10 - Discovery: 1
+2018/11/07 11:12:57 efficient.ChannelsViewers took 27.89µs
+2018/11/07 11:12:57 efficient.AverageChannelDurations took 1.988µs
+Top 10 TV Channels:
+2018/11/07 11:12:58 efficient.ChannelsViewers took 76.591µs
+2018/11/07 11:12:58 efficient.AverageChannelDurations took 3.442µs
+2018/11/07 11:12:58 efficient.ChannelsViewers took 235.703µs
+1 - TV2 Norge: 6
+2 - NRK2: 4
+3 - Discovery: 4
+4 - TV2 Zebra: 3
+5 - Disney Channel: 3
+6 - BBC Knowledge: 2
+7 - Eurosport: 2
+8 - TV2 Nyhet: 2
+9 - NRK1: 2
+10 - Discovery HD: 1
+Top 10 TV Channels:
+2018/11/07 11:12:59 efficient.ChannelsViewers took 51.566µs
+1 - TV2 Norge: 8
+2 - Discovery: 7
+3 - NRK2: 6
+4 - TV2 Bliss: 3
+5 - TV2 Zebra: 3
+2018/11/07 11:12:59 efficient.ChannelsViewers took 53.565µs
+6 - FEM: 3
+7 - NRK1: 3
+8 - Disney Channel: 3
+9 - MAX: 3
+10 - TV2 Nyhet: 3
+2018/11/07 11:12:59 efficient.AverageChannelDurations took 4.07µs
+Top 10 TV Channels:
+2018/11/07 11:13:00 efficient.ChannelsViewers took 87.608µs
+2018/11/07 11:13:00 efficient.AverageChannelDurations took 3.98µs
+2018/11/07 11:13:00 efficient.ChannelsViewers took 637.849µs
+1 - Discovery: 10
+2 - MAX: 8
+3 - TV2 Norge: 8
+4 - Disney Channel: 6
+5 - NRK2: 6
+6 - TV2 Zebra: 6
+7 - TV2 Bliss: 5
+8 - NRK1: 4
+9 - TV3 Norge: 4
+10 - TVNORGE: 4
+2018/11/07 11:13:01 efficient.ChannelsViewers took 68.503µs
+2018/11/07 11:13:01 efficient.AverageChannelDurations took 4.568µs
+Top 10 TV Channels:
+2018/11/07 11:13:01 efficient.ChannelsViewers took 72.628µs
+1 - Discovery: 12
+2 - TV2 Zebra: 10
+3 - TV2 Norge: 9
+4 - MAX: 8
+5 - TVNORGE: 6
+6 - TV2 Bliss: 6
+7 - NRK2: 6
+8 - TV3 Norge: 6
+9 - Disney Channel: 6
+10 - NRK1: 6
+2018/11/07 11:13:02 efficient.ChannelsViewers took 74.849µs
+2018/11/07 11:13:02 efficient.AverageChannelDurations took 4.502µs
+Top 10 TV Channels:
+2018/11/07 11:13:02 efficient.ChannelsViewers took 49.495µs
+1 - Discovery: 13
+2 - MAX: 12
+3 - TV2 Zebra: 10
+4 - TV3 Norge: 10
+5 - TV2 Norge: 9
+6 - Disney Channel: 9
+7 - NRK1: 8
+8 - NRK2: 8
+9 - TVNORGE: 8
+10 - FEM: 6
+2018/11/07 11:13:03 efficient.ChannelsViewers took 80.443µs
+2018/11/07 11:13:03 efficient.AverageChannelDurations took 5.19µs
+Top 10 TV Channels:
+2018/11/07 11:13:03 efficient.ChannelsViewers took 63.915µs
+1 - MAX: 15
+2 - Discovery: 13
+3 - TV2 Norge: 12
+4 - TV2 Zebra: 12
+5 - TV3 Norge: 11
+6 - Disney Channel: 9
+7 - NRK1: 9
+8 - NRK2: 9
+9 - TVNORGE: 9
+10 - TV2 Bliss: 7
+2018/11/07 11:13:04 efficient.ChannelsViewers took 66.849µs
+2018/11/07 11:13:04 efficient.AverageChannelDurations took 5.343µs
+Top 10 TV Channels:
+2018/11/07 11:13:04 efficient.ChannelsViewers took 80.948µs
+1 - MAX: 18
+2 - Discovery: 15
+3 - TV2 Zebra: 14
+4 - TV3 Norge: 13
+5 - TV2 Norge: 13
+6 - TVNORGE: 12
+7 - NRK2: 11
+8 - Disney Channel: 10
+9 - NRK1: 10
+10 - TV2 Bliss: 9
+2018/11/07 11:13:05 efficient.ChannelsViewers took 91.421µs
+2018/11/07 11:13:05 efficient.AverageChannelDurations took 20.128µs
+Top 10 TV Channels:
+2018/11/07 11:13:05 efficient.ChannelsViewers took 63.46µs
+1 - MAX: 19
+2 - TV3 Norge: 15
+3 - Discovery: 15
+4 - Disney Channel: 14
+5 - TV2 Zebra: 14
+6 - NRK1: 13
+7 - TVNORGE: 12
+8 - TV2 Norge: 12
+9 - TV2 Bliss: 11
+10 - NRK2: 11
+2018/11/07 11:13:06 efficient.ChannelsViewers took 85.772µs
+2018/11/07 11:13:06 efficient.AverageChannelDurations took 9.843µs
+Top 10 TV Channels:
+2018/11/07 11:13:06 efficient.ChannelsViewers took 75.243µs
+1 - MAX: 19
+2 - TV2 Bliss: 16
+3 - TV3 Norge: 16
+4 - TV2 Norge: 16
+5 - TV2 Zebra: 16
+6 - Discovery: 16
+7 - Disney Channel: 14
+8 - NRK2: 13
+9 - NRK1: 13
+10 - TVNORGE: 12
+2018/11/07 11:13:07 efficient.ChannelsViewers took 453.622µs
+2018/11/07 11:13:07 efficient.AverageChannelDurations took 7.887µs
+Top 10 TV Channels:
+2018/11/07 11:13:07 efficient.ChannelsViewers took 71.049µs
+1 - MAX: 20
+2 - TV3 Norge: 18
+3 - Discovery: 17
+4 - TV2 Zebra: 17
+5 - TV2 Norge: 17
+6 - TV2 Bliss: 16
+7 - Disney Channel: 15
+8 - NRK1: 13
+9 - NRK2: 13
+10 - TVNORGE: 12
+2018/11/07 11:13:08 efficient.ChannelsViewers took 86.147µs
+2018/11/07 11:13:08 efficient.AverageChannelDurations took 8.144µs
+Top 10 TV Channels:
+2018/11/07 11:13:08 efficient.ChannelsViewers took 73.866µs
+1 - MAX: 21
+2 - TV3 Norge: 20
+3 - Discovery: 17
+4 - TV2 Bliss: 17
+5 - TV2 Norge: 17
+6 - Disney Channel: 16
+7 - TV2 Zebra: 16
+8 - NRK2: 13
+9 - NRK1: 13
+10 - TVNORGE: 12
+2018/11/07 11:13:09 efficient.ChannelsViewers took 89.476µs
+2018/11/07 11:13:09 efficient.AverageChannelDurations took 10.48µs
+Top 10 TV Channels:
+2018/11/07 11:13:09 efficient.ChannelsViewers took 84.831µs
+1 - TV3 Norge: 22
+2 - MAX: 22
+3 - TV2 Norge: 19
+4 - TV2 Zebra: 18
+5 - Discovery: 17
+6 - TV2 Bliss: 17
+7 - Disney Channel: 16
+8 - NRK2: 14
+9 - NRK1: 14
+10 - TVNORGE: 11
+2018/11/07 11:13:10 efficient.ChannelsViewers took 82.822µs
+Top 10 TV Channels:
+2018/11/07 11:13:10 efficient.AverageChannelDurations took 10.914µs
+2018/11/07 11:13:10 efficient.ChannelsViewers took 146.367µs
+1 - MAX: 23
+2 - TV3 Norge: 23
+3 - TV2 Norge: 20
+4 - TV2 Bliss: 19
+5 - TV2 Zebra: 18
+6 - NRK2: 18
+7 - Discovery: 18
+8 - Disney Channel: 16
+9 - NRK1: 14
+10 - TV2 Nyhet: 13
+Top 10 TV Channels:
+2018/11/07 11:13:11 efficient.ChannelsViewers took 106.967µs
+2018/11/07 11:13:11 efficient.AverageChannelDurations took 11.753µs
+2018/11/07 11:13:11 efficient.ChannelsViewers took 271.957µs
+1 - TV3 Norge: 25
+2 - MAX: 25
+3 - TV2 Bliss: 20
+4 - TV2 Norge: 20
+5 - NRK2: 19
+6 - TV2 Zebra: 19
+7 - Discovery: 18
+8 - NRK1: 17
+9 - Disney Channel: 16
+10 - TV2 Nyhet: 14
+Top 10 TV Channels:
+2018/11/07 11:13:12 efficient.ChannelsViewers took 119.285µs
+1 - TV3 Norge: 27
+2 - MAX: 24
+3 - TV2 Bliss: 21
+2018/11/07 11:13:12 efficient.ChannelsViewers took 217.432µs
+4 - NRK2: 20
+5 - TV2 Norge: 20
+6 - Discovery: 19
+7 - TV2 Zebra: 19
+8 - NRK1: 19
+9 - Disney Channel: 17
+10 - TV2 Nyhet: 15
+2018/11/07 11:13:12 efficient.AverageChannelDurations took 11.756µs
+Top 10 TV Channels:
+2018/11/07 11:13:13 efficient.ChannelsViewers took 105.493µs
+1 - TV3 Norge: 28
+2 - MAX: 24
+3 - TV2 Bliss: 23
+4 - TV2 Zebra: 21
+2018/11/07 11:13:13 efficient.ChannelsViewers took 234.575µs
+5 - TV2 Norge: 21
+6 - NRK2: 20
+7 - NRK1: 20
+8 - Disney Channel: 19
+9 - Discovery: 19
+10 - TV2 Nyhet: 15
+2018/11/07 11:13:13 efficient.AverageChannelDurations took 23.446µs
+Top 10 TV Channels:
+2018/11/07 11:13:14 efficient.ChannelsViewers took 100.6µs
+2018/11/07 11:13:14 efficient.ChannelsViewers took 215.754µs
+1 - TV3 Norge: 29
+2 - MAX: 25
+3 - TV2 Bliss: 23
+4 - NRK1: 22
+5 - TV2 Zebra: 22
+6 - TV2 Norge: 21
+7 - NRK2: 20
+8 - Discovery: 20
+9 - Disney Channel: 19
+10 - TV2 Nyhet: 16
+2018/11/07 11:13:14 efficient.AverageChannelDurations took 18.136µs
+Top 10 TV Channels:
+2018/11/07 11:13:15 efficient.ChannelsViewers took 170.176µs
+2018/11/07 11:13:15 efficient.ChannelsViewers took 217.137µs
+1 - TV3 Norge: 31
+2 - MAX: 26
+3 - TV2 Bliss: 24
+4 - TV2 Norge: 24
+5 - Disney Channel: 23
+6 - NRK1: 23
+7 - TV2 Zebra: 23
+8 - Discovery: 20
+9 - NRK2: 20
+2018/11/07 11:13:15 efficient.AverageChannelDurations took 13.407µs
+10 - TV2 Nyhet: 18
+Top 10 TV Channels:
+2018/11/07 11:13:16 efficient.ChannelsViewers took 106.351µs
+1 - TV3 Norge: 31
+2 - MAX: 27
+3 - TV2 Norge: 26
+4 - NRK1: 25
+5 - TV2 Bliss: 25
+6 - Disney Channel: 23
+2018/11/07 11:13:16 efficient.ChannelsViewers took 234.968µs
+7 - NRK2: 21
+8 - Discovery: 21
+9 - TV2 Zebra: 21
+10 - TV2 Nyhet: 20
+2018/11/07 11:13:16 efficient.AverageChannelDurations took 13.507µs
+Top 10 TV Channels:
+2018/11/07 11:13:17 efficient.ChannelsViewers took 114.065µs
+1 - TV3 Norge: 33
+2 - MAX: 28
+3 - TV2 Bliss: 27
+4 - TV2 Norge: 26
+5 - NRK1: 25
+6 - TV2 Zebra: 22
+7 - Disney Channel: 22
+8 - Discovery: 22
+9 - TV2 Nyhet: 21
+10 - NRK2: 21
+2018/11/07 11:13:17 efficient.ChannelsViewers took 85.8µs
+2018/11/07 11:13:17 efficient.AverageChannelDurations took 12.993µs
+Top 10 TV Channels:
+2018/11/07 11:13:18 efficient.ChannelsViewers took 101.34µs
+1 - TV3 Norge: 35
+2 - TV2 Bliss: 30
+3 - TV2 Norge: 27
+4 - MAX: 27
+5 - NRK1: 26
+6 - NRK2: 22
+7 - TV2 Nyhet: 22
+8 - Discovery: 22
+9 - Disney Channel: 22
+2018/11/07 11:13:18 efficient.ChannelsViewers took 81.505µs
+10 - TV2 Zebra: 21
+2018/11/07 11:13:18 efficient.AverageChannelDurations took 14.259µs
+Top 10 TV Channels:
+2018/11/07 11:13:19 efficient.ChannelsViewers took 114.971µs
+2018/11/07 11:13:19 efficient.AverageChannelDurations took 14.243µs
+2018/11/07 11:13:19 efficient.ChannelsViewers took 222.781µs
+1 - TV3 Norge: 36
+2 - TV2 Bliss: 32
+3 - MAX: 28
+4 - TV2 Norge: 28
+5 - NRK1: 26
+6 - TV2 Nyhet: 24
+7 - Disney Channel: 23
+8 - Discovery: 23
+9 - TV2 Zebra: 22
+10 - NRK2: 21
+2018/11/07 11:13:20 efficient.ChannelsViewers took 100.25µs
+Top 10 TV Channels:
+2018/11/07 11:13:20 efficient.AverageChannelDurations took 16.181µs
+2018/11/07 11:13:20 efficient.ChannelsViewers took 217.859µs
+1 - TV3 Norge: 40
+2 - TV2 Bliss: 33
+3 - MAX: 29
+4 - TV2 Norge: 28
+5 - NRK1: 26
+6 - NRK2: 24
+7 - TV2 Nyhet: 24
+8 - TV2 Zebra: 24
+9 - Disney Channel: 23
+10 - Discovery: 22
+2018/11/07 11:13:21 efficient.ChannelsViewers took 111.745µs
+Top 10 TV Channels:
+2018/11/07 11:13:21 efficient.AverageChannelDurations took 15.516µs
+2018/11/07 11:13:21 efficient.ChannelsViewers took 178.681µs
+1 - TV3 Norge: 41
+2 - TV2 Bliss: 36
+3 - MAX: 31
+4 - NRK1: 28
+5 - TV2 Norge: 28
+6 - Disney Channel: 25
+7 - NRK2: 25
+8 - TV2 Zebra: 25
+9 - TV2 Nyhet: 24
+10 - TVNORGE: 21
+Top 10 TV Channels:
+2018/11/07 11:13:22 efficient.ChannelsViewers took 117.205µs
+1 - TV3 Norge: 42
+2 - TV2 Bliss: 36
+3 - MAX: 32
+4 - NRK1: 30
+2018/11/07 11:13:22 efficient.ChannelsViewers took 238.972µs
+5 - TV2 Norge: 28
+6 - TV2 Nyhet: 26
+7 - Disney Channel: 25
+8 - NRK2: 24
+9 - TV2 Zebra: 24
+10 - TVNORGE: 23
+2018/11/07 11:13:22 efficient.AverageChannelDurations took 22.203µs
+Top 10 TV Channels:
+2018/11/07 11:13:23 efficient.ChannelsViewers took 97.633µs
+1 - TV3 Norge: 43
+2 - TV2 Bliss: 35
+3 - MAX: 32
+4 - NRK1: 32
+5 - TV2 Norge: 31
+6 - Disney Channel: 27
+7 - TV2 Nyhet: 27
+8 - TVNORGE: 25
+9 - TV2 Zebra: 24
+10 - NRK2: 24
+2018/11/07 11:13:23 efficient.ChannelsViewers took 93.991µs
+2018/11/07 11:13:23 efficient.AverageChannelDurations took 16.679µs
+Top 10 TV Channels:
+2018/11/07 11:13:24 efficient.ChannelsViewers took 173.337µs
+2018/11/07 11:13:24 efficient.AverageChannelDurations took 20.772µs
+2018/11/07 11:13:24 efficient.ChannelsViewers took 213.13µs
+1 - TV3 Norge: 45
+2 - TV2 Bliss: 36
+3 - TV2 Norge: 34
+4 - MAX: 32
+5 - NRK1: 32
+6 - TV2 Nyhet: 29
+7 - Disney Channel: 27
+8 - TVNORGE: 25
+9 - TV2 Zebra: 24
+10 - NRK2: 24
+Top 10 TV Channels:
+2018/11/07 11:13:25 efficient.ChannelsViewers took 116.651µs
+1 - TV3 Norge: 45
+2 - TV2 Bliss: 38
+3 - NRK1: 34
+4 - TV2 Norge: 33
+2018/11/07 11:13:25 efficient.ChannelsViewers took 229.516µs
+5 - MAX: 32
+6 - TV2 Nyhet: 29
+7 - Disney Channel: 27
+8 - TVNORGE: 26
+9 - TV2 Zebra: 25
+10 - NRK2: 24
+2018/11/07 11:13:25 efficient.AverageChannelDurations took 16.803µs
+Top 10 TV Channels:
+2018/11/07 11:13:26 efficient.ChannelsViewers took 118.709µs
+2018/11/07 11:13:26 efficient.AverageChannelDurations took 38.63µs
+2018/11/07 11:13:26 efficient.ChannelsViewers took 376.145µs
+1 - TV3 Norge: 48
+2 - TV2 Bliss: 38
+3 - TV2 Norge: 34
+4 - MAX: 32
+5 - NRK1: 32
+6 - TV2 Nyhet: 31
+7 - Disney Channel: 28
+8 - TVNORGE: 28
+9 - NRK2: 25
+10 - TV2 Zebra: 25
+2018/11/07 11:13:27 efficient.ChannelsViewers took 115.298µs
+Top 10 TV Channels:
+2018/11/07 11:13:27 efficient.AverageChannelDurations took 17.283µs
+2018/11/07 11:13:27 efficient.ChannelsViewers took 211.322µs
+1 - TV3 Norge: 49
+2 - TV2 Bliss: 38
+3 - TV2 Norge: 36
+4 - NRK1: 33
+5 - TV2 Nyhet: 33
+6 - MAX: 30
+7 - Disney Channel: 30
+8 - TVNORGE: 29
+9 - NRK2: 25
+10 - Discovery: 25
+2018/11/07 11:13:28 efficient.ChannelsViewers took 127.171µs
+2018/11/07 11:13:28 efficient.AverageChannelDurations took 17.166µs
+Top 10 TV Channels:
+2018/11/07 11:13:28 efficient.ChannelsViewers took 94.716µs
+1 - TV3 Norge: 49
+2 - TV2 Norge: 39
+3 - TV2 Bliss: 38
+4 - TV2 Nyhet: 34
+5 - NRK1: 34
+6 - Disney Channel: 32
+7 - TVNORGE: 30
+8 - MAX: 29
+9 - NRK2: 26
+10 - TV2 Zebra: 24
+2018/11/07 11:13:29 efficient.ChannelsViewers took 121.27µs
+Top 10 TV Channels:
+2018/11/07 11:13:29 efficient.AverageChannelDurations took 15.721µs
+2018/11/07 11:13:29 efficient.ChannelsViewers took 203.563µs
+1 - TV3 Norge: 51
+2 - TV2 Norge: 39
+3 - TV2 Bliss: 38
+4 - NRK1: 35
+5 - TV2 Nyhet: 34
+6 - Disney Channel: 32
+7 - TVNORGE: 30
+8 - MAX: 28
+9 - NRK2: 26
+10 - Discovery: 26
+Top 10 TV Channels:
+2018/11/07 11:13:30 efficient.ChannelsViewers took 130.299µs
+2018/11/07 11:13:30 efficient.AverageChannelDurations took 18.617µs
+2018/11/07 11:13:30 efficient.ChannelsViewers took 229.776µs
+1 - TV3 Norge: 51
+2 - TV2 Norge: 39
+3 - NRK1: 38
+4 - TV2 Bliss: 38
+5 - TV2 Nyhet: 35
+6 - Disney Channel: 32
+7 - TVNORGE: 30
+8 - MAX: 28
+9 - Discovery: 28
+10 - NRK2: 26
+Top 10 TV Channels:
+2018/11/07 11:13:31 efficient.ChannelsViewers took 108.928µs
+2018/11/07 11:13:31 efficient.AverageChannelDurations took 23.092µs
+2018/11/07 11:13:31 efficient.ChannelsViewers took 251.379µs
+1 - TV3 Norge: 51
+2 - NRK1: 41
+3 - TV2 Norge: 40
+4 - TV2 Bliss: 38
+5 - TV2 Nyhet: 36
+6 - Disney Channel: 34
+7 - TVNORGE: 30
+8 - MAX: 29
+9 - Discovery: 27
+10 - NRK2: 26
+2018/11/07 11:13:32 efficient.ChannelsViewers took 103.925µs
+Top 10 TV Channels:
+2018/11/07 11:13:32 efficient.AverageChannelDurations took 38.16µs
+2018/11/07 11:13:32 efficient.ChannelsViewers took 242.45µs
+1 - TV3 Norge: 51
+2 - TV2 Norge: 40
+3 - NRK1: 40
+4 - TV2 Bliss: 38
+5 - TV2 Nyhet: 35
+6 - Disney Channel: 34
+7 - MAX: 31
+8 - TVNORGE: 31
+9 - NRK2: 28
+10 - Discovery: 27
+2018/11/07 11:13:33 efficient.ChannelsViewers took 110.87µs
+2018/11/07 11:13:33 efficient.AverageChannelDurations took 17.4µs
+Top 10 TV Channels:
+2018/11/07 11:13:33 efficient.ChannelsViewers took 95.648µs
+1 - TV3 Norge: 52
+2 - NRK1: 44
+3 - TV2 Norge: 40
+4 - TV2 Bliss: 38
+5 - TV2 Nyhet: 36
+6 - Disney Channel: 36
+7 - TVNORGE: 31
+8 - MAX: 31
+9 - NRK2: 29
+10 - Discovery: 27
+2018/11/07 11:13:34 efficient.ChannelsViewers took 99.384µs
+Top 10 TV Channels:
+2018/11/07 11:13:34 efficient.AverageChannelDurations took 19.486µs
+2018/11/07 11:13:34 efficient.ChannelsViewers took 207.733µs
+1 - TV3 Norge: 53
+2 - NRK1: 45
+3 - TV2 Norge: 41
+4 - TV2 Bliss: 40
+5 - Disney Channel: 37
+6 - TV2 Nyhet: 37
+7 - TVNORGE: 32
+8 - NRK2: 30
+9 - MAX: 30
+10 - Discovery: 27
+Top 10 TV Channels:
+2018/11/07 11:13:35 efficient.ChannelsViewers took 137.941µs
+2018/11/07 11:13:35 efficient.AverageChannelDurations took 19.149µs
+2018/11/07 11:13:35 efficient.ChannelsViewers took 239.651µs
+1 - TV3 Norge: 53
+2 - NRK1: 47
+3 - TV2 Norge: 41
+4 - TV2 Bliss: 40
+5 - TV2 Nyhet: 37
+6 - Disney Channel: 36
+7 - TVNORGE: 32
+8 - MAX: 30
+9 - NRK2: 30
+10 - Discovery: 27
+2018/11/07 11:13:36 efficient.ChannelsViewers took 115.468µs
+Top 10 TV Channels:
+2018/11/07 11:13:36 efficient.AverageChannelDurations took 22.095µs
+2018/11/07 11:13:36 efficient.ChannelsViewers took 193.175µs
+1 - TV3 Norge: 53
+2 - NRK1: 50
+3 - TV2 Norge: 42
+4 - TV2 Bliss: 40
+5 - TV2 Nyhet: 38
+6 - Disney Channel: 36
+7 - NRK2: 32
+8 - TVNORGE: 32
+9 - MAX: 31
+10 - Discovery: 29
+Top 10 TV Channels:
+2018/11/07 11:13:37 efficient.ChannelsViewers took 189.844µs
+2018/11/07 11:13:37 efficient.ChannelsViewers took 272.936µs
+1 - TV3 Norge: 54
+2 - NRK1: 51
+3 - TV2 Norge: 42
+4 - TV2 Nyhet: 40
+5 - TV2 Bliss: 40
+6 - Disney Channel: 36
+7 - MAX: 32
+8 - NRK2: 32
+9 - TVNORGE: 31
+10 - Discovery: 28
+2018/11/07 11:13:37 efficient.AverageChannelDurations took 19.756µs
+Top 10 TV Channels:
+2018/11/07 11:13:38 efficient.ChannelsViewers took 119.107µs
+1 - TV3 Norge: 54
+2 - NRK1: 51
+3 - TV2 Norge: 42
+4 - TV2 Nyhet: 41
+5 - TV2 Bliss: 41
+6 - Disney Channel: 36
+7 - MAX: 35
+8 - NRK2: 32
+9 - TVNORGE: 31
+10 - Discovery: 29
+2018/11/07 11:13:38 efficient.ChannelsViewers took 108.774µs
+2018/11/07 11:13:38 efficient.AverageChannelDurations took 40.275µs
+Top 10 TV Channels:
+2018/11/07 11:13:39 efficient.ChannelsViewers took 186.914µs
+2018/11/07 11:13:39 efficient.ChannelsViewers took 143.386µs
+1 - TV3 Norge: 56
+2 - NRK1: 52
+3 - TV2 Norge: 43
+4 - TV2 Bliss: 42
+5 - TV2 Nyhet: 41
+6 - MAX: 36
+7 - Disney Channel: 36
+8 - TVNORGE: 31
+9 - NRK2: 31
+10 - TV2 Zebra: 29
+2018/11/07 11:13:39 efficient.AverageChannelDurations took 23.209µs
+Top 10 TV Channels:
+2018/11/07 11:13:40 efficient.ChannelsViewers took 154.052µs
+1 - TV3 Norge: 59
+2 - NRK1: 54
+3 - TV2 Norge: 43
+4 - TV2 Bliss: 42
+5 - TV2 Nyhet: 41
+2018/11/07 11:13:40 efficient.ChannelsViewers took 320.187µs
+6 - Disney Channel: 37
+7 - MAX: 36
+8 - NRK2: 31
+9 - Discovery: 29
+10 - TVNORGE: 28
+2018/11/07 11:13:40 efficient.AverageChannelDurations took 23.717µs
+Top 10 TV Channels:
+2018/11/07 11:13:41 efficient.ChannelsViewers took 120.3µs
+1 - TV3 Norge: 59
+2 - NRK1: 56
+3 - TV2 Norge: 45
+4 - TV2 Bliss: 42
+5 - TV2 Nyhet: 42
+6 - Disney Channel: 38
+7 - MAX: 37
+8 - NRK2: 33
+9 - Discovery: 29
+10 - TVNORGE: 28
+2018/11/07 11:13:41 efficient.ChannelsViewers took 110.713µs
+2018/11/07 11:13:41 efficient.AverageChannelDurations took 23.017µs
+Top 10 TV Channels:
+2018/11/07 11:13:42 efficient.ChannelsViewers took 113.252µs
+1 - TV3 Norge: 59
+2 - NRK1: 57
+3 - TV2 Norge: 45
+4 - TV2 Bliss: 42
+5 - TV2 Nyhet: 42
+6 - Disney Channel: 38
+7 - MAX: 38
+8 - NRK2: 34
+9 - TV2 Zebra: 29
+10 - Discovery: 28
+2018/11/07 11:13:42 efficient.ChannelsViewers took 105.236µs
+2018/11/07 11:13:42 efficient.AverageChannelDurations took 36.746µs
+Top 10 TV Channels:
+2018/11/07 11:13:43 efficient.ChannelsViewers took 118.883µs
+1 - NRK1: 59
+2 - TV3 Norge: 59
+3 - TV2 Norge: 46
+4 - TV2 Bliss: 43
+5 - TV2 Nyhet: 41
+6 - Disney Channel: 38
+7 - MAX: 37
+8 - NRK2: 34
+9 - TV2 Zebra: 28
+10 - Discovery: 28
+2018/11/07 11:13:43 efficient.ChannelsViewers took 110.88µs
+2018/11/07 11:13:43 efficient.AverageChannelDurations took 22.75µs
+Top 10 TV Channels:
+2018/11/07 11:13:44 efficient.ChannelsViewers took 115.334µs
+1 - TV3 Norge: 62
+2 - NRK1: 60
+3 - TV2 Norge: 48
+4 - TV2 Bliss: 45
+5 - TV2 Nyhet: 41
+6 - Disney Channel: 38
+7 - MAX: 37
+8 - NRK2: 35
+9 - TV2 Zebra: 29
+10 - Discovery: 28
+2018/11/07 11:13:44 efficient.ChannelsViewers took 109.679µs
+2018/11/07 11:13:44 efficient.AverageChannelDurations took 20.384µs
+Top 10 TV Channels:
+2018/11/07 11:13:45 efficient.ChannelsViewers took 265.276µs
+2018/11/07 11:13:45 efficient.ChannelsViewers took 220.352µs
+1 - TV3 Norge: 63
+2 - NRK1: 61
+2018/11/07 11:13:45 efficient.AverageChannelDurations took 19.556µs
+3 - TV2 Norge: 50
+4 - TV2 Bliss: 46
+5 - TV2 Nyhet: 41
+6 - Disney Channel: 38
+7 - MAX: 37
+8 - NRK2: 36
+9 - TV2 Zebra: 29
+10 - TVNORGE: 28
+Top 10 TV Channels:
+2018/11/07 11:13:46 efficient.ChannelsViewers took 349.759µs
+2018/11/07 11:13:46 efficient.ChannelsViewers took 298.871µs
+2018/11/07 11:13:46 efficient.AverageChannelDurations took 22.881µs
+1 - NRK1: 64
+2 - TV3 Norge: 63
+3 - TV2 Norge: 51
+4 - TV2 Bliss: 47
+5 - TV2 Nyhet: 40
+6 - MAX: 38
+7 - Disney Channel: 38
+8 - NRK2: 36
+9 - TV2 Zebra: 30
+10 - TVNORGE: 28
+Top 10 TV Channels:
+2018/11/07 11:13:47 efficient.ChannelsViewers took 124.307µs
+1 - NRK1: 64
+2 - TV3 Norge: 63
+3 - TV2 Norge: 52
+4 - TV2 Bliss: 47
+5 - TV2 Nyhet: 40
+6 - MAX: 40
+7 - Disney Channel: 39
+8 - NRK2: 36
+9 - TV2 Zebra: 31
+10 - TVNORGE: 27
+2018/11/07 11:13:47 efficient.ChannelsViewers took 305.977µs
+2018/11/07 11:13:47 efficient.AverageChannelDurations took 24.124µs
+Top 10 TV Channels:
+2018/11/07 11:13:48 efficient.ChannelsViewers took 246.78µs
+2018/11/07 11:13:48 efficient.ChannelsViewers took 321.802µs
+1 - NRK1: 64
+2 - TV3 Norge: 62
+3 - TV2 Norge: 53
+4 - TV2 Bliss: 47
+5 - MAX: 42
+6 - TV2 Nyhet: 41
+7 - Disney Channel: 39
+8 - NRK2: 36
+9 - TV2 Zebra: 31
+10 - TVNORGE: 28
+2018/11/07 11:13:48 efficient.AverageChannelDurations took 21.598µs
+Top 10 TV Channels:
+2018/11/07 11:13:49 efficient.ChannelsViewers took 221.555µs
+2018/11/07 11:13:49 efficient.AverageChannelDurations took 21.678µs
+2018/11/07 11:13:49 efficient.ChannelsViewers took 205.592µs
+1 - NRK1: 65
+2 - TV3 Norge: 62
+3 - TV2 Norge: 53
+4 - TV2 Bliss: 46
+5 - MAX: 42
+6 - TV2 Nyhet: 41
+7 - Disney Channel: 39
+8 - NRK2: 36
+9 - TV2 Zebra: 32
+10 - TVNORGE: 29
+Top 10 TV Channels:
+2018/11/07 11:13:50 efficient.ChannelsViewers took 131.94µs
+1 - NRK1: 65
+2 - TV3 Norge: 64
+3 - TV2 Norge: 53
+4 - TV2 Bliss: 47
+2018/11/07 11:13:50 efficient.ChannelsViewers took 235.689µs
+5 - MAX: 42
+6 - TV2 Nyhet: 41
+7 - Disney Channel: 38
+8 - NRK2: 37
+9 - TV2 Zebra: 32
+10 - Discovery: 28
+2018/11/07 11:13:50 efficient.AverageChannelDurations took 20.976µs
+Top 10 TV Channels:
+2018/11/07 11:13:51 efficient.ChannelsViewers took 243.34µs
+2018/11/07 11:13:51 efficient.ChannelsViewers took 212.67µs
+1 - NRK1: 66
+2 - TV3 Norge: 63
+3 - TV2 Norge: 56
+4 - TV2 Bliss: 48
+5 - MAX: 43
+6 - TV2 Nyhet: 40
+7 - Disney Channel: 39
+8 - NRK2: 37
+2018/11/07 11:13:51 efficient.AverageChannelDurations took 21.067µs
+9 - TV2 Zebra: 32
+10 - TVNORGE: 29
+Top 10 TV Channels:
+2018/11/07 11:13:52 efficient.ChannelsViewers took 123.288µs
+2018/11/07 11:13:52 efficient.ChannelsViewers took 252.738µs
+1 - NRK1: 65
+2018/11/07 11:13:52 efficient.AverageChannelDurations took 22.132µs
+2 - TV3 Norge: 63
+3 - TV2 Norge: 56
+4 - TV2 Bliss: 48
+5 - MAX: 43
+6 - TV2 Nyhet: 39
+7 - Disney Channel: 39
+8 - NRK2: 36
+9 - TV2 Zebra: 32
+10 - Discovery: 28
+Top 10 TV Channels:
+2018/11/07 11:13:53 efficient.ChannelsViewers took 133.971µs
+1 - NRK1: 67
+2 - TV3 Norge: 63
+3 - TV2 Norge: 56
+4 - TV2 Bliss: 48
+5 - MAX: 44
+6 - TV2 Nyhet: 40
+7 - Disney Channel: 39
+8 - NRK2: 37
+2018/11/07 11:13:53 efficient.ChannelsViewers took 279.536µs
+9 - TV2 Zebra: 32
+10 - Viasat 4: 30
+2018/11/07 11:13:53 efficient.AverageChannelDurations took 21.371µs
+Top 10 TV Channels:
+2018/11/07 11:13:54 efficient.ChannelsViewers took 124.597µs
+1 - NRK1: 66
+2 - TV3 Norge: 64
+3 - TV2 Norge: 59
+4 - TV2 Bliss: 47
+5 - MAX: 44
+6 - TV2 Nyhet: 40
+7 - Disney Channel: 40
+2018/11/07 11:13:54 efficient.ChannelsViewers took 259.681µs
+8 - NRK2: 38
+9 - TV2 Zebra: 32
+10 - Viasat 4: 32
+2018/11/07 11:13:54 efficient.AverageChannelDurations took 22.928µs
+Top 10 TV Channels:
+2018/11/07 11:13:55 efficient.ChannelsViewers took 196.313µs
+2018/11/07 11:13:55 efficient.AverageChannelDurations took 23.191µs
+2018/11/07 11:13:55 efficient.ChannelsViewers took 467.426µs
+1 - NRK1: 68
+2 - TV3 Norge: 66
+3 - TV2 Norge: 59
+4 - TV2 Bliss: 47
+5 - MAX: 43
+6 - TV2 Nyhet: 41
+7 - Disney Channel: 40
+8 - NRK2: 39
+9 - TV2 Zebra: 32
+10 - Viasat 4: 31
+Top 10 TV Channels:
+2018/11/07 11:13:56 efficient.ChannelsViewers took 133.419µs
+1 - NRK1: 70
+2018/11/07 11:13:56 efficient.ChannelsViewers took 244.844µs
+2 - TV3 Norge: 65
+3 - TV2 Norge: 60
+4 - TV2 Bliss: 46
+5 - MAX: 43
+6 - NRK2: 41
+7 - Disney Channel: 40
+8 - TV2 Nyhet: 40
+9 - TVNORGE: 34
+10 - Viasat 4: 33
+2018/11/07 11:13:56 efficient.AverageChannelDurations took 21.468µs
+Top 10 TV Channels:
+2018/11/07 11:13:57 efficient.ChannelsViewers took 139.248µs
+2018/11/07 11:13:57 efficient.ChannelsViewers took 244.544µs
+1 - NRK1: 72
+2 - TV3 Norge: 64
+2018/11/07 11:13:57 efficient.AverageChannelDurations took 22.387µs
+3 - TV2 Norge: 61
+4 - TV2 Bliss: 46
+5 - MAX: 43
+6 - NRK2: 41
+7 - TV2 Nyhet: 41
+8 - Disney Channel: 40
+9 - Viasat 4: 34
+10 - TVNORGE: 34
+Top 10 TV Channels:
+2018/11/07 11:13:58 efficient.ChannelsViewers took 130.406µs
+1 - NRK1: 72
+2 - TV3 Norge: 66
+3 - TV2 Norge: 60
+4 - TV2 Bliss: 46
+5 - MAX: 45
+6 - NRK2: 42
+7 - TV2 Nyhet: 42
+8 - Disney Channel: 40
+9 - Viasat 4: 35
+10 - TVNORGE: 34
+2018/11/07 11:13:58 efficient.ChannelsViewers took 285.899µs
+2018/11/07 11:13:58 efficient.AverageChannelDurations took 26.217µs
+Top 10 TV Channels:
+2018/11/07 11:13:59 efficient.ChannelsViewers took 243.346µs
+2018/11/07 11:13:59 efficient.ChannelsViewers took 285.112µs
+1 - NRK1: 76
+2 - TV3 Norge: 66
+3 - TV2 Norge: 60
+4 - TV2 Bliss: 46
+5 - MAX: 46
+6 - TV2 Nyhet: 42
+7 - NRK2: 42
+8 - Disney Channel: 41
+9 - TVNORGE: 35
+10 - Viasat 4: 35
+2018/11/07 11:13:59 efficient.AverageChannelDurations took 26.998µs
+Top 10 TV Channels:
+2018/11/07 11:14:00 efficient.ChannelsViewers took 194.955µs
+2018/11/07 11:14:00 efficient.AverageChannelDurations took 21.631µs
+2018/11/07 11:14:00 efficient.ChannelsViewers took 447.596µs
+1 - NRK1: 75
+2 - TV3 Norge: 66
+3 - TV2 Norge: 62
+4 - MAX: 47
+5 - TV2 Bliss: 45
+6 - NRK2: 43
+7 - Disney Channel: 42
+8 - TV2 Nyhet: 42
+9 - TVNORGE: 35
+10 - TV2 Zebra: 34
+Top 10 TV Channels:
+2018/11/07 11:14:01 efficient.ChannelsViewers took 172.211µs
+2018/11/07 11:14:01 efficient.ChannelsViewers took 243.631µs
+1 - NRK1: 76
+2 - TV3 Norge: 65
+3 - TV2 Norge: 63
+4 - MAX: 47
+5 - TV2 Nyhet: 44
+6 - TV2 Bliss: 44
+7 - NRK2: 43
+8 - Disney Channel: 42
+2018/11/07 11:14:01 efficient.AverageChannelDurations took 21.107µs
+9 - Discovery: 35
+10 - TV2 Zebra: 35
+Top 10 TV Channels:
+2018/11/07 11:14:02 efficient.ChannelsViewers took 118.93µs
+1 - NRK1: 79
+2 - TV3 Norge: 65
+3 - TV2 Norge: 64
+4 - MAX: 47
+5 - TV2 Bliss: 45
+6 - TV2 Nyhet: 44
+7 - NRK2: 44
+8 - Disney Channel: 42
+9 - TV2 Zebra: 36
+10 - TVNORGE: 35
+2018/11/07 11:14:02 efficient.ChannelsViewers took 122.375µs
+2018/11/07 11:14:02 efficient.AverageChannelDurations took 22.042µs
+Top 10 TV Channels:
+2018/11/07 11:14:03 efficient.ChannelsViewers took 236.357µs
+1 - NRK1: 79
+2 - TV2 Norge: 66
+3 - TV3 Norge: 65
+2018/11/07 11:14:03 efficient.ChannelsViewers took 291.933µs
+4 - MAX: 48
+5 - TV2 Bliss: 46
+6 - TV2 Nyhet: 45
+7 - NRK2: 44
+8 - Disney Channel: 43
+9 - TVNORGE: 36
+10 - TV2 Zebra: 36
+2018/11/07 11:14:03 efficient.AverageChannelDurations took 22.784µs
+Top 10 TV Channels:
+2018/11/07 11:14:04 efficient.ChannelsViewers took 257.607µs
+1 - NRK1: 79
+2 - TV2 Norge: 69
+3 - TV3 Norge: 65
+4 - MAX: 48
+5 - TV2 Nyhet: 48
+6 - TV2 Bliss: 46
+7 - Disney Channel: 44
+8 - NRK2: 43
+9 - TV2 Zebra: 37
+10 - TVNORGE: 36
+2018/11/07 11:14:04 efficient.ChannelsViewers took 235.648µs
+2018/11/07 11:14:04 efficient.AverageChannelDurations took 30.974µs
+Top 10 TV Channels:
+2018/11/07 11:14:05 efficient.ChannelsViewers took 126.195µs
+1 - NRK1: 80
+2 - TV2 Norge: 70
+3 - TV3 Norge: 64
+4 - MAX: 49
+5 - TV2 Nyhet: 48
+6 - Disney Channel: 45
+7 - TV2 Bliss: 45
+8 - NRK2: 43
+9 - Viasat 4: 37
+10 - TV2 Zebra: 37
+2018/11/07 11:14:05 efficient.ChannelsViewers took 128.11µs
+2018/11/07 11:14:05 efficient.AverageChannelDurations took 27.586µs
+Top 10 TV Channels:
+2018/11/07 11:14:06 efficient.ChannelsViewers took 251.723µs
+2018/11/07 11:14:06 efficient.ChannelsViewers took 262.144µs
+1 - NRK1: 81
+2018/11/07 11:14:06 efficient.AverageChannelDurations took 28.204µs
+2 - TV2 Norge: 70
+3 - TV3 Norge: 66
+4 - MAX: 49
+5 - TV2 Nyhet: 49
+6 - Disney Channel: 47
+7 - TV2 Bliss: 45
+8 - NRK2: 44
+9 - Viasat 4: 39
+10 - TV2 Zebra: 38
+Top 10 TV Channels:
+2018/11/07 11:14:07 efficient.ChannelsViewers took 131.362µs
+1 - NRK1: 82
+2 - TV2 Norge: 69
+3 - TV3 Norge: 67
+4 - MAX: 50
+5 - TV2 Nyhet: 50
+6 - Disney Channel: 47
+7 - TV2 Bliss: 46
+8 - NRK2: 43
+9 - Viasat 4: 39
+10 - TV2 Zebra: 39
+2018/11/07 11:14:07 efficient.ChannelsViewers took 285.438µs
+2018/11/07 11:14:07 efficient.AverageChannelDurations took 22.249µs
+Top 10 TV Channels:
+2018/11/07 11:14:08 efficient.ChannelsViewers took 180.659µs
+2018/11/07 11:14:08 efficient.AverageChannelDurations took 26.701µs
+2018/11/07 11:14:08 efficient.ChannelsViewers took 404.972µs
+1 - NRK1: 82
+2 - TV2 Norge: 72
+3 - TV3 Norge: 68
+4 - MAX: 51
+5 - TV2 Nyhet: 50
+6 - Disney Channel: 48
+7 - TV2 Bliss: 46
+8 - NRK2: 42
+9 - TV2 Zebra: 39
+10 - Viasat 4: 38
+Top 10 TV Channels:
+2018/11/07 11:14:09 efficient.ChannelsViewers took 161.985µs
+2018/11/07 11:14:09 efficient.AverageChannelDurations took 24.876µs
+2018/11/07 11:14:09 efficient.ChannelsViewers took 404.909µs
+1 - NRK1: 83
+2 - TV2 Norge: 72
+3 - TV3 Norge: 68
+4 - MAX: 51
+5 - TV2 Nyhet: 49
+6 - Disney Channel: 49
+7 - TV2 Bliss: 46
+8 - NRK2: 42
+9 - Viasat 4: 41
+10 - TV2 Zebra: 40
+Top 10 TV Channels:
+2018/11/07 11:14:10 efficient.ChannelsViewers took 266.183µs
+2018/11/07 11:14:10 efficient.ChannelsViewers took 309.982µs
+2018/11/07 11:14:10 efficient.AverageChannelDurations took 23.69µs
+1 - NRK1: 84
+2 - TV2 Norge: 74
+3 - TV3 Norge: 70
+4 - MAX: 51
+5 - TV2 Nyhet: 50
+6 - Disney Channel: 49
+7 - TV2 Bliss: 46
+8 - TV2 Zebra: 41
+9 - Viasat 4: 41
+10 - NRK2: 41
+Top 10 TV Channels:
+2018/11/07 11:14:11 efficient.ChannelsViewers took 161.675µs
+2018/11/07 11:14:11 efficient.AverageChannelDurations took 27.626µs
+2018/11/07 11:14:11 efficient.ChannelsViewers took 359.802µs
+1 - NRK1: 86
+2 - TV2 Norge: 73
+3 - TV3 Norge: 71
+4 - MAX: 53
+5 - Disney Channel: 51
+6 - TV2 Nyhet: 51
+7 - TV2 Bliss: 48
+8 - TV2 Zebra: 41
+9 - Viasat 4: 40
+10 - NRK2: 40
+Top 10 TV Channels:
+2018/11/07 11:14:12 efficient.ChannelsViewers took 247.988µs
+2018/11/07 11:14:12 efficient.ChannelsViewers took 291.857µs
+2018/11/07 11:14:12 efficient.AverageChannelDurations took 27.001µs
+1 - NRK1: 87
+2 - TV2 Norge: 75
+3 - TV3 Norge: 73
+4 - MAX: 53
+5 - Disney Channel: 52
+6 - TV2 Nyhet: 50
+7 - TV2 Bliss: 48
+8 - Viasat 4: 41
+9 - NRK2: 41
+10 - TV2 Zebra: 41
+Top 10 TV Channels:
+2018/11/07 11:14:13 efficient.ChannelsViewers took 144.221µs
+1 - NRK1: 88
+2 - TV2 Norge: 75
+3 - TV3 Norge: 75
+4 - MAX: 57
+5 - Disney Channel: 54
+6 - TV2 Nyhet: 50
+7 - TV2 Bliss: 48
+8 - TV2 Zebra: 43
+9 - Viasat 4: 42
+10 - NRK2: 41
+2018/11/07 11:14:13 efficient.ChannelsViewers took 275.558µs
+2018/11/07 11:14:13 efficient.AverageChannelDurations took 46.545µs
+Top 10 TV Channels:
+2018/11/07 11:14:14 efficient.ChannelsViewers took 129.453µs
+1 - NRK1: 88
+2 - TV2 Norge: 77
+3 - TV3 Norge: 76
+4 - MAX: 57
+5 - Disney Channel: 55
+6 - TV2 Nyhet: 49
+7 - TV2 Bliss: 47
+8 - TV2 Zebra: 44
+9 - NRK2: 42
+10 - Viasat 4: 42
+2018/11/07 11:14:14 efficient.ChannelsViewers took 118.837µs
+2018/11/07 11:14:14 efficient.AverageChannelDurations took 30.511µs
+Top 10 TV Channels:
+2018/11/07 11:14:15 efficient.ChannelsViewers took 128.905µs
+1 - NRK1: 88
+2 - TV2 Norge: 78
+3 - TV3 Norge: 77
+4 - MAX: 57
+5 - Disney Channel: 55
+6 - TV2 Nyhet: 49
+7 - TV2 Bliss: 47
+8 - TV2 Zebra: 44
+9 - NRK2: 44
+10 - Viasat 4: 42
+2018/11/07 11:14:15 efficient.ChannelsViewers took 123.545µs
+2018/11/07 11:14:15 efficient.AverageChannelDurations took 25.898µs
+Top 10 TV Channels:
+2018/11/07 11:14:16 efficient.ChannelsViewers took 248.885µs
+1 - NRK1: 90
+2 - TV3 Norge: 78
+3 - TV2 Norge: 77
+4 - MAX: 57
+5 - Disney Channel: 54
+6 - TV2 Nyhet: 50
+7 - TV2 Bliss: 47
+8 - TV2 Zebra: 44
+9 - NRK2: 44
+10 - Viasat 4: 42
+2018/11/07 11:14:16 efficient.ChannelsViewers took 254.195µs
+2018/11/07 11:14:16 efficient.AverageChannelDurations took 35.613µs
+Top 10 TV Channels:
+2018/11/07 11:14:17 efficient.ChannelsViewers took 128.517µs
+1 - NRK1: 90
+2 - TV3 Norge: 79
+3 - TV2 Norge: 78
+4 - MAX: 56
+5 - Disney Channel: 54
+6 - TV2 Nyhet: 51
+7 - TV2 Bliss: 47
+8 - NRK2: 45
+9 - TV2 Zebra: 44
+10 - Viasat 4: 43
+2018/11/07 11:14:17 efficient.ChannelsViewers took 136.485µs
+2018/11/07 11:14:17 efficient.AverageChannelDurations took 28.165µs
+Top 10 TV Channels:
+2018/11/07 11:14:18 efficient.ChannelsViewers took 234.215µs
+1 - NRK1: 90
+2 - TV3 Norge: 80
+3 - TV2 Norge: 78
+4 - MAX: 59
+5 - Disney Channel: 54
+6 - TV2 Nyhet: 50
+7 - TV2 Bliss: 47
+2018/11/07 11:14:18 efficient.ChannelsViewers took 337.643µs
+8 - TV2 Zebra: 45
+9 - NRK2: 45
+10 - Viasat 4: 44
+2018/11/07 11:14:18 efficient.AverageChannelDurations took 25.284µs
+Top 10 TV Channels:
+2018/11/07 11:14:19 efficient.ChannelsViewers took 132.608µs
+1 - NRK1: 91
+2 - TV3 Norge: 80
+3 - TV2 Norge: 79
+4 - MAX: 60
+5 - Disney Channel: 55
+6 - TV2 Nyhet: 51
+7 - TV2 Bliss: 47
+8 - NRK2: 46
+9 - TV2 Zebra: 45
+10 - Viasat 4: 44
+2018/11/07 11:14:19 efficient.ChannelsViewers took 146.269µs
+2018/11/07 11:14:19 efficient.AverageChannelDurations took 24.041µs
+Top 10 TV Channels:
+2018/11/07 11:14:20 efficient.ChannelsViewers took 261.51µs
+2018/11/07 11:14:20 efficient.AverageChannelDurations took 27.987µs
+2018/11/07 11:14:20 efficient.ChannelsViewers took 242.787µs
+1 - NRK1: 92
+2 - TV3 Norge: 81
+3 - TV2 Norge: 81
+4 - MAX: 61
+5 - Disney Channel: 55
+6 - TV2 Nyhet: 51
+7 - TV2 Bliss: 46
+8 - TV2 Zebra: 45
+9 - NRK2: 45
+10 - Viasat 4: 42
+Top 10 TV Channels:
+2018/11/07 11:14:21 efficient.ChannelsViewers took 231.815µs
+2018/11/07 11:14:21 efficient.ChannelsViewers took 262.057µs
+1 - NRK1: 91
+2 - TV3 Norge: 84
+3 - TV2 Norge: 81
+4 - MAX: 62
+5 - Disney Channel: 57
+6 - TV2 Nyhet: 51
+7 - NRK2: 46
+8 - TV2 Zebra: 45
+9 - TV2 Bliss: 45
+2018/11/07 11:14:21 efficient.AverageChannelDurations took 30.551µs
+10 - Discovery: 42
+Top 10 TV Channels:
+2018/11/07 11:14:22 efficient.ChannelsViewers took 127.107µs
+1 - NRK1: 92
+2 - TV3 Norge: 85
+3 - TV2 Norge: 81
+4 - MAX: 61
+5 - Disney Channel: 58
+6 - TV2 Nyhet: 53
+7 - NRK2: 48
+8 - TV2 Zebra: 46
+9 - TV2 Bliss: 45
+10 - Discovery: 43
+2018/11/07 11:14:22 efficient.ChannelsViewers took 302.037µs
+2018/11/07 11:14:22 efficient.AverageChannelDurations took 24.966µs
+Top 10 TV Channels:
+2018/11/07 11:14:23 efficient.ChannelsViewers took 126.091µs
+1 - NRK1: 94
+2 - TV3 Norge: 87
+3 - TV2 Norge: 81
+4 - MAX: 65
+5 - Disney Channel: 58
+6 - TV2 Nyhet: 52
+7 - NRK2: 49
+8 - TV2 Zebra: 47
+9 - Viasat 4: 44
+10 - TV2 Bliss: 43
+2018/11/07 11:14:23 efficient.ChannelsViewers took 119.738µs
+2018/11/07 11:14:23 efficient.AverageChannelDurations took 25.611µs
+Top 10 TV Channels:
+2018/11/07 11:14:24 efficient.ChannelsViewers took 149.912µs
+2018/11/07 11:14:24 efficient.ChannelsViewers took 263.227µs
+1 - NRK1: 95
+2 - TV3 Norge: 86
+3 - TV2 Norge: 81
+4 - MAX: 66
+5 - Disney Channel: 59
+6 - TV2 Nyhet: 52
+7 - NRK2: 48
+8 - TV2 Zebra: 47
+2018/11/07 11:14:24 efficient.AverageChannelDurations took 25.26µs
+9 - Viasat 4: 46
+10 - Discovery: 43
+Top 10 TV Channels:
+2018/11/07 11:14:25 efficient.ChannelsViewers took 134.686µs
+2018/11/07 11:14:25 efficient.AverageChannelDurations took 27.202µs
+2018/11/07 11:14:25 efficient.ChannelsViewers took 358.305µs
+1 - NRK1: 95
+2 - TV3 Norge: 85
+3 - TV2 Norge: 85
+4 - MAX: 66
+5 - Disney Channel: 59
+6 - TV2 Nyhet: 51
+7 - TV2 Zebra: 47
+8 - NRK2: 47
+9 - Viasat 4: 46
+10 - Discovery: 43
+Top 10 TV Channels:
+2018/11/07 11:14:26 efficient.ChannelsViewers took 165.688µs
+2018/11/07 11:14:26 efficient.ChannelsViewers took 283.024µs
+1 - NRK1: 94
+2018/11/07 11:14:26 efficient.AverageChannelDurations took 24.569µs
+2 - TV2 Norge: 87
+3 - TV3 Norge: 86
+4 - MAX: 67
+5 - Disney Channel: 61
+6 - TV2 Nyhet: 51
+7 - NRK2: 48
+8 - TV2 Zebra: 48
+9 - Viasat 4: 46
+10 - TV2 Bliss: 44
+Top 10 TV Channels:
+2018/11/07 11:14:27 efficient.ChannelsViewers took 144.053µs
+1 - NRK1: 98
+2 - TV2 Norge: 89
+3 - TV3 Norge: 85
+4 - MAX: 68
+5 - Disney Channel: 63
+6 - TV2 Nyhet: 52
+7 - NRK2: 48
+8 - TV2 Zebra: 47
+9 - Viasat 4: 47
+10 - TV2 Bliss: 44
+2018/11/07 11:14:27 efficient.ChannelsViewers took 315.59µs
+2018/11/07 11:14:27 efficient.AverageChannelDurations took 25.424µs
+Top 10 TV Channels:
+2018/11/07 11:14:28 efficient.ChannelsViewers took 167.403µs
+2018/11/07 11:14:28 efficient.AverageChannelDurations took 27.637µs
+2018/11/07 11:14:28 efficient.ChannelsViewers took 435.392µs
+1 - NRK1: 98
+2 - TV2 Norge: 90
+3 - TV3 Norge: 85
+4 - MAX: 69
+5 - Disney Channel: 63
+6 - TV2 Nyhet: 54
+7 - Viasat 4: 48
+8 - NRK2: 48
+9 - TV2 Zebra: 47
+10 - Discovery: 43
+Top 10 TV Channels:
+2018/11/07 11:14:29 efficient.ChannelsViewers took 280.986µs
+2018/11/07 11:14:29 efficient.ChannelsViewers took 321.442µs
+2018/11/07 11:14:29 efficient.AverageChannelDurations took 26.2µs
+1 - NRK1: 100
+2 - TV2 Norge: 90
+3 - TV3 Norge: 86
+4 - MAX: 70
+5 - Disney Channel: 63
+6 - TV2 Nyhet: 55
+7 - Viasat 4: 50
+8 - NRK2: 48
+9 - TV2 Zebra: 47
+10 - TV2 Bliss: 44
+Top 10 TV Channels:
+2018/11/07 11:14:30 efficient.ChannelsViewers took 249.62µs
+2018/11/07 11:14:30 efficient.ChannelsViewers took 186.413µs
+1 - NRK1: 101
+2018/11/07 11:14:30 efficient.AverageChannelDurations took 24.612µs
+2 - TV2 Norge: 93
+3 - TV3 Norge: 87
+4 - MAX: 70
+5 - Disney Channel: 63
+6 - TV2 Nyhet: 55
+7 - Viasat 4: 51
+8 - NRK2: 48
+9 - TV2 Zebra: 48
+10 - TV2 Bliss: 44
+Top 10 TV Channels:
+2018/11/07 11:14:31 efficient.ChannelsViewers took 289.872µs
+2018/11/07 11:14:31 efficient.ChannelsViewers took 257.737µs
+1 - NRK1: 101
+2 - TV2 Norge: 93
+3 - TV3 Norge: 87
+2018/11/07 11:14:31 efficient.AverageChannelDurations took 25.257µs
+4 - MAX: 70
+5 - Disney Channel: 64
+6 - TV2 Nyhet: 55
+7 - Viasat 4: 52
+8 - TV2 Zebra: 50
+9 - NRK2: 48
+10 - TV2 Bliss: 45
+Top 10 TV Channels:
+2018/11/07 11:14:32 efficient.ChannelsViewers took 229.902µs
+2018/11/07 11:14:32 efficient.ChannelsViewers took 271.854µs
+2018/11/07 11:14:32 efficient.AverageChannelDurations took 47.48µs
+1 - NRK1: 101
+2 - TV2 Norge: 95
+3 - TV3 Norge: 86
+4 - MAX: 70
+5 - Disney Channel: 64
+6 - TV2 Nyhet: 56
+7 - Viasat 4: 52
+8 - TV2 Zebra: 50
+9 - NRK2: 49
+10 - TV2 Bliss: 45
+Top 10 TV Channels:
+2018/11/07 11:14:33 efficient.ChannelsViewers took 253.623µs
+2018/11/07 11:14:33 efficient.AverageChannelDurations took 25.194µs
+2018/11/07 11:14:33 efficient.ChannelsViewers took 276.857µs
+1 - NRK1: 103
+2 - TV2 Norge: 99
+3 - TV3 Norge: 85
+4 - MAX: 71
+5 - Disney Channel: 64
+6 - TV2 Nyhet: 57
+7 - NRK2: 51
+8 - Viasat 4: 51
+9 - TV2 Zebra: 50
+10 - TV2 Bliss: 46
+Top 10 TV Channels:
+2018/11/07 11:14:34 efficient.ChannelsViewers took 291.942µs
+2018/11/07 11:14:34 efficient.ChannelsViewers took 203.268µs
+1 - NRK1: 105
+2 - TV2 Norge: 100
+2018/11/07 11:14:34 efficient.AverageChannelDurations took 24.145µs
+3 - TV3 Norge: 87
+4 - MAX: 71
+5 - Disney Channel: 64
+6 - TV2 Nyhet: 58
+7 - NRK2: 51
+8 - Viasat 4: 51
+9 - TV2 Zebra: 50
+10 - TV2 Bliss: 46
+Top 10 TV Channels:
+2018/11/07 11:14:35 efficient.ChannelsViewers took 254.041µs
+2018/11/07 11:14:35 efficient.ChannelsViewers took 164.057µs
+1 - NRK1: 106
+2 - TV2 Norge: 100
+3 - TV3 Norge: 87
+4 - MAX: 70
+2018/11/07 11:14:35 efficient.AverageChannelDurations took 25.447µs
+5 - Disney Channel: 64
+6 - TV2 Nyhet: 59
+7 - NRK2: 51
+8 - TV2 Zebra: 51
+9 - Viasat 4: 51
+10 - TV2 Bliss: 46
+Top 10 TV Channels:
+2018/11/07 11:14:36 efficient.ChannelsViewers took 142.527µs
+1 - NRK1: 105
+2 - TV2 Norge: 101
+3 - TV3 Norge: 87
+4 - MAX: 70
+5 - Disney Channel: 64
+6 - TV2 Nyhet: 61
+7 - TV2 Zebra: 52
+8 - NRK2: 51
+2018/11/07 11:14:36 efficient.ChannelsViewers took 282.816µs
+9 - Viasat 4: 51
+10 - TV2 Bliss: 47
+2018/11/07 11:14:36 efficient.AverageChannelDurations took 26.461µs
+Top 10 TV Channels:
+2018/11/07 11:14:37 efficient.ChannelsViewers took 615.272µs
+2018/11/07 11:14:37 efficient.ChannelsViewers took 743.898µs
+1 - NRK1: 104
+2 - TV2 Norge: 101
+3 - TV3 Norge: 87
+4 - MAX: 70
+5 - Disney Channel: 64
+6 - TV2 Nyhet: 63
+7 - TV2 Zebra: 53
+8 - NRK2: 53
+9 - Viasat 4: 51
+10 - TV2 Bliss: 47
+2018/11/07 11:14:37 efficient.AverageChannelDurations took 72.539µs
+Top 10 TV Channels:
+2018/11/07 11:14:38 efficient.ChannelsViewers took 201.648µs
+1 - TV2 Norge: 105
+2 - NRK1: 104
+3 - TV3 Norge: 85
+4 - MAX: 70
+5 - TV2 Nyhet: 65
+6 - Disney Channel: 64
+7 - TV2 Zebra: 53
+8 - NRK2: 53
+2018/11/07 11:14:38 efficient.ChannelsViewers took 175.857µs
+9 - Viasat 4: 52
+10 - TVNORGE: 48
+2018/11/07 11:14:38 efficient.AverageChannelDurations took 29.939µs
+Top 10 TV Channels:
+2018/11/07 11:14:39 efficient.ChannelsViewers took 129.253µs
+1 - TV2 Norge: 105
+2 - NRK1: 103
+3 - TV3 Norge: 87
+4 - TV2 Nyhet: 68
+5 - MAX: 68
+6 - Disney Channel: 64
+7 - Viasat 4: 54
+8 - NRK2: 54
+9 - TV2 Zebra: 53
+10 - TVNORGE: 48
+2018/11/07 11:14:39 efficient.ChannelsViewers took 134.158µs
+2018/11/07 11:14:39 efficient.AverageChannelDurations took 27.399µs
+Top 10 TV Channels:
+2018/11/07 11:14:40 efficient.ChannelsViewers took 181.413µs
+2018/11/07 11:14:40 efficient.AverageChannelDurations took 30.477µs
+2018/11/07 11:14:40 efficient.ChannelsViewers took 450.308µs
+1 - NRK1: 105
+2 - TV2 Norge: 105
+3 - TV3 Norge: 90
+4 - TV2 Nyhet: 68
+5 - MAX: 68
+6 - Disney Channel: 63
+7 - NRK2: 54
+8 - Viasat 4: 54
+9 - TV2 Zebra: 53
+10 - TVNORGE: 47
+2018/11/07 11:14:41 efficient.ChannelsViewers took 138.75µs
+Top 10 TV Channels:
+2018/11/07 11:14:41 efficient.AverageChannelDurations took 30.036µs
+2018/11/07 11:14:41 efficient.ChannelsViewers took 221.016µs
+1 - NRK1: 105
+2 - TV2 Norge: 105
+3 - TV3 Norge: 93
+4 - TV2 Nyhet: 69
+5 - MAX: 68
+6 - Disney Channel: 63
+7 - Viasat 4: 56
+8 - NRK2: 54
+9 - TV2 Zebra: 53
+10 - TVNORGE: 48
+Top 10 TV Channels:
+2018/11/07 11:14:42 efficient.ChannelsViewers took 258.165µs
+2018/11/07 11:14:42 efficient.AverageChannelDurations took 28.619µs
+2018/11/07 11:14:42 efficient.ChannelsViewers took 248.407µs
+1 - NRK1: 105
+2 - TV2 Norge: 105
+3 - TV3 Norge: 94
+4 - TV2 Nyhet: 69
+5 - MAX: 68
+6 - Disney Channel: 62
+7 - Viasat 4: 55
+8 - TV2 Zebra: 54
+9 - NRK2: 54
+10 - TV2 Bliss: 50
+Top 10 TV Channels:
+2018/11/07 11:14:43 efficient.ChannelsViewers took 178.649µs
+1 - NRK1: 107
+2 - TV2 Norge: 105
+3 - TV3 Norge: 93
+4 - MAX: 73
+2018/11/07 11:14:43 efficient.ChannelsViewers took 299.857µs
+5 - TV2 Nyhet: 69
+6 - Disney Channel: 62
+7 - Viasat 4: 56
+8 - TV2 Zebra: 54
+9 - NRK2: 54
+10 - TVNORGE: 50
+2018/11/07 11:14:43 efficient.AverageChannelDurations took 31.282µs
+Top 10 TV Channels:
+2018/11/07 11:14:44 efficient.ChannelsViewers took 128.404µs
+1 - NRK1: 107
+2 - TV2 Norge: 105
+3 - TV3 Norge: 93
+4 - MAX: 74
+5 - TV2 Nyhet: 71
+6 - Disney Channel: 62
+7 - NRK2: 55
+8 - Viasat 4: 55
+9 - TV2 Zebra: 54
+10 - TVNORGE: 50
+2018/11/07 11:14:44 efficient.ChannelsViewers took 124.714µs
+2018/11/07 11:14:44 efficient.AverageChannelDurations took 26.115µs
+Top 10 TV Channels:
+2018/11/07 11:14:45 efficient.ChannelsViewers took 209.117µs
+1 - NRK1: 107
+2 - TV2 Norge: 105
+3 - TV3 Norge: 92
+4 - MAX: 74
+5 - TV2 Nyhet: 72
+6 - Disney Channel: 63
+7 - Viasat 4: 56
+8 - NRK2: 55
+9 - TV2 Zebra: 54
+10 - TVNORGE: 51
+2018/11/07 11:14:45 efficient.ChannelsViewers took 196.294µs
+2018/11/07 11:14:45 efficient.AverageChannelDurations took 26.183µs
+Top 10 TV Channels:
+2018/11/07 11:14:46 efficient.ChannelsViewers took 132.538µs
+1 - NRK1: 107
+2 - TV2 Norge: 107
+3 - TV3 Norge: 91
+4 - MAX: 75
+5 - TV2 Nyhet: 73
+6 - Disney Channel: 63
+7 - Viasat 4: 57
+8 - NRK2: 56
+9 - TV2 Zebra: 55
+10 - TVNORGE: 50
+2018/11/07 11:14:46 efficient.ChannelsViewers took 127.218µs
+2018/11/07 11:14:46 efficient.AverageChannelDurations took 28.034µs
+Top 10 TV Channels:
+2018/11/07 11:14:47 efficient.ChannelsViewers took 128.183µs
+1 - TV2 Norge: 106
+2 - NRK1: 106
+3 - TV3 Norge: 91
+4 - MAX: 75
+5 - TV2 Nyhet: 73
+6 - Disney Channel: 64
+7 - NRK2: 58
+8 - TV2 Zebra: 57
+9 - Viasat 4: 57
+10 - TVNORGE: 52
+2018/11/07 11:14:47 efficient.ChannelsViewers took 130.456µs
+2018/11/07 11:14:47 efficient.AverageChannelDurations took 24.525µs
+Top 10 TV Channels:
+2018/11/07 11:14:48 efficient.ChannelsViewers took 250.345µs
+1 - NRK1: 107
+2 - TV2 Norge: 107
+3 - TV3 Norge: 89
+4 - MAX: 77
+5 - TV2 Nyhet: 75
+2018/11/07 11:14:48 efficient.ChannelsViewers took 241.329µs
+6 - Disney Channel: 64
+7 - NRK2: 59
+8 - TV2 Zebra: 58
+9 - Viasat 4: 57
+10 - TVNORGE: 54
+2018/11/07 11:14:48 efficient.AverageChannelDurations took 25.822µs
+Top 10 TV Channels:
+2018/11/07 11:14:49 efficient.ChannelsViewers took 183.931µs
+2018/11/07 11:14:49 efficient.ChannelsViewers took 357.349µs
+2018/11/07 11:14:49 efficient.AverageChannelDurations took 28.352µs
+1 - NRK1: 109
+2 - TV2 Norge: 105
+3 - TV3 Norge: 89
+4 - MAX: 78
+5 - TV2 Nyhet: 76
+6 - Disney Channel: 64
+7 - Viasat 4: 60
+8 - NRK2: 60
+9 - TV2 Zebra: 57
+10 - TVNORGE: 53
+Top 10 TV Channels:
+2018/11/07 11:14:50 efficient.ChannelsViewers took 133.57µs
+2018/11/07 11:14:50 efficient.AverageChannelDurations took 26.984µs
+2018/11/07 11:14:50 efficient.ChannelsViewers took 194.179µs
+1 - NRK1: 109
+2 - TV2 Norge: 104
+3 - TV3 Norge: 87
+4 - MAX: 79
+5 - TV2 Nyhet: 77
+6 - Disney Channel: 64
+7 - NRK2: 60
+8 - Viasat 4: 59
+9 - TV2 Zebra: 57
+10 - TVNORGE: 53
+Top 10 TV Channels:
+2018/11/07 11:14:51 efficient.ChannelsViewers took 260.169µs
+2018/11/07 11:14:51 efficient.ChannelsViewers took 280.301µs
+1 - NRK1: 109
+2 - TV2 Norge: 105
+3 - TV3 Norge: 87
+4 - MAX: 80
+5 - TV2 Nyhet: 78
+6 - Disney Channel: 65
+7 - Viasat 4: 60
+8 - NRK2: 59
+9 - TV2 Zebra: 56
+2018/11/07 11:14:51 efficient.AverageChannelDurations took 32.926µs
+10 - TVNORGE: 54
+Top 10 TV Channels:
+2018/11/07 11:14:52 efficient.ChannelsViewers took 147.96µs
+2018/11/07 11:14:52 efficient.ChannelsViewers took 283.191µs
+2018/11/07 11:14:52 efficient.AverageChannelDurations took 33.184µs
+1 - NRK1: 108
+2 - TV2 Norge: 107
+3 - TV3 Norge: 87
+4 - MAX: 81
+5 - TV2 Nyhet: 78
+6 - Disney Channel: 65
+7 - Viasat 4: 61
+8 - NRK2: 58
+9 - TV2 Zebra: 56
+10 - TVNORGE: 54
+Top 10 TV Channels:
+2018/11/07 11:14:53 efficient.ChannelsViewers took 155.02µs
+1 - TV2 Norge: 109
+2 - NRK1: 105
+3 - TV3 Norge: 87
+4 - MAX: 82
+5 - TV2 Nyhet: 78
+6 - Disney Channel: 65
+7 - Viasat 4: 60
+8 - NRK2: 59
+9 - TV2 Zebra: 58
+2018/11/07 11:14:53 efficient.ChannelsViewers took 291.383µs
+10 - TVNORGE: 54
+2018/11/07 11:14:53 efficient.AverageChannelDurations took 28.408µs
+Top 10 TV Channels:
+2018/11/07 11:14:54 efficient.ChannelsViewers took 256.788µs
+2018/11/07 11:14:54 efficient.ChannelsViewers took 277.816µs
+1 - TV2 Norge: 110
+2018/11/07 11:14:54 efficient.AverageChannelDurations took 40.612µs
+2 - NRK1: 108
+3 - TV3 Norge: 87
+4 - MAX: 84
+5 - TV2 Nyhet: 79
+6 - Disney Channel: 65
+7 - Viasat 4: 62
+8 - NRK2: 59
+9 - TV2 Zebra: 59
+10 - TVNORGE: 54
+Top 10 TV Channels:
+2018/11/07 11:14:55 efficient.ChannelsViewers took 136.364µs
+2018/11/07 11:14:55 efficient.AverageChannelDurations took 25.498µs
+2018/11/07 11:14:55 efficient.ChannelsViewers took 438.127µs
+1 - TV2 Norge: 113
+2 - NRK1: 109
+3 - TV3 Norge: 86
+4 - MAX: 84
+5 - TV2 Nyhet: 79
+6 - Disney Channel: 67
+7 - Viasat 4: 64
+8 - TV2 Zebra: 60
+9 - NRK2: 59
+10 - TVNORGE: 53
+2018/11/07 11:14:56 efficient.ChannelsViewers took 147.001µs
+Top 10 TV Channels:
+2018/11/07 11:14:56 efficient.AverageChannelDurations took 45.989µs
+2018/11/07 11:14:56 efficient.ChannelsViewers took 194.405µs
+1 - TV2 Norge: 113
+2 - NRK1: 109
+3 - TV3 Norge: 87
+4 - MAX: 84
+5 - TV2 Nyhet: 77
+6 - Disney Channel: 68
+7 - Viasat 4: 65
+8 - TV2 Zebra: 61
+9 - NRK2: 59
+10 - TVNORGE: 54
+Top 10 TV Channels:
+2018/11/07 11:14:57 efficient.ChannelsViewers took 313.598µs
+2018/11/07 11:14:57 efficient.ChannelsViewers took 258.907µs
+2018/11/07 11:14:57 efficient.AverageChannelDurations took 41.933µs
+1 - TV2 Norge: 114
+2 - NRK1: 108
+3 - TV3 Norge: 86
+4 - MAX: 84
+5 - TV2 Nyhet: 77
+6 - Disney Channel: 68
+7 - Viasat 4: 65
+8 - TV2 Zebra: 62
+9 - NRK2: 60
+10 - TVNORGE: 54
+Top 10 TV Channels:
+2018/11/07 11:14:58 efficient.ChannelsViewers took 281.633µs
+2018/11/07 11:14:58 efficient.ChannelsViewers took 298.734µs
+1 - TV2 Norge: 114
+2 - NRK1: 108
+3 - TV3 Norge: 87
+4 - MAX: 86
+5 - TV2 Nyhet: 76
+6 - Disney Channel: 68
+7 - Viasat 4: 65
+8 - TV2 Zebra: 63
+9 - NRK2: 60
+10 - TVNORGE: 54
+2018/11/07 11:14:58 efficient.AverageChannelDurations took 35.817µs
+Top 10 TV Channels:
+2018/11/07 11:14:59 efficient.ChannelsViewers took 150.791µs
+1 - TV2 Norge: 115
+2 - NRK1: 109
+3 - MAX: 87
+4 - TV3 Norge: 87
+5 - TV2 Nyhet: 76
+6 - Disney Channel: 70
+7 - Viasat 4: 66
+8 - TV2 Zebra: 63
+9 - NRK2: 61
+10 - TVNORGE: 55
+2018/11/07 11:14:59 efficient.ChannelsViewers took 268.568µs
+2018/11/07 11:14:59 efficient.AverageChannelDurations took 38.637µs
+Top 10 TV Channels:
+2018/11/07 11:15:00 efficient.ChannelsViewers took 277.648µs
+1 - TV2 Norge: 114
+2 - NRK1: 111
+3 - MAX: 89
+4 - TV3 Norge: 87
+5 - TV2 Nyhet: 76
+6 - Disney Channel: 71
+2018/11/07 11:15:00 efficient.ChannelsViewers took 144.645µs
+7 - Viasat 4: 67
+8 - TV2 Zebra: 65
+9 - NRK2: 61
+10 - TVNORGE: 56
+2018/11/07 11:15:00 efficient.AverageChannelDurations took 55.951µs
+Top 10 TV Channels:
+2018/11/07 11:15:01 efficient.ChannelsViewers took 247.478µs
+1 - TV2 Norge: 114
+2 - NRK1: 111
+3 - MAX: 90
+4 - TV3 Norge: 87
+5 - TV2 Nyhet: 75
+6 - Disney Channel: 73
+7 - Viasat 4: 68
+8 - TV2 Zebra: 65
+2018/11/07 11:15:01 efficient.ChannelsViewers took 283.933µs
+9 - NRK2: 62
+10 - TVNORGE: 56
+2018/11/07 11:15:01 efficient.AverageChannelDurations took 44.452µs
+Top 10 TV Channels:
+2018/11/07 11:15:02 efficient.ChannelsViewers took 147.255µs
+1 - TV2 Norge: 116
+2 - NRK1: 113
+3 - MAX: 90
+4 - TV3 Norge: 86
+5 - TV2 Nyhet: 75
+6 - Disney Channel: 72
+7 - Viasat 4: 68
+8 - TV2 Zebra: 64
+9 - NRK2: 62
+10 - TVNORGE: 58
+2018/11/07 11:15:02 efficient.ChannelsViewers took 153.905µs
+2018/11/07 11:15:02 efficient.AverageChannelDurations took 33.708µs
+Top 10 TV Channels:
+2018/11/07 11:15:03 efficient.ChannelsViewers took 266.092µs
+1 - TV2 Norge: 116
+2 - NRK1: 115
+3 - MAX: 90
+4 - TV3 Norge: 88
+5 - TV2 Nyhet: 74
+2018/11/07 11:15:03 efficient.ChannelsViewers took 144.628µs
+6 - Disney Channel: 72
+7 - Viasat 4: 68
+8 - TV2 Zebra: 64
+9 - NRK2: 61
+10 - TVNORGE: 58
+2018/11/07 11:15:03 efficient.AverageChannelDurations took 33.792µs
+Top 10 TV Channels:
+2018/11/07 11:15:04 efficient.ChannelsViewers took 294.52µs
+1 - TV2 Norge: 117
+2 - NRK1: 115
+3 - MAX: 90
+4 - TV3 Norge: 88
+5 - TV2 Nyhet: 74
+6 - Disney Channel: 73
+2018/11/07 11:15:04 efficient.ChannelsViewers took 162.844µs
+7 - Viasat 4: 68
+8 - TV2 Zebra: 63
+9 - NRK2: 60
+10 - TVNORGE: 59
+2018/11/07 11:15:04 efficient.AverageChannelDurations took 39.877µs
+Top 10 TV Channels:
+2018/11/07 11:15:05 efficient.ChannelsViewers took 178.878µs
+2018/11/07 11:15:05 efficient.ChannelsViewers took 352.507µs
+2018/11/07 11:15:05 efficient.AverageChannelDurations took 56.363µs
+1 - TV2 Norge: 117
+2 - NRK1: 114
+3 - MAX: 92
+4 - TV3 Norge: 88
+5 - TV2 Nyhet: 75
+6 - Disney Channel: 73
+7 - Viasat 4: 68
+8 - TV2 Zebra: 63
+9 - NRK2: 61
+10 - TVNORGE: 59
+2018/11/07 11:15:06 efficient.ChannelsViewers took 148.896µs
+Top 10 TV Channels:
+2018/11/07 11:15:06 efficient.AverageChannelDurations took 33.652µs
+2018/11/07 11:15:06 efficient.ChannelsViewers took 277.985µs
+1 - TV2 Norge: 118
+2 - NRK1: 116
+3 - MAX: 92
+4 - TV3 Norge: 88
+5 - TV2 Nyhet: 74
+6 - Disney Channel: 74
+7 - Viasat 4: 66
+8 - TV2 Zebra: 65
+9 - NRK2: 61
+10 - TVNORGE: 60
+2018/11/07 11:15:07 efficient.ChannelsViewers took 145.494µs
+Top 10 TV Channels:
+2018/11/07 11:15:07 efficient.AverageChannelDurations took 40.375µs
+2018/11/07 11:15:07 efficient.ChannelsViewers took 197.454µs
+1 - NRK1: 119
+2 - TV2 Norge: 116
+3 - MAX: 93
+4 - TV3 Norge: 89
+5 - Disney Channel: 73
+6 - TV2 Nyhet: 72
+7 - Viasat 4: 68
+8 - TV2 Zebra: 65
+9 - NRK2: 60
+10 - TVNORGE: 59
+Top 10 TV Channels:
+2018/11/07 11:15:08 efficient.ChannelsViewers took 245.135µs
+1 - NRK1: 121
+2 - TV2 Norge: 117
+3 - MAX: 94
+4 - TV3 Norge: 88
+5 - Disney Channel: 75
+6 - TV2 Nyhet: 73
+2018/11/07 11:15:08 efficient.ChannelsViewers took 394.08µs
+7 - Viasat 4: 70
+8 - TV2 Zebra: 66
+9 - NRK2: 61
+10 - TVNORGE: 59
+2018/11/07 11:15:08 efficient.AverageChannelDurations took 33.207µs
+Top 10 TV Channels:
+2018/11/07 11:15:09 efficient.ChannelsViewers took 146.142µs
+1 - NRK1: 122
+2 - TV2 Norge: 117
+3 - MAX: 95
+4 - TV3 Norge: 90
+5 - Disney Channel: 75
+6 - TV2 Nyhet: 72
+7 - Viasat 4: 69
+8 - TV2 Zebra: 66
+9 - NRK2: 62
+10 - TVNORGE: 59
+2018/11/07 11:15:09 efficient.ChannelsViewers took 140.545µs
+2018/11/07 11:15:09 efficient.AverageChannelDurations took 30.34µs
+Top 10 TV Channels:
+2018/11/07 11:15:10 efficient.ChannelsViewers took 279.329µs
+2018/11/07 11:15:10 efficient.ChannelsViewers took 301.143µs
+2018/11/07 11:15:10 efficient.AverageChannelDurations took 49.572µs
+1 - NRK1: 123
+2 - TV2 Norge: 119
+3 - MAX: 94
+4 - TV3 Norge: 92
+5 - Disney Channel: 73
+6 - TV2 Nyhet: 72
+7 - Viasat 4: 69
+8 - TV2 Zebra: 66
+9 - NRK2: 63
+10 - TVNORGE: 60
+Top 10 TV Channels:
+2018/11/07 11:15:11 efficient.ChannelsViewers took 157.13µs
+2018/11/07 11:15:11 efficient.AverageChannelDurations took 40.168µs
+2018/11/07 11:15:11 efficient.ChannelsViewers took 256.06µs
+1 - NRK1: 124
+2 - TV2 Norge: 120
+3 - MAX: 95
+4 - TV3 Norge: 93
+5 - TV2 Nyhet: 73
+6 - Disney Channel: 71
+7 - Viasat 4: 69
+8 - TV2 Zebra: 66
+9 - NRK2: 63
+10 - TVNORGE: 61
+2018/11/07 11:15:12 efficient.ChannelsViewers took 165.913µs
+Top 10 TV Channels:
+2018/11/07 11:15:12 efficient.AverageChannelDurations took 39.847µs
+2018/11/07 11:15:12 efficient.ChannelsViewers took 230.11µs
+1 - NRK1: 126
+2 - TV2 Norge: 120
+3 - MAX: 96
+4 - TV3 Norge: 95
+5 - TV2 Nyhet: 74
+6 - Viasat 4: 71
+7 - Disney Channel: 70
+8 - TV2 Zebra: 66
+9 - NRK2: 64
+10 - TVNORGE: 60
+Top 10 TV Channels:
+2018/11/07 11:15:13 efficient.ChannelsViewers took 176.071µs
+1 - NRK1: 130
+2 - TV2 Norge: 121
+3 - MAX: 99
+4 - TV3 Norge: 94
+5 - TV2 Nyhet: 74
+6 - Viasat 4: 71
+7 - Disney Channel: 70
+8 - TV2 Zebra: 66
+9 - NRK2: 64
+10 - TVNORGE: 59
+2018/11/07 11:15:13 efficient.ChannelsViewers took 346.878µs
+2018/11/07 11:15:13 efficient.AverageChannelDurations took 36.783µs
+Top 10 TV Channels:
+2018/11/07 11:15:14 efficient.ChannelsViewers took 135.121µs
+2018/11/07 11:15:14 efficient.ChannelsViewers took 298.06µs
+1 - NRK1: 130
+2 - TV2 Norge: 122
+3 - MAX: 99
+4 - TV3 Norge: 93
+2018/11/07 11:15:14 efficient.AverageChannelDurations took 37.769µs
+5 - TV2 Nyhet: 76
+6 - Viasat 4: 73
+7 - Disney Channel: 69
+8 - TV2 Zebra: 66
+9 - NRK2: 64
+10 - TVNORGE: 60
+Top 10 TV Channels:
+2018/11/07 11:15:15 efficient.ChannelsViewers took 276.457µs
+2018/11/07 11:15:15 efficient.ChannelsViewers took 279.919µs
+2018/11/07 11:15:15 efficient.AverageChannelDurations took 50.979µs
+1 - NRK1: 130
+2 - TV2 Norge: 122
+3 - MAX: 99
+4 - TV3 Norge: 93
+5 - TV2 Nyhet: 76
+6 - Viasat 4: 73
+7 - Disney Channel: 69
+8 - TV2 Zebra: 66
+9 - NRK2: 65
+10 - TVNORGE: 61
+Top 10 TV Channels:
+2018/11/07 11:15:16 efficient.ChannelsViewers took 183.583µs
+2018/11/07 11:15:16 efficient.ChannelsViewers took 291.352µs
+1 - NRK1: 130
+2 - TV2 Norge: 123
+3 - MAX: 99
+4 - TV3 Norge: 94
+5 - TV2 Nyhet: 76
+6 - Viasat 4: 76
+7 - Disney Channel: 68
+8 - TV2 Zebra: 66
+9 - NRK2: 65
+10 - TVNORGE: 64
+2018/11/07 11:15:16 efficient.AverageChannelDurations took 30.821µs
+Top 10 TV Channels:
+2018/11/07 11:15:17 efficient.ChannelsViewers took 258.977µs
+1 - NRK1: 133
+2 - TV2 Norge: 125
+3 - MAX: 100
+4 - TV3 Norge: 94
+5 - TV2 Nyhet: 77
+6 - Viasat 4: 75
+7 - Disney Channel: 70
+2018/11/07 11:15:17 efficient.ChannelsViewers took 313.03µs
+8 - NRK2: 68
+9 - TV2 Zebra: 65
+10 - TVNORGE: 63
+2018/11/07 11:15:17 efficient.AverageChannelDurations took 34.247µs
+Top 10 TV Channels:
+2018/11/07 11:15:18 efficient.ChannelsViewers took 140.966µs
+1 - NRK1: 134
+2 - TV2 Norge: 127
+3 - MAX: 102
+4 - TV3 Norge: 94
+5 - Viasat 4: 77
+6 - TV2 Nyhet: 77
+7 - Disney Channel: 70
+8 - NRK2: 68
+9 - TV2 Zebra: 65
+10 - TVNORGE: 63
+2018/11/07 11:15:18 efficient.ChannelsViewers took 135.897µs
+2018/11/07 11:15:18 efficient.AverageChannelDurations took 32.288µs
+Top 10 TV Channels:
+2018/11/07 11:15:19 efficient.ChannelsViewers took 174.166µs
+2018/11/07 11:15:19 efficient.ChannelsViewers took 283.358µs
+1 - NRK1: 129
+2 - TV2 Norge: 126
+3 - MAX: 103
+4 - TV3 Norge: 95
+5 - Viasat 4: 77
+6 - TV2 Nyhet: 77
+7 - NRK2: 70
+8 - Disney Channel: 70
+9 - TV2 Zebra: 65
+10 - TVNORGE: 61
+2018/11/07 11:15:19 efficient.AverageChannelDurations took 30.908µs
+Top 10 TV Channels:
+2018/11/07 11:15:20 efficient.ChannelsViewers took 172.272µs
+2018/11/07 11:15:20 efficient.AverageChannelDurations took 34.006µs
+2018/11/07 11:15:20 efficient.ChannelsViewers took 461.236µs
+1 - NRK1: 131
+2 - TV2 Norge: 127
+3 - MAX: 105
+4 - TV3 Norge: 94
+5 - TV2 Nyhet: 80
+6 - Viasat 4: 77
+7 - NRK2: 71
+8 - Disney Channel: 70
+9 - TV2 Zebra: 64
+10 - TVNORGE: 63
+Top 10 TV Channels:
+2018/11/07 11:15:21 efficient.ChannelsViewers took 269.675µs
+1 - NRK1: 132
+2 - TV2 Norge: 127
+3 - MAX: 104
+4 - TV3 Norge: 96
+5 - TV2 Nyhet: 82
+6 - Viasat 4: 79
+7 - NRK2: 74
+8 - Disney Channel: 72
+9 - TV2 Zebra: 64
+10 - TVNORGE: 62
+2018/11/07 11:15:21 efficient.ChannelsViewers took 291.14µs
+2018/11/07 11:15:21 efficient.AverageChannelDurations took 39.56µs
+Top 10 TV Channels:
+2018/11/07 11:15:22 efficient.ChannelsViewers took 228.646µs
+1 - NRK1: 133
+2 - TV2 Norge: 129
+3 - MAX: 104
+4 - TV3 Norge: 97
+5 - TV2 Nyhet: 80
+6 - Viasat 4: 79
+7 - NRK2: 76
+8 - Disney Channel: 73
+9 - TV2 Zebra: 66
+10 - TVNORGE: 63
+2018/11/07 11:15:22 efficient.ChannelsViewers took 211.876µs
+2018/11/07 11:15:22 efficient.AverageChannelDurations took 37.334µs
+Top 10 TV Channels:
+2018/11/07 11:15:23 efficient.ChannelsViewers took 140.668µs
+1 - NRK1: 133
+2 - TV2 Norge: 130
+3 - MAX: 104
+4 - TV3 Norge: 96
+5 - TV2 Nyhet: 80
+6 - NRK2: 79
+7 - Viasat 4: 78
+8 - Disney Channel: 73
+9 - TV2 Zebra: 67
+10 - TVNORGE: 63
+2018/11/07 11:15:23 efficient.ChannelsViewers took 137.283µs
+2018/11/07 11:15:23 efficient.AverageChannelDurations took 34.116µs
+Top 10 TV Channels:
+2018/11/07 11:15:24 efficient.ChannelsViewers took 293.03µs
+2018/11/07 11:15:24 efficient.ChannelsViewers took 173.858µs
+1 - NRK1: 133
+2 - TV2 Norge: 130
+3 - MAX: 104
+4 - TV3 Norge: 96
+5 - TV2 Nyhet: 81
+6 - NRK2: 81
+7 - Viasat 4: 78
+8 - Disney Channel: 74
+9 - TV2 Zebra: 65
+2018/11/07 11:15:24 efficient.AverageChannelDurations took 30.14µs
+10 - TVNORGE: 62
+Top 10 TV Channels:
+2018/11/07 11:15:25 efficient.ChannelsViewers took 275.499µs
+2018/11/07 11:15:25 efficient.ChannelsViewers took 362.52µs
+2018/11/07 11:15:25 efficient.AverageChannelDurations took 31.179µs
+1 - NRK1: 132
+2 - TV2 Norge: 132
+3 - MAX: 103
+4 - TV3 Norge: 97
+5 - NRK2: 82
+6 - TV2 Nyhet: 81
+7 - Viasat 4: 78
+8 - Disney Channel: 74
+9 - TV2 Zebra: 64
+10 - TVNORGE: 61
+Top 10 TV Channels:
+2018/11/07 11:15:26 efficient.ChannelsViewers took 142.934µs
+2018/11/07 11:15:26 efficient.AverageChannelDurations took 30.553µs
+2018/11/07 11:15:26 efficient.ChannelsViewers took 231.436µs
+1 - NRK1: 133
+2 - TV2 Norge: 131
+3 - MAX: 102
+4 - TV3 Norge: 98
+5 - NRK2: 82
+6 - TV2 Nyhet: 81
+7 - Viasat 4: 79
+8 - Disney Channel: 73
+9 - TV2 Zebra: 67
+10 - TVNORGE: 60
+Top 10 TV Channels:
+2018/11/07 11:15:27 efficient.ChannelsViewers took 314.915µs
+2018/11/07 11:15:27 efficient.ChannelsViewers took 278.259µs
+1 - NRK1: 132
+2 - TV2 Norge: 131
+3 - MAX: 102
+4 - TV3 Norge: 98
+2018/11/07 11:15:27 efficient.AverageChannelDurations took 28.496µs
+5 - NRK2: 83
+6 - TV2 Nyhet: 81
+7 - Viasat 4: 81
+8 - Disney Channel: 72
+9 - TV2 Zebra: 67
+10 - TVNORGE: 61
+Top 10 TV Channels:
+2018/11/07 11:15:28 efficient.ChannelsViewers took 217.952µs
+2018/11/07 11:15:28 efficient.ChannelsViewers took 280.121µs
+1 - TV2 Norge: 134
+2 - NRK1: 132
+3 - MAX: 103
+4 - TV3 Norge: 98
+5 - NRK2: 82
+6 - TV2 Nyhet: 81
+7 - Viasat 4: 81
+8 - Disney Channel: 72
+9 - TV2 Zebra: 67
+10 - TVNORGE: 61
+2018/11/07 11:15:28 efficient.AverageChannelDurations took 32.99µs
+Top 10 TV Channels:
+2018/11/07 11:15:29 efficient.ChannelsViewers took 272.142µs
+2018/11/07 11:15:29 efficient.ChannelsViewers took 259.582µs
+1 - TV2 Norge: 134
+2 - NRK1: 133
+3 - MAX: 101
+4 - TV3 Norge: 98
+5 - NRK2: 84
+6 - TV2 Nyhet: 82
+7 - Viasat 4: 82
+8 - Disney Channel: 72
+9 - TV2 Zebra: 69
+10 - TVNORGE: 61
+2018/11/07 11:15:29 efficient.AverageChannelDurations took 31.359µs
+Top 10 TV Channels:
+2018/11/07 11:15:30 efficient.ChannelsViewers took 207.607µs
+2018/11/07 11:15:30 efficient.ChannelsViewers took 290.526µs
+1 - TV2 Norge: 135
+2018/11/07 11:15:30 efficient.AverageChannelDurations took 29.488µs
+2 - NRK1: 133
+3 - MAX: 99
+4 - TV3 Norge: 98
+5 - NRK2: 85
+6 - TV2 Nyhet: 82
+7 - Viasat 4: 81
+8 - Disney Channel: 73
+9 - TV2 Zebra: 69
+10 - TVNORGE: 61
+Top 10 TV Channels:
+2018/11/07 11:15:31 efficient.ChannelsViewers took 148.09µs
+2018/11/07 11:15:31 efficient.AverageChannelDurations took 33.354µs
+2018/11/07 11:15:31 efficient.ChannelsViewers took 433.266µs
+1 - NRK1: 137
+2 - TV2 Norge: 136
+3 - TV3 Norge: 99
+4 - MAX: 99
+5 - NRK2: 87
+6 - TV2 Nyhet: 83
+7 - Viasat 4: 81
+8 - Disney Channel: 74
+9 - TV2 Zebra: 69
+10 - TVNORGE: 60
+Top 10 TV Channels:
+2018/11/07 11:15:32 efficient.ChannelsViewers took 275.857µs
+2018/11/07 11:15:32 efficient.ChannelsViewers took 210.742µs
+2018/11/07 11:15:32 efficient.AverageChannelDurations took 31.984µs
+1 - NRK1: 138
+2 - TV2 Norge: 136
+3 - TV3 Norge: 100
+4 - MAX: 97
+5 - NRK2: 87
+6 - TV2 Nyhet: 84
+7 - Viasat 4: 80
+8 - Disney Channel: 74
+9 - TV2 Zebra: 69
+10 - TVNORGE: 61
+Top 10 TV Channels:
+2018/11/07 11:15:33 efficient.ChannelsViewers took 188.84µs
+2018/11/07 11:15:33 efficient.ChannelsViewers took 298.339µs
+1 - NRK1: 139
+2 - TV2 Norge: 137
+3 - TV3 Norge: 103
+4 - MAX: 96
+5 - NRK2: 87
+6 - TV2 Nyhet: 85
+7 - Viasat 4: 82
+8 - Disney Channel: 74
+9 - TV2 Zebra: 69
+10 - TVNORGE: 61
+2018/11/07 11:15:33 efficient.AverageChannelDurations took 34.253µs
+Top 10 TV Channels:
+2018/11/07 11:15:34 efficient.ChannelsViewers took 255.908µs
+2018/11/07 11:15:34 efficient.ChannelsViewers took 220.961µs
+1 - NRK1: 141
+2 - TV2 Norge: 138
+3 - TV3 Norge: 105
+4 - MAX: 96
+5 - NRK2: 87
+6 - TV2 Nyhet: 87
+7 - Viasat 4: 82
+8 - Disney Channel: 74
+9 - TV2 Zebra: 69
+10 - TVNORGE: 61
+2018/11/07 11:15:34 efficient.AverageChannelDurations took 33.922µs
+Top 10 TV Channels:
+2018/11/07 11:15:35 efficient.ChannelsViewers took 260.405µs
+1 - NRK1: 142
+2018/11/07 11:15:35 efficient.ChannelsViewers took 272.047µs
+2 - TV2 Norge: 138
+3 - TV3 Norge: 105
+4 - MAX: 97
+5 - TV2 Nyhet: 87
+6 - NRK2: 87
+7 - Viasat 4: 83
+8 - Disney Channel: 74
+9 - TV2 Zebra: 69
+10 - TVNORGE: 60
+2018/11/07 11:15:35 efficient.AverageChannelDurations took 37.929µs
+Top 10 TV Channels:
+2018/11/07 11:15:36 efficient.ChannelsViewers took 276.036µs
+2018/11/07 11:15:36 efficient.ChannelsViewers took 298.443µs
+1 - NRK1: 146
+2 - TV2 Norge: 139
+3 - TV3 Norge: 105
+4 - MAX: 98
+2018/11/07 11:15:36 efficient.AverageChannelDurations took 29.812µs
+5 - NRK2: 88
+6 - TV2 Nyhet: 87
+7 - Viasat 4: 83
+8 - Disney Channel: 74
+9 - TV2 Zebra: 69
+10 - TVNORGE: 59
+Top 10 TV Channels:
+2018/11/07 11:15:37 efficient.ChannelsViewers took 245.366µs
+2018/11/07 11:15:37 efficient.ChannelsViewers took 292.158µs
+1 - NRK1: 147
+2 - TV2 Norge: 139
+3 - TV3 Norge: 105
+4 - MAX: 99
+5 - TV2 Nyhet: 87
+6 - NRK2: 87
+7 - Viasat 4: 85
+8 - Disney Channel: 74
+9 - TV2 Zebra: 68
+2018/11/07 11:15:37 efficient.AverageChannelDurations took 32.772µs
+10 - TVNORGE: 59
+Top 10 TV Channels:
+2018/11/07 11:15:38 efficient.ChannelsViewers took 157.592µs
+1 - NRK1: 148
+2 - TV2 Norge: 139
+3 - TV3 Norge: 104
+4 - MAX: 100
+5 - TV2 Nyhet: 89
+6 - NRK2: 88
+7 - Viasat 4: 85
+8 - Disney Channel: 75
+2018/11/07 11:15:38 efficient.ChannelsViewers took 306.257µs
+9 - TV2 Zebra: 69
+10 - TVNORGE: 59
+2018/11/07 11:15:38 efficient.AverageChannelDurations took 35.883µs
+Top 10 TV Channels:
+2018/11/07 11:15:39 efficient.ChannelsViewers took 264.222µs
+2018/11/07 11:15:39 efficient.ChannelsViewers took 154.246µs
+1 - NRK1: 148
+2 - TV2 Norge: 141
+3 - TV3 Norge: 103
+4 - MAX: 99
+5 - TV2 Nyhet: 90
+6 - NRK2: 89
+7 - Viasat 4: 87
+8 - Disney Channel: 76
+2018/11/07 11:15:39 efficient.AverageChannelDurations took 28.896µs
+9 - TV2 Zebra: 70
+10 - Discovery: 60
+Top 10 TV Channels:
+2018/11/07 11:15:40 efficient.ChannelsViewers took 173.749µs
+1 - NRK1: 145
+2 - TV2 Norge: 144
+3 - TV3 Norge: 104
+4 - MAX: 101
+5 - TV2 Nyhet: 91
+6 - NRK2: 90
+7 - Viasat 4: 85
+8 - Disney Channel: 75
+9 - TV2 Zebra: 70
+2018/11/07 11:15:40 efficient.ChannelsViewers took 304.383µs
+10 - TVNORGE: 60
+2018/11/07 11:15:40 efficient.AverageChannelDurations took 29.331µs
+Top 10 TV Channels:
+2018/11/07 11:15:41 efficient.ChannelsViewers took 147.509µs
+1 - TV2 Norge: 145
+2 - NRK1: 144
+3 - TV3 Norge: 105
+4 - MAX: 98
+5 - TV2 Nyhet: 93
+6 - NRK2: 90
+7 - Viasat 4: 85
+8 - Disney Channel: 76
+9 - TV2 Zebra: 71
+10 - Discovery: 62
+2018/11/07 11:15:41 efficient.ChannelsViewers took 131.893µs
+2018/11/07 11:15:41 efficient.AverageChannelDurations took 31.156µs
+Top 10 TV Channels:
+2018/11/07 11:15:42 efficient.ChannelsViewers took 265.734µs
+1 - TV2 Norge: 148
+2 - NRK1: 143
+3 - TV3 Norge: 106
+4 - MAX: 97
+5 - TV2 Nyhet: 94
+6 - NRK2: 89
+7 - Viasat 4: 85
+8 - Disney Channel: 76
+9 - TV2 Zebra: 71
+2018/11/07 11:15:42 efficient.ChannelsViewers took 303.226µs
+10 - Discovery: 63
+2018/11/07 11:15:42 efficient.AverageChannelDurations took 31.654µs
+Top 10 TV Channels:
+2018/11/07 11:15:43 efficient.ChannelsViewers took 146.6µs
+1 - TV2 Norge: 148
+2 - NRK1: 148
+3 - TV3 Norge: 107
+4 - MAX: 98
+5 - TV2 Nyhet: 96
+6 - NRK2: 90
+7 - Viasat 4: 84
+8 - Disney Channel: 76
+9 - TV2 Zebra: 71
+10 - Discovery: 64
+2018/11/07 11:15:43 efficient.ChannelsViewers took 136.922µs
+2018/11/07 11:15:43 efficient.AverageChannelDurations took 29.554µs
+Top 10 TV Channels:
+2018/11/07 11:15:44 efficient.ChannelsViewers took 154.065µs
+1 - NRK1: 150
+2 - TV2 Norge: 148
+3 - TV3 Norge: 106
+4 - MAX: 98
+5 - TV2 Nyhet: 96
+6 - NRK2: 90
+7 - Viasat 4: 85
+8 - Disney Channel: 77
+9 - TV2 Zebra: 71
+10 - Discovery: 64
+2018/11/07 11:15:44 efficient.ChannelsViewers took 143.475µs
+2018/11/07 11:15:44 efficient.AverageChannelDurations took 32.194µs
+Top 10 TV Channels:
+2018/11/07 11:15:45 efficient.ChannelsViewers took 258.03µs
+2018/11/07 11:15:45 efficient.AverageChannelDurations took 33.885µs
+2018/11/07 11:15:45 efficient.ChannelsViewers took 504.174µs
+1 - NRK1: 150
+2 - TV2 Norge: 150
+3 - TV3 Norge: 106
+4 - MAX: 98
+5 - TV2 Nyhet: 97
+6 - NRK2: 89
+7 - Viasat 4: 86
+8 - Disney Channel: 76
+9 - TV2 Zebra: 71
+10 - Discovery: 64
+Top 10 TV Channels:
+2018/11/07 11:15:46 efficient.ChannelsViewers took 172.055µs
+1 - TV2 Norge: 152
+2 - NRK1: 150
+3 - TV3 Norge: 105
+4 - MAX: 98
+2018/11/07 11:15:46 efficient.ChannelsViewers took 287.519µs
+5 - TV2 Nyhet: 97
+6 - NRK2: 88
+7 - Viasat 4: 87
+8 - Disney Channel: 77
+9 - TV2 Zebra: 71
+10 - Discovery: 67
+2018/11/07 11:15:46 efficient.AverageChannelDurations took 32.161µs
+Top 10 TV Channels:
+2018/11/07 11:15:47 efficient.ChannelsViewers took 279.506µs
+1 - TV2 Norge: 152
+2 - NRK1: 151
+3 - TV3 Norge: 105
+4 - MAX: 98
+5 - TV2 Nyhet: 97
+2018/11/07 11:15:47 efficient.ChannelsViewers took 141.06µs
+6 - NRK2: 88
+7 - Viasat 4: 86
+8 - Disney Channel: 76
+9 - TV2 Zebra: 71
+10 - Discovery: 67
+2018/11/07 11:15:47 efficient.AverageChannelDurations took 30.984µs
+Top 10 TV Channels:
+2018/11/07 11:15:48 efficient.ChannelsViewers took 295.613µs
+2018/11/07 11:15:48 efficient.AverageChannelDurations took 34.727µs
+2018/11/07 11:15:48 efficient.ChannelsViewers took 222.16µs
+1 - TV2 Norge: 153
+2 - NRK1: 151
+3 - TV3 Norge: 107
+4 - TV2 Nyhet: 99
+5 - MAX: 98
+6 - NRK2: 86
+7 - Viasat 4: 86
+8 - Disney Channel: 77
+9 - TV2 Zebra: 70
+10 - Discovery: 67
+Top 10 TV Channels:
+2018/11/07 11:15:49 efficient.ChannelsViewers took 152.779µs
+2018/11/07 11:15:49 efficient.ChannelsViewers took 139.733µs
+2018/11/07 11:15:49 efficient.AverageChannelDurations took 39.713µs
+1 - TV2 Norge: 154
+2 - NRK1: 153
+3 - TV3 Norge: 107
+4 - TV2 Nyhet: 100
+5 - MAX: 98
+6 - Viasat 4: 86
+7 - NRK2: 86
+8 - Disney Channel: 78
+9 - TV2 Zebra: 71
+10 - Discovery: 68
+Top 10 TV Channels:
+2018/11/07 11:15:50 efficient.ChannelsViewers took 261.753µs
+2018/11/07 11:15:50 efficient.AverageChannelDurations took 40.272µs
+2018/11/07 11:15:50 efficient.ChannelsViewers took 166.838µs
+1 - TV2 Norge: 154
+2 - NRK1: 153
+3 - TV3 Norge: 107
+4 - TV2 Nyhet: 103
+5 - MAX: 98
+6 - Viasat 4: 89
+7 - NRK2: 86
+8 - Disney Channel: 79
+9 - TV2 Zebra: 69
+10 - FEM: 67
+Top 10 TV Channels:
+2018/11/07 11:15:51 efficient.ChannelsViewers took 304.352µs
+2018/11/07 11:15:51 efficient.ChannelsViewers took 356.274µs
+2018/11/07 11:15:51 efficient.AverageChannelDurations took 31.553µs
+1 - NRK1: 155
+2 - TV2 Norge: 154
+3 - TV3 Norge: 106
+4 - TV2 Nyhet: 104
+5 - MAX: 99
+6 - Viasat 4: 90
+7 - NRK2: 86
+8 - Disney Channel: 79
+9 - TVNORGE: 68
+10 - FEM: 68
+Top 10 TV Channels:
+2018/11/07 11:15:52 efficient.ChannelsViewers took 260.051µs
+2018/11/07 11:15:52 efficient.ChannelsViewers took 200.262µs
+2018/11/07 11:15:52 efficient.AverageChannelDurations took 37.726µs
+1 - NRK1: 157
+2 - TV2 Norge: 155
+3 - TV3 Norge: 105
+4 - TV2 Nyhet: 102
+5 - MAX: 101
+6 - Viasat 4: 91
+7 - NRK2: 88
+8 - Disney Channel: 79
+9 - TV2 Zebra: 69
+10 - FEM: 68
+Top 10 TV Channels:
+2018/11/07 11:15:53 efficient.ChannelsViewers took 271.274µs
+2018/11/07 11:15:53 efficient.AverageChannelDurations took 34.233µs
+2018/11/07 11:15:53 efficient.ChannelsViewers took 178.163µs
+1 - NRK1: 160
+2 - TV2 Norge: 158
+3 - TV3 Norge: 105
+4 - TV2 Nyhet: 103
+5 - MAX: 101
+6 - Viasat 4: 92
+7 - NRK2: 87
+8 - Disney Channel: 80
+9 - TV2 Zebra: 69
+10 - TVNORGE: 68
+Top 10 TV Channels:
+2018/11/07 11:15:54 efficient.ChannelsViewers took 297.476µs
+2018/11/07 11:15:54 efficient.ChannelsViewers took 199.948µs
+2018/11/07 11:15:54 efficient.AverageChannelDurations took 38.397µs
+1 - NRK1: 161
+2 - TV2 Norge: 160
+3 - TV3 Norge: 106
+4 - TV2 Nyhet: 104
+5 - MAX: 101
+6 - Viasat 4: 92
+7 - NRK2: 87
+8 - Disney Channel: 80
+9 - TVNORGE: 70
+10 - TV2 Zebra: 69
+2018/11/07 11:15:55 efficient.ChannelsViewers took 139.656µs
+Top 10 TV Channels:
+2018/11/07 11:15:55 efficient.AverageChannelDurations took 31.844µs
+2018/11/07 11:15:55 efficient.ChannelsViewers took 238.971µs
+1 - NRK1: 163
+2 - TV2 Norge: 163
+3 - TV3 Norge: 106
+4 - TV2 Nyhet: 103
+5 - MAX: 102
+6 - Viasat 4: 93
+7 - NRK2: 88
+8 - Disney Channel: 80
+9 - TVNORGE: 72
+10 - FEM: 69
+Top 10 TV Channels:
+2018/11/07 11:15:56 efficient.ChannelsViewers took 259.298µs
+2018/11/07 11:15:56 efficient.ChannelsViewers took 321.495µs
+1 - TV2 Norge: 165
+2 - NRK1: 163
+3 - TV3 Norge: 106
+4 - TV2 Nyhet: 105
+5 - MAX: 103
+6 - Viasat 4: 93
+7 - NRK2: 88
+8 - Disney Channel: 80
+9 - TVNORGE: 72
+10 - TV2 Zebra: 71
+2018/11/07 11:15:56 efficient.AverageChannelDurations took 36.572µs
+Top 10 TV Channels:
+2018/11/07 11:15:57 efficient.ChannelsViewers took 182.416µs
+2018/11/07 11:15:57 efficient.ChannelsViewers took 265.162µs
+1 - NRK1: 166
+2018/11/07 11:15:57 efficient.AverageChannelDurations took 31.673µs
+2 - TV2 Norge: 163
+3 - TV3 Norge: 108
+4 - TV2 Nyhet: 106
+5 - MAX: 105
+6 - Viasat 4: 96
+7 - NRK2: 90
+8 - Disney Channel: 81
+9 - TVNORGE: 72
+10 - TV2 Zebra: 72
+Top 10 TV Channels:
+2018/11/07 11:15:58 efficient.ChannelsViewers took 189.242µs
+1 - TV2 Norge: 167
+2 - NRK1: 166
+3 - TV2 Nyhet: 109
+4 - TV3 Norge: 108
+5 - MAX: 105
+6 - Viasat 4: 97
+7 - NRK2: 89
+2018/11/07 11:15:58 efficient.ChannelsViewers took 299.425µs
+8 - Disney Channel: 82
+9 - TV2 Zebra: 73
+10 - TVNORGE: 72
+2018/11/07 11:15:58 efficient.AverageChannelDurations took 30.848µs
+Top 10 TV Channels:
+2018/11/07 11:15:59 efficient.ChannelsViewers took 145.47µs
+1 - TV2 Norge: 170
+2 - NRK1: 168
+3 - TV2 Nyhet: 110
+4 - TV3 Norge: 107
+5 - MAX: 106
+6 - Viasat 4: 99
+7 - NRK2: 87
+8 - Disney Channel: 82
+9 - TV2 Zebra: 73
+10 - TVNORGE: 72
+2018/11/07 11:15:59 efficient.ChannelsViewers took 152.762µs
+2018/11/07 11:15:59 efficient.AverageChannelDurations took 29.822µs
+Top 10 TV Channels:
+2018/11/07 11:16:00 efficient.ChannelsViewers took 141.43µs
+1 - NRK1: 170
+2 - TV2 Norge: 170
+3 - TV2 Nyhet: 111
+4 - TV3 Norge: 106
+5 - MAX: 105
+6 - Viasat 4: 100
+7 - NRK2: 87
+8 - Disney Channel: 82
+9 - TVNORGE: 74
+10 - TV2 Zebra: 72
+2018/11/07 11:16:00 efficient.ChannelsViewers took 127.291µs
+2018/11/07 11:16:00 efficient.AverageChannelDurations took 31.546µs
+Top 10 TV Channels:
+2018/11/07 11:16:01 efficient.ChannelsViewers took 281.567µs
+2018/11/07 11:16:01 efficient.ChannelsViewers took 276.799µs
+1 - NRK1: 172
+2 - TV2 Norge: 171
+3 - TV2 Nyhet: 114
+4 - TV3 Norge: 108
+2018/11/07 11:16:01 efficient.AverageChannelDurations took 29.999µs
+5 - MAX: 105
+6 - Viasat 4: 100
+7 - NRK2: 87
+8 - Disney Channel: 82
+9 - TVNORGE: 74
+10 - TV2 Zebra: 71
+Top 10 TV Channels:
+2018/11/07 11:16:02 efficient.ChannelsViewers took 150.156µs
+1 - NRK1: 173
+2 - TV2 Norge: 171
+3 - TV2 Nyhet: 113
+4 - TV3 Norge: 109
+5 - MAX: 104
+6 - Viasat 4: 98
+7 - NRK2: 87
+8 - Disney Channel: 82
+9 - TVNORGE: 73
+10 - TV2 Zebra: 72
+2018/11/07 11:16:02 efficient.ChannelsViewers took 310.816µs
+2018/11/07 11:16:02 efficient.AverageChannelDurations took 37.595µs
+Top 10 TV Channels:
+2018/11/07 11:16:03 efficient.ChannelsViewers took 283.217µs
+2018/11/07 11:16:03 efficient.ChannelsViewers took 300.329µs
+1 - NRK1: 174
+2 - TV2 Norge: 172
+3 - TV2 Nyhet: 114
+4 - TV3 Norge: 110
+5 - MAX: 104
+6 - Viasat 4: 98
+7 - NRK2: 87
+8 - Disney Channel: 82
+9 - TV2 Zebra: 72
+10 - TVNORGE: 72
+2018/11/07 11:16:03 efficient.AverageChannelDurations took 35.456µs
+Top 10 TV Channels:
+2018/11/07 11:16:04 efficient.ChannelsViewers took 267.533µs
+2018/11/07 11:16:04 efficient.ChannelsViewers took 248.581µs
+1 - NRK1: 175
+2 - TV2 Norge: 174
+3 - TV2 Nyhet: 114
+4 - TV3 Norge: 110
+5 - MAX: 105
+6 - Viasat 4: 99
+7 - NRK2: 91
+8 - Disney Channel: 82
+9 - TVNORGE: 72
+10 - TV2 Zebra: 71
+2018/11/07 11:16:04 efficient.AverageChannelDurations took 30.045µs
+Top 10 TV Channels:
+2018/11/07 11:16:05 efficient.ChannelsViewers took 280.091µs
+1 - NRK1: 175
+2 - TV2 Norge: 173
+3 - TV2 Nyhet: 116
+4 - TV3 Norge: 112
+5 - MAX: 109
+6 - Viasat 4: 100
+7 - NRK2: 94
+8 - Disney Channel: 81
+9 - FEM: 73
+2018/11/07 11:16:05 efficient.ChannelsViewers took 158.43µs
+10 - TV2 Zebra: 71
+2018/11/07 11:16:05 efficient.AverageChannelDurations took 37.555µs
+Top 10 TV Channels:
+2018/11/07 11:16:06 efficient.ChannelsViewers took 289.582µs
+2018/11/07 11:16:06 efficient.ChannelsViewers took 242.465µs
+1 - TV2 Norge: 176
+2 - NRK1: 174
+3 - TV2 Nyhet: 117
+4 - MAX: 112
+5 - TV3 Norge: 111
+6 - Viasat 4: 100
+7 - NRK2: 94
+8 - Disney Channel: 81
+9 - FEM: 74
+2018/11/07 11:16:06 efficient.AverageChannelDurations took 35.112µs
+10 - TV2 Zebra: 72
+Top 10 TV Channels:
+2018/11/07 11:16:07 efficient.ChannelsViewers took 1.387029ms
+2018/11/07 11:16:07 efficient.AverageChannelDurations took 44.172µs
+2018/11/07 11:16:07 efficient.ChannelsViewers took 1.93197ms
+1 - TV2 Norge: 180
+2 - NRK1: 174
+3 - TV2 Nyhet: 117
+4 - MAX: 111
+5 - TV3 Norge: 109
+6 - Viasat 4: 101
+7 - NRK2: 93
+8 - Disney Channel: 82
+9 - FEM: 74
+10 - TVNORGE: 73
+Top 10 TV Channels:
+2018/11/07 11:16:08 efficient.ChannelsViewers took 187.937µs
+1 - TV2 Norge: 181
+2 - NRK1: 174
+3 - TV2 Nyhet: 117
+4 - MAX: 113
+5 - TV3 Norge: 111
+6 - Viasat 4: 100
+7 - NRK2: 93
+2018/11/07 11:16:08 efficient.ChannelsViewers took 310.726µs
+8 - Disney Channel: 83
+9 - FEM: 75
+10 - TV2 Zebra: 74
+2018/11/07 11:16:08 efficient.AverageChannelDurations took 32.789µs
+Top 10 TV Channels:
+2018/11/07 11:16:09 efficient.ChannelsViewers took 145.573µs
+1 - TV2 Norge: 182
+2 - NRK1: 174
+3 - TV2 Nyhet: 118
+4 - MAX: 113
+5 - TV3 Norge: 111
+6 - Viasat 4: 101
+7 - NRK2: 95
+8 - Disney Channel: 83
+9 - FEM: 75
+10 - TVNORGE: 74
+2018/11/07 11:16:09 efficient.ChannelsViewers took 135.472µs
+2018/11/07 11:16:09 efficient.AverageChannelDurations took 31.83µs
+Top 10 TV Channels:
+2018/11/07 11:16:10 efficient.ChannelsViewers took 285.173µs
+2018/11/07 11:16:10 efficient.ChannelsViewers took 316.544µs
+2018/11/07 11:16:10 efficient.AverageChannelDurations took 32.265µs
+1 - TV2 Norge: 182
+2 - NRK1: 175
+3 - TV2 Nyhet: 120
+4 - MAX: 113
+5 - TV3 Norge: 112
+6 - Viasat 4: 101
+7 - NRK2: 95
+8 - Disney Channel: 83
+9 - FEM: 76
+10 - TV2 Zebra: 75
+Top 10 TV Channels:
+2018/11/07 11:16:11 efficient.ChannelsViewers took 203.212µs
+2018/11/07 11:16:11 efficient.AverageChannelDurations took 31.807µs
+2018/11/07 11:16:11 efficient.ChannelsViewers took 336.04µs
+1 - TV2 Norge: 184
+2 - NRK1: 178
+3 - TV2 Nyhet: 120
+4 - MAX: 115
+5 - TV3 Norge: 111
+6 - Viasat 4: 102
+7 - NRK2: 95
+8 - Disney Channel: 84
+9 - FEM: 76
+10 - TV2 Zebra: 75
+Top 10 TV Channels:
+2018/11/07 11:16:12 efficient.ChannelsViewers took 292.16µs
+2018/11/07 11:16:12 efficient.ChannelsViewers took 334.829µs
+2018/11/07 11:16:12 efficient.AverageChannelDurations took 33.886µs
+1 - TV2 Norge: 184
+2 - NRK1: 178
+3 - TV2 Nyhet: 121
+4 - MAX: 113
+5 - TV3 Norge: 113
+6 - Viasat 4: 101
+7 - NRK2: 96
+8 - Disney Channel: 85
+9 - FEM: 79
+10 - TV2 Zebra: 74
+Top 10 TV Channels:
+2018/11/07 11:16:13 efficient.ChannelsViewers took 213.035µs
+2018/11/07 11:16:13 efficient.ChannelsViewers took 312.084µs
+1 - TV2 Norge: 190
+2 - NRK1: 178
+3 - TV2 Nyhet: 122
+4 - MAX: 114
+5 - TV3 Norge: 113
+6 - Viasat 4: 102
+7 - NRK2: 96
+8 - Disney Channel: 85
+9 - FEM: 79
+10 - TVNORGE: 75
+2018/11/07 11:16:13 efficient.AverageChannelDurations took 36.356µs
+Top 10 TV Channels:
+2018/11/07 11:16:14 efficient.ChannelsViewers took 277.644µs
+1 - TV2 Norge: 191
+2 - NRK1: 179
+3 - TV2 Nyhet: 122
+4 - MAX: 114
+2018/11/07 11:16:14 efficient.ChannelsViewers took 214.943µs
+5 - TV3 Norge: 112
+6 - Viasat 4: 102
+7 - NRK2: 96
+8 - Disney Channel: 85
+9 - FEM: 81
+10 - TVNORGE: 75
+2018/11/07 11:16:14 efficient.AverageChannelDurations took 33.297µs
+Top 10 TV Channels:
+2018/11/07 11:16:15 efficient.ChannelsViewers took 266.707µs
+2018/11/07 11:16:15 efficient.ChannelsViewers took 352.908µs
+1 - TV2 Norge: 191
+2 - NRK1: 179
+3 - TV2 Nyhet: 123
+4 - MAX: 115
+5 - TV3 Norge: 112
+6 - Viasat 4: 103
+7 - NRK2: 97
+8 - Disney Channel: 86
+9 - FEM: 83
+10 - TV2 Zebra: 77
+2018/11/07 11:16:15 efficient.AverageChannelDurations took 31.403µs
+Top 10 TV Channels:
+2018/11/07 11:16:16 efficient.ChannelsViewers took 303.719µs
+2018/11/07 11:16:16 efficient.ChannelsViewers took 198.117µs
+1 - TV2 Norge: 191
+2 - NRK1: 180
+3 - TV2 Nyhet: 124
+4 - MAX: 116
+5 - TV3 Norge: 112
+6 - Viasat 4: 105
+7 - NRK2: 98
+8 - Disney Channel: 87
+9 - FEM: 85
+10 - TV2 Zebra: 77
+2018/11/07 11:16:16 efficient.AverageChannelDurations took 38.864µs
+Top 10 TV Channels:
+2018/11/07 11:16:17 efficient.ChannelsViewers took 140.2µs
+1 - TV2 Norge: 191
+2 - NRK1: 182
+3 - TV2 Nyhet: 127
+4 - MAX: 116
+5 - TV3 Norge: 112
+6 - Viasat 4: 106
+7 - NRK2: 97
+8 - Disney Channel: 89
+9 - FEM: 85
+10 - TV2 Zebra: 77
+2018/11/07 11:16:17 efficient.ChannelsViewers took 131.74µs
+2018/11/07 11:16:17 efficient.AverageChannelDurations took 30.414µs
+Top 10 TV Channels:
+2018/11/07 11:16:18 efficient.ChannelsViewers took 282.559µs
+1 - TV2 Norge: 190
+2 - NRK1: 184
+3 - TV2 Nyhet: 129
+4 - MAX: 118
+2018/11/07 11:16:18 efficient.ChannelsViewers took 229.088µs
+5 - TV3 Norge: 116
+6 - Viasat 4: 107
+7 - NRK2: 98
+8 - Disney Channel: 89
+9 - FEM: 84
+10 - TV2 Zebra: 78
+2018/11/07 11:16:18 efficient.AverageChannelDurations took 35.493µs
+Top 10 TV Channels:
+2018/11/07 11:16:19 efficient.ChannelsViewers took 287.245µs
+2018/11/07 11:16:19 efficient.ChannelsViewers took 307.788µs
+1 - TV2 Norge: 191
+2 - NRK1: 184
+3 - TV2 Nyhet: 129
+4 - MAX: 120
+5 - TV3 Norge: 116
+6 - Viasat 4: 111
+7 - NRK2: 98
+8 - Disney Channel: 90
+9 - FEM: 84
+2018/11/07 11:16:19 efficient.AverageChannelDurations took 32.188µs
+10 - TV2 Zebra: 79
+Top 10 TV Channels:
+2018/11/07 11:16:20 efficient.ChannelsViewers took 285.953µs
+1 - TV2 Norge: 193
+2018/11/07 11:16:20 efficient.ChannelsViewers took 240.012µs
+2 - NRK1: 187
+3 - TV2 Nyhet: 131
+4 - MAX: 120
+5 - TV3 Norge: 116
+6 - Viasat 4: 111
+7 - NRK2: 97
+8 - Disney Channel: 90
+9 - FEM: 86
+10 - TV2 Zebra: 78
+2018/11/07 11:16:20 efficient.AverageChannelDurations took 35.76µs
+Top 10 TV Channels:
+2018/11/07 11:16:21 efficient.ChannelsViewers took 279.147µs
+2018/11/07 11:16:21 efficient.ChannelsViewers took 236.27µs
+1 - TV2 Norge: 194
+2 - NRK1: 188
+3 - TV2 Nyhet: 132
+4 - MAX: 120
+5 - TV3 Norge: 116
+6 - Viasat 4: 111
+7 - NRK2: 96
+8 - Disney Channel: 90
+9 - FEM: 86
+10 - TV2 Zebra: 78
+2018/11/07 11:16:21 efficient.AverageChannelDurations took 32.268µs
+Top 10 TV Channels:
+2018/11/07 11:16:22 efficient.ChannelsViewers took 245.958µs
+2018/11/07 11:16:22 efficient.ChannelsViewers took 152.264µs
+1 - TV2 Norge: 193
+2 - NRK1: 190
+3 - TV2 Nyhet: 132
+4 - MAX: 122
+5 - TV3 Norge: 116
+6 - Viasat 4: 111
+7 - NRK2: 97
+8 - Disney Channel: 90
+9 - FEM: 86
+10 - TVNORGE: 79
+2018/11/07 11:16:22 efficient.AverageChannelDurations took 37.244µs
+Top 10 TV Channels:
+2018/11/07 11:16:23 efficient.ChannelsViewers took 265.82µs
+1 - TV2 Norge: 192
+2 - NRK1: 189
+3 - TV2 Nyhet: 130
+2018/11/07 11:16:23 efficient.ChannelsViewers took 298.379µs
+4 - MAX: 122
+5 - TV3 Norge: 115
+6 - Viasat 4: 114
+7 - NRK2: 97
+8 - Disney Channel: 92
+9 - FEM: 87
+10 - TVNORGE: 81
+2018/11/07 11:16:23 efficient.AverageChannelDurations took 38.835µs
+Top 10 TV Channels:
+2018/11/07 11:16:24 efficient.ChannelsViewers took 137.143µs
+1 - TV2 Norge: 196
+2 - NRK1: 189
+3 - TV2 Nyhet: 130
+4 - MAX: 122
+5 - TV3 Norge: 116
+6 - Viasat 4: 114
+7 - NRK2: 98
+8 - Disney Channel: 97
+9 - FEM: 87
+10 - TVNORGE: 81
+2018/11/07 11:16:24 efficient.ChannelsViewers took 140.334µs
+2018/11/07 11:16:24 efficient.AverageChannelDurations took 30.607µs
+Top 10 TV Channels:
+2018/11/07 11:16:25 efficient.ChannelsViewers took 143.933µs
+2018/11/07 11:16:25 efficient.ChannelsViewers took 286.814µs
+2018/11/07 11:16:25 efficient.AverageChannelDurations took 33.629µs
+1 - TV2 Norge: 196
+2 - NRK1: 188
+3 - TV2 Nyhet: 131
+4 - MAX: 124
+5 - TV3 Norge: 119
+6 - Viasat 4: 114
+7 - NRK2: 98
+8 - Disney Channel: 97
+9 - FEM: 86
+10 - TVNORGE: 81
+Top 10 TV Channels:
+2018/11/07 11:16:26 efficient.ChannelsViewers took 287.976µs
+2018/11/07 11:16:26 efficient.ChannelsViewers took 328.495µs
+1 - TV2 Norge: 198
+2018/11/07 11:16:26 efficient.AverageChannelDurations took 40.84µs
+2 - NRK1: 187
+3 - TV2 Nyhet: 131
+4 - MAX: 124
+5 - TV3 Norge: 118
+6 - Viasat 4: 115
+7 - Disney Channel: 97
+8 - NRK2: 96
+9 - FEM: 86
+10 - TVNORGE: 80
+Top 10 TV Channels:
+2018/11/07 11:16:27 efficient.ChannelsViewers took 267.384µs
+1 - TV2 Norge: 200
+2 - NRK1: 186
+3 - TV2 Nyhet: 132
+4 - MAX: 125
+5 - TV3 Norge: 120
+2018/11/07 11:16:27 efficient.ChannelsViewers took 312.371µs
+6 - Viasat 4: 117
+7 - NRK2: 97
+8 - Disney Channel: 97
+9 - FEM: 87
+10 - TVNORGE: 81
+2018/11/07 11:16:27 efficient.AverageChannelDurations took 40.432µs
+Top 10 TV Channels:
+2018/11/07 11:16:28 efficient.ChannelsViewers took 294.115µs
+2018/11/07 11:16:28 efficient.ChannelsViewers took 268.228µs
+1 - TV2 Norge: 202
+2 - NRK1: 186
+3 - TV2 Nyhet: 132
+4 - MAX: 124
+5 - TV3 Norge: 121
+6 - Viasat 4: 119
+7 - NRK2: 97
+8 - Disney Channel: 97
+9 - FEM: 88
+10 - TVNORGE: 80
+2018/11/07 11:16:28 efficient.AverageChannelDurations took 33.421µs
+Top 10 TV Channels:
+2018/11/07 11:16:29 efficient.ChannelsViewers took 302.798µs
+2018/11/07 11:16:29 efficient.ChannelsViewers took 267.979µs
+1 - TV2 Norge: 204
+2 - NRK1: 186
+3 - TV2 Nyhet: 131
+4 - MAX: 125
+5 - TV3 Norge: 122
+2018/11/07 11:16:29 efficient.AverageChannelDurations took 32.509µs
+6 - Viasat 4: 120
+7 - Disney Channel: 97
+8 - NRK2: 94
+9 - FEM: 87
+10 - TVNORGE: 80
+Top 10 TV Channels:
+2018/11/07 11:16:30 efficient.ChannelsViewers took 194.879µs
+1 - TV2 Norge: 206
+2 - NRK1: 187
+3 - TV2 Nyhet: 131
+4 - MAX: 126
+5 - TV3 Norge: 123
+6 - Viasat 4: 121
+2018/11/07 11:16:30 efficient.ChannelsViewers took 245.034µs
+7 - Disney Channel: 97
+8 - NRK2: 94
+9 - FEM: 88
+10 - TVNORGE: 81
+2018/11/07 11:16:30 efficient.AverageChannelDurations took 37.715µs
+Top 10 TV Channels:
+2018/11/07 11:16:31 efficient.ChannelsViewers took 293.607µs
+2018/11/07 11:16:31 efficient.ChannelsViewers took 292.495µs
+2018/11/07 11:16:31 efficient.AverageChannelDurations took 35.961µs
+1 - TV2 Norge: 206
+2 - NRK1: 186
+3 - TV2 Nyhet: 132
+4 - MAX: 126
+5 - TV3 Norge: 123
+6 - Viasat 4: 122
+7 - Disney Channel: 97
+8 - NRK2: 93
+9 - FEM: 90
+10 - TVNORGE: 83
+Top 10 TV Channels:
+2018/11/07 11:16:32 efficient.ChannelsViewers took 288.387µs
+1 - TV2 Norge: 208
+2 - NRK1: 186
+3 - TV2 Nyhet: 132
+4 - MAX: 129
+2018/11/07 11:16:32 efficient.ChannelsViewers took 305.888µs
+5 - TV3 Norge: 124
+6 - Viasat 4: 121
+7 - Disney Channel: 98
+8 - NRK2: 94
+9 - FEM: 90
+10 - TVNORGE: 83
+2018/11/07 11:16:32 efficient.AverageChannelDurations took 33.825µs
+Top 10 TV Channels:
+2018/11/07 11:16:33 efficient.ChannelsViewers took 272.437µs
+2018/11/07 11:16:33 efficient.ChannelsViewers took 304.034µs
+2018/11/07 11:16:33 efficient.AverageChannelDurations took 36.194µs
+1 - TV2 Norge: 207
+2 - NRK1: 187
+3 - TV2 Nyhet: 133
+4 - MAX: 129
+5 - TV3 Norge: 127
+6 - Viasat 4: 120
+7 - Disney Channel: 99
+8 - NRK2: 94
+9 - FEM: 90
+10 - TVNORGE: 83
+Top 10 TV Channels:
+2018/11/07 11:16:34 efficient.ChannelsViewers took 164.481µs
+1 - TV2 Norge: 209
+2 - NRK1: 187
+3 - TV2 Nyhet: 131
+4 - MAX: 130
+5 - TV3 Norge: 128
+6 - Viasat 4: 120
+7 - Disney Channel: 101
+8 - FEM: 91
+9 - NRK2: 91
+10 - TVNORGE: 84
+2018/11/07 11:16:34 efficient.ChannelsViewers took 327.169µs
+2018/11/07 11:16:34 efficient.AverageChannelDurations took 34.975µs
+Top 10 TV Channels:
+2018/11/07 11:16:35 efficient.ChannelsViewers took 147.485µs
+1 - TV2 Norge: 206
+2 - NRK1: 189
+3 - TV2 Nyhet: 132
+4 - TV3 Norge: 131
+5 - MAX: 130
+6 - Viasat 4: 121
+7 - Disney Channel: 101
+8 - FEM: 92
+9 - NRK2: 91
+10 - TVNORGE: 86
+2018/11/07 11:16:35 efficient.ChannelsViewers took 145.073µs
+2018/11/07 11:16:35 efficient.AverageChannelDurations took 31.299µs
+Top 10 TV Channels:
+2018/11/07 11:16:36 efficient.ChannelsViewers took 269.841µs
+1 - TV2 Norge: 207
+2 - NRK1: 189
+3 - TV2 Nyhet: 133
+4 - TV3 Norge: 131
+5 - MAX: 129
+6 - Viasat 4: 122
+2018/11/07 11:16:36 efficient.ChannelsViewers took 380.757µs
+7 - Disney Channel: 101
+8 - NRK2: 93
+9 - FEM: 93
+10 - TVNORGE: 86
+2018/11/07 11:16:36 efficient.AverageChannelDurations took 33.294µs
+Top 10 TV Channels:
+2018/11/07 11:16:37 efficient.ChannelsViewers took 278.067µs
+2018/11/07 11:16:37 efficient.ChannelsViewers took 187.956µs
+1 - TV2 Norge: 208
+2 - NRK1: 191
+3 - TV2 Nyhet: 132
+4 - TV3 Norge: 130
+5 - MAX: 129
+6 - Viasat 4: 122
+7 - Disney Channel: 101
+8 - FEM: 93
+9 - NRK2: 92
+10 - TVNORGE: 86
+2018/11/07 11:16:37 efficient.AverageChannelDurations took 40.777µs
+Top 10 TV Channels:
+2018/11/07 11:16:38 efficient.ChannelsViewers took 270.532µs
+2018/11/07 11:16:38 efficient.ChannelsViewers took 164.585µs
+1 - TV2 Norge: 208
+2 - NRK1: 192
+3 - TV2 Nyhet: 133
+4 - TV3 Norge: 130
+5 - MAX: 129
+6 - Viasat 4: 123
+7 - Disney Channel: 101
+8 - FEM: 95
+2018/11/07 11:16:38 efficient.AverageChannelDurations took 32.425µs
+9 - NRK2: 91
+10 - TVNORGE: 86
+Top 10 TV Channels:
+2018/11/07 11:16:39 efficient.ChannelsViewers took 269.757µs
+2018/11/07 11:16:39 efficient.ChannelsViewers took 177.341µs
+1 - TV2 Norge: 206
+2 - NRK1: 193
+3 - TV2 Nyhet: 134
+4 - TV3 Norge: 131
+5 - MAX: 130
+6 - Viasat 4: 123
+7 - Disney Channel: 101
+8 - FEM: 94
+9 - NRK2: 91
+10 - TVNORGE: 87
+2018/11/07 11:16:39 efficient.AverageChannelDurations took 30.824µs
+Top 10 TV Channels:
+2018/11/07 11:16:40 efficient.ChannelsViewers took 176.518µs
+1 - TV2 Norge: 207
+2 - NRK1: 193
+3 - TV2 Nyhet: 134
+4 - TV3 Norge: 132
+5 - MAX: 129
+2018/11/07 11:16:40 efficient.ChannelsViewers took 352.716µs
+6 - Viasat 4: 124
+7 - Disney Channel: 102
+8 - FEM: 93
+9 - NRK2: 91
+10 - TVNORGE: 89
+2018/11/07 11:16:40 efficient.AverageChannelDurations took 36.993µs
+Top 10 TV Channels:
+2018/11/07 11:16:41 efficient.ChannelsViewers took 279.175µs
+1 - TV2 Norge: 207
+2018/11/07 11:16:41 efficient.ChannelsViewers took 230.418µs
+2 - NRK1: 195
+3 - TV2 Nyhet: 134
+4 - TV3 Norge: 132
+5 - MAX: 128
+6 - Viasat 4: 125
+7 - Disney Channel: 101
+8 - FEM: 95
+9 - NRK2: 90
+10 - TVNORGE: 90
+2018/11/07 11:16:41 efficient.AverageChannelDurations took 33.889µs
+Top 10 TV Channels:
+2018/11/07 11:16:42 efficient.ChannelsViewers took 282.58µs
+2018/11/07 11:16:42 efficient.ChannelsViewers took 150.827µs
+1 - TV2 Norge: 208
+2 - NRK1: 195
+3 - TV2 Nyhet: 134
+4 - TV3 Norge: 131
+5 - MAX: 128
+6 - Viasat 4: 128
+7 - Disney Channel: 100
+8 - FEM: 96
+9 - TVNORGE: 91
+10 - NRK2: 90
+2018/11/07 11:16:42 efficient.AverageChannelDurations took 34.137µs
+Top 10 TV Channels:
+2018/11/07 11:16:43 efficient.ChannelsViewers took 218.558µs
+2018/11/07 11:16:43 efficient.ChannelsViewers took 327.461µs
+2018/11/07 11:16:43 efficient.AverageChannelDurations took 31.139µs
+1 - TV2 Norge: 210
+2 - NRK1: 196
+3 - TV2 Nyhet: 134
+4 - TV3 Norge: 132
+5 - Viasat 4: 128
+6 - MAX: 127
+7 - Disney Channel: 102
+8 - FEM: 96
+9 - TVNORGE: 92
+10 - NRK2: 90
+Top 10 TV Channels:
+2018/11/07 11:16:44 efficient.ChannelsViewers took 280.685µs
+2018/11/07 11:16:44 efficient.ChannelsViewers took 320.318µs
+1 - TV2 Norge: 210
+2 - NRK1: 196
+3 - TV2 Nyhet: 134
+4 - TV3 Norge: 133
+5 - Viasat 4: 128
+6 - MAX: 128
+7 - Disney Channel: 103
+8 - FEM: 96
+9 - TVNORGE: 92
+2018/11/07 11:16:44 efficient.AverageChannelDurations took 36.896µs
+10 - NRK2: 92
+Top 10 TV Channels:
+2018/11/07 11:16:45 efficient.ChannelsViewers took 176.349µs
+2018/11/07 11:16:45 efficient.AverageChannelDurations took 33.143µs
+2018/11/07 11:16:45 efficient.ChannelsViewers took 298.155µs
+1 - TV2 Norge: 209
+2 - NRK1: 196
+3 - TV2 Nyhet: 135
+4 - TV3 Norge: 133
+5 - Viasat 4: 130
+6 - MAX: 129
+7 - Disney Channel: 103
+8 - FEM: 97
+9 - NRK2: 93
+10 - TVNORGE: 92
+Top 10 TV Channels:
+2018/11/07 11:16:46 efficient.ChannelsViewers took 249.293µs
+2018/11/07 11:16:46 efficient.ChannelsViewers took 937.495µs
+2018/11/07 11:16:46 efficient.AverageChannelDurations took 144.679µs
+1 - TV2 Norge: 210
+2 - NRK1: 198
+3 - TV2 Nyhet: 136
+4 - TV3 Norge: 132
+5 - Viasat 4: 131
+6 - MAX: 129
+7 - Disney Channel: 104
+8 - FEM: 98
+9 - NRK2: 94
+10 - TVNORGE: 92
+2018/11/07 11:16:47 efficient.ChannelsViewers took 155.358µs
+Top 10 TV Channels:
+2018/11/07 11:16:47 efficient.AverageChannelDurations took 35.968µs
+2018/11/07 11:16:47 efficient.ChannelsViewers took 286.69µs
+1 - TV2 Norge: 211
+2 - NRK1: 199
+3 - TV2 Nyhet: 136
+4 - TV3 Norge: 134
+5 - Viasat 4: 133
+6 - MAX: 129
+7 - Disney Channel: 105
+8 - FEM: 99
+9 - NRK2: 94
+10 - TVNORGE: 92
+Top 10 TV Channels:
+2018/11/07 11:16:48 efficient.ChannelsViewers took 178.179µs
+2018/11/07 11:16:48 efficient.ChannelsViewers took 330.822µs
+1 - TV2 Norge: 213
+2 - NRK1: 200
+3 - Viasat 4: 134
+4 - TV2 Nyhet: 134
+5 - TV3 Norge: 133
+6 - MAX: 128
+7 - Disney Channel: 105
+8 - FEM: 99
+9 - NRK2: 94
+10 - TVNORGE: 93
+2018/11/07 11:16:48 efficient.AverageChannelDurations took 35.232µs
+Top 10 TV Channels:
+2018/11/07 11:16:49 efficient.ChannelsViewers took 164.171µs
+1 - TV2 Norge: 213
+2 - NRK1: 202
+3 - TV3 Norge: 135
+4 - TV2 Nyhet: 133
+5 - Viasat 4: 132
+6 - MAX: 127
+7 - Disney Channel: 105
+8 - FEM: 99
+9 - NRK2: 94
+10 - TVNORGE: 93
+2018/11/07 11:16:49 efficient.ChannelsViewers took 312.535µs
+2018/11/07 11:16:49 efficient.AverageChannelDurations took 33.996µs
+Top 10 TV Channels:
+2018/11/07 11:16:50 efficient.ChannelsViewers took 151.205µs
+1 - TV2 Norge: 214
+2 - NRK1: 202
+3 - TV2 Nyhet: 135
+4 - TV3 Norge: 134
+5 - Viasat 4: 132
+6 - MAX: 127
+7 - Disney Channel: 105
+8 - FEM: 101
+9 - NRK2: 94
+10 - TVNORGE: 94
+2018/11/07 11:16:50 efficient.ChannelsViewers took 160.244µs
+2018/11/07 11:16:50 efficient.AverageChannelDurations took 36.713µs
+Top 10 TV Channels:
+2018/11/07 11:16:51 efficient.ChannelsViewers took 280.647µs
+2018/11/07 11:16:51 efficient.ChannelsViewers took 253.182µs
+1 - TV2 Norge: 214
+2 - NRK1: 203
+3 - TV2 Nyhet: 136
+4 - TV3 Norge: 135
+5 - Viasat 4: 133
+6 - MAX: 128
+7 - Disney Channel: 106
+8 - FEM: 102
+9 - NRK2: 94
+10 - TVNORGE: 94
+2018/11/07 11:16:51 efficient.AverageChannelDurations took 32.969µs
+Top 10 TV Channels:
+2018/11/07 11:16:52 efficient.ChannelsViewers took 201.313µs
+1 - TV2 Norge: 218
+2 - NRK1: 206
+3 - TV2 Nyhet: 136
+4 - TV3 Norge: 134
+5 - Viasat 4: 134
+6 - MAX: 128
+2018/11/07 11:16:52 efficient.ChannelsViewers took 236.897µs
+7 - Disney Channel: 105
+8 - FEM: 102
+9 - NRK2: 95
+10 - TVNORGE: 94
+2018/11/07 11:16:52 efficient.AverageChannelDurations took 32.936µs
+Top 10 TV Channels:
+2018/11/07 11:16:53 efficient.ChannelsViewers took 156.699µs
+2018/11/07 11:16:53 efficient.ChannelsViewers took 292.957µs
+1 - TV2 Norge: 218
+2 - NRK1: 207
+3 - TV2 Nyhet: 137
+4 - TV3 Norge: 134
+5 - Viasat 4: 134
+6 - MAX: 131
+7 - Disney Channel: 105
+8 - FEM: 100
+9 - TVNORGE: 96
+10 - NRK2: 94
+2018/11/07 11:16:53 efficient.AverageChannelDurations took 37.956µs
+Top 10 TV Channels:
+2018/11/07 11:16:54 efficient.ChannelsViewers took 166.74µs
+2018/11/07 11:16:54 efficient.AverageChannelDurations took 32.765µs
+2018/11/07 11:16:54 efficient.ChannelsViewers took 297.764µs
+1 - TV2 Norge: 218
+2 - NRK1: 207
+3 - TV2 Nyhet: 137
+4 - Viasat 4: 136
+5 - TV3 Norge: 135
+6 - MAX: 132
+7 - Disney Channel: 105
+8 - FEM: 100
+9 - TVNORGE: 96
+10 - NRK2: 94
+Top 10 TV Channels:
+2018/11/07 11:16:55 efficient.ChannelsViewers took 206.959µs
+2018/11/07 11:16:55 efficient.ChannelsViewers took 308.637µs
+1 - TV2 Norge: 219
+2 - NRK1: 208
+2018/11/07 11:16:55 efficient.AverageChannelDurations took 37.765µs
+3 - TV3 Norge: 137
+4 - TV2 Nyhet: 137
+5 - Viasat 4: 137
+6 - MAX: 131
+7 - Disney Channel: 105
+8 - FEM: 102
+9 - TVNORGE: 96
+10 - NRK2: 95
+Top 10 TV Channels:
+2018/11/07 11:16:56 efficient.ChannelsViewers took 286.865µs
+2018/11/07 11:16:56 efficient.ChannelsViewers took 247.969µs
+1 - TV2 Norge: 220
+2 - NRK1: 210
+3 - TV2 Nyhet: 138
+4 - TV3 Norge: 137
+5 - Viasat 4: 135
+6 - MAX: 132
+7 - Disney Channel: 105
+8 - FEM: 103
+9 - TVNORGE: 97
+10 - NRK2: 95
+2018/11/07 11:16:56 efficient.AverageChannelDurations took 36.171µs
+Top 10 TV Channels:
+2018/11/07 11:16:57 efficient.ChannelsViewers took 241.496µs
+2018/11/07 11:16:57 efficient.ChannelsViewers took 315.338µs
+1 - TV2 Norge: 219
+2 - NRK1: 211
+3 - TV2 Nyhet: 139
+4 - TV3 Norge: 136
+5 - Viasat 4: 135
+6 - MAX: 132
+7 - Disney Channel: 105
+8 - FEM: 103
+9 - TVNORGE: 97
+10 - NRK2: 95
+2018/11/07 11:16:57 efficient.AverageChannelDurations took 38.804µs
+Top 10 TV Channels:
+2018/11/07 11:16:58 efficient.ChannelsViewers took 237.192µs
+2018/11/07 11:16:58 efficient.ChannelsViewers took 325.903µs
+1 - TV2 Norge: 220
+2 - NRK1: 213
+3 - TV2 Nyhet: 138
+2018/11/07 11:16:58 efficient.AverageChannelDurations took 33.224µs
+4 - Viasat 4: 137
+5 - TV3 Norge: 136
+6 - MAX: 132
+7 - Disney Channel: 105
+8 - FEM: 103
+9 - TVNORGE: 97
+10 - NRK2: 94
+Top 10 TV Channels:
+2018/11/07 11:16:59 efficient.ChannelsViewers took 279.358µs
+2018/11/07 11:16:59 efficient.ChannelsViewers took 266.693µs
+1 - TV2 Norge: 220
+2 - NRK1: 213
+3 - Viasat 4: 138
+4 - TV3 Norge: 138
+5 - TV2 Nyhet: 137
+6 - MAX: 133
+7 - Disney Channel: 105
+8 - FEM: 104
+9 - TVNORGE: 99
+10 - NRK2: 95
+2018/11/07 11:16:59 efficient.AverageChannelDurations took 32.452µs
+Top 10 TV Channels:
+2018/11/07 11:17:00 efficient.ChannelsViewers took 267.22µs
+1 - TV2 Norge: 222
+2018/11/07 11:17:00 efficient.ChannelsViewers took 343.965µs
+2 - NRK1: 214
+3 - Viasat 4: 140
+4 - TV3 Norge: 138
+5 - TV2 Nyhet: 137
+6 - MAX: 133
+7 - Disney Channel: 105
+8 - FEM: 103
+9 - TVNORGE: 102
+10 - TV2 Zebra: 92
+2018/11/07 11:17:00 efficient.AverageChannelDurations took 36.476µs
+Top 10 TV Channels:
+2018/11/07 11:17:01 efficient.ChannelsViewers took 260.859µs
+2018/11/07 11:17:01 efficient.ChannelsViewers took 305.174µs
+2018/11/07 11:17:01 efficient.AverageChannelDurations took 40.883µs
+1 - TV2 Norge: 222
+2 - NRK1: 214
+3 - Viasat 4: 141
+4 - TV2 Nyhet: 139
+5 - TV3 Norge: 139
+6 - MAX: 132
+7 - Disney Channel: 105
+8 - FEM: 104
+9 - TVNORGE: 102
+10 - TV2 Zebra: 92
+Top 10 TV Channels:
+2018/11/07 11:17:02 efficient.ChannelsViewers took 272.899µs
+2018/11/07 11:17:02 efficient.ChannelsViewers took 235.177µs
+1 - TV2 Norge: 222
+2 - NRK1: 214
+2018/11/07 11:17:02 efficient.AverageChannelDurations took 33.555µs
+3 - Viasat 4: 142
+4 - TV2 Nyhet: 140
+5 - TV3 Norge: 139
+6 - MAX: 132
+7 - Disney Channel: 106
+8 - FEM: 104
+9 - TVNORGE: 103
+10 - TV2 Zebra: 92
+Top 10 TV Channels:
+2018/11/07 11:17:03 efficient.ChannelsViewers took 290.911µs
+2018/11/07 11:17:03 efficient.ChannelsViewers took 297.974µs
+1 - TV2 Norge: 225
+2 - NRK1: 215
+3 - Viasat 4: 142
+2018/11/07 11:17:03 efficient.AverageChannelDurations took 41.214µs
+4 - TV2 Nyhet: 140
+5 - TV3 Norge: 140
+6 - MAX: 131
+7 - Disney Channel: 106
+8 - FEM: 104
+9 - TVNORGE: 103
+10 - TV2 Zebra: 92
+Top 10 TV Channels:
+2018/11/07 11:17:04 efficient.ChannelsViewers took 256.046µs
+2018/11/07 11:17:04 efficient.ChannelsViewers took 354.565µs
+2018/11/07 11:17:04 efficient.AverageChannelDurations took 33.936µs
+1 - TV2 Norge: 227
+2 - NRK1: 217
+3 - Viasat 4: 142
+4 - TV3 Norge: 140
+5 - TV2 Nyhet: 139
+6 - MAX: 129
+7 - Disney Channel: 106
+8 - FEM: 104
+9 - TVNORGE: 104
+10 - TV2 Zebra: 92
+Top 10 TV Channels:
+2018/11/07 11:17:05 efficient.ChannelsViewers took 253.721µs
+2018/11/07 11:17:05 efficient.ChannelsViewers took 303.017µs
+1 - TV2 Norge: 227
+2 - NRK1: 219
+3 - Viasat 4: 144
+4 - TV3 Norge: 141
+5 - TV2 Nyhet: 139
+6 - MAX: 130
+7 - TVNORGE: 107
+8 - Disney Channel: 106
+9 - FEM: 104
+10 - TV2 Zebra: 91
+2018/11/07 11:17:05 efficient.AverageChannelDurations took 35.714µs
+Top 10 TV Channels:
+2018/11/07 11:17:06 efficient.ChannelsViewers took 280.715µs
+2018/11/07 11:17:06 efficient.ChannelsViewers took 174.647µs
+1 - TV2 Norge: 228
+2 - NRK1: 219
+3 - Viasat 4: 145
+4 - TV3 Norge: 141
+5 - TV2 Nyhet: 140
+6 - MAX: 131
+7 - Disney Channel: 106
+8 - TVNORGE: 106
+9 - FEM: 105
+2018/11/07 11:17:06 efficient.AverageChannelDurations took 32.558µs
+10 - TV2 Zebra: 91
+Top 10 TV Channels:
+2018/11/07 11:17:07 efficient.ChannelsViewers took 283.562µs
+2018/11/07 11:17:07 efficient.ChannelsViewers took 298.213µs
+1 - TV2 Norge: 227
+2 - NRK1: 220
+3 - Viasat 4: 146
+4 - TV2 Nyhet: 141
+5 - TV3 Norge: 141
+2018/11/07 11:17:07 efficient.AverageChannelDurations took 36.793µs
+6 - MAX: 131
+7 - Disney Channel: 106
+8 - TVNORGE: 106
+9 - FEM: 104
+10 - TV2 Zebra: 91
+Top 10 TV Channels:
+2018/11/07 11:17:08 efficient.ChannelsViewers took 157.972µs
+1 - TV2 Norge: 230
+2 - NRK1: 217
+3 - Viasat 4: 147
+4 - TV2 Nyhet: 143
+5 - TV3 Norge: 142
+6 - MAX: 131
+7 - Disney Channel: 106
+8 - TVNORGE: 106
+9 - FEM: 104
+10 - TV2 Zebra: 93
+2018/11/07 11:17:08 efficient.ChannelsViewers took 307.323µs
+2018/11/07 11:17:08 efficient.AverageChannelDurations took 32.328µs
+Top 10 TV Channels:
+2018/11/07 11:17:09 efficient.ChannelsViewers took 162.543µs
+1 - TV2 Norge: 229
+2 - NRK1: 218
+3 - Viasat 4: 147
+4 - TV2 Nyhet: 144
+5 - TV3 Norge: 142
+6 - MAX: 131
+7 - TVNORGE: 106
+8 - Disney Channel: 106
+9 - FEM: 103
+10 - NRK2: 93
+2018/11/07 11:17:09 efficient.ChannelsViewers took 130.848µs
+2018/11/07 11:17:09 efficient.AverageChannelDurations took 38.838µs
+Top 10 TV Channels:
+2018/11/07 11:17:10 efficient.ChannelsViewers took 300.827µs
+1 - TV2 Norge: 232
+2 - NRK1: 218
+3 - Viasat 4: 147
+4 - TV2 Nyhet: 144
+5 - TV3 Norge: 141
+2018/11/07 11:17:10 efficient.ChannelsViewers took 248.701µs
+6 - MAX: 132
+7 - TVNORGE: 107
+8 - Disney Channel: 107
+9 - FEM: 103
+10 - NRK2: 95
+2018/11/07 11:17:10 efficient.AverageChannelDurations took 71.344µs
+Top 10 TV Channels:
+2018/11/07 11:17:11 efficient.ChannelsViewers took 177.688µs
+1 - TV2 Norge: 233
+2 - NRK1: 219
+3 - Viasat 4: 147
+4 - TV2 Nyhet: 143
+5 - TV3 Norge: 138
+6 - MAX: 132
+7 - TVNORGE: 109
+8 - Disney Channel: 106
+9 - FEM: 103
+10 - NRK2: 95
+2018/11/07 11:17:11 efficient.ChannelsViewers took 345.004µs
+2018/11/07 11:17:11 efficient.AverageChannelDurations took 36.224µs
+Top 10 TV Channels:
+2018/11/07 11:17:12 efficient.ChannelsViewers took 223.755µs
+1 - TV2 Norge: 233
+2 - NRK1: 218
+3 - Viasat 4: 148
+4 - TV2 Nyhet: 143
+5 - TV3 Norge: 138
+6 - MAX: 132
+7 - TVNORGE: 110
+8 - Disney Channel: 106
+9 - FEM: 102
+10 - NRK2: 95
+2018/11/07 11:17:12 efficient.ChannelsViewers took 234.399µs
+2018/11/07 11:17:12 efficient.AverageChannelDurations took 35.192µs
+Top 10 TV Channels:
+2018/11/07 11:17:13 efficient.ChannelsViewers took 154.109µs
+1 - TV2 Norge: 235
+2 - NRK1: 219
+3 - Viasat 4: 147
+4 - TV2 Nyhet: 143
+5 - TV3 Norge: 136
+6 - MAX: 132
+7 - TVNORGE: 108
+8 - Disney Channel: 106
+9 - FEM: 104
+10 - NRK2: 95
+2018/11/07 11:17:13 efficient.ChannelsViewers took 145.404µs
+2018/11/07 11:17:13 efficient.AverageChannelDurations took 32.924µs
+Top 10 TV Channels:
+2018/11/07 11:17:14 efficient.ChannelsViewers took 315.326µs
+1 - TV2 Norge: 235
+2 - NRK1: 218
+3 - Viasat 4: 145
+4 - TV2 Nyhet: 144
+5 - TV3 Norge: 136
+6 - MAX: 134
+7 - TVNORGE: 109
+8 - Disney Channel: 106
+2018/11/07 11:17:14 efficient.ChannelsViewers took 390.711µs
+9 - FEM: 103
+10 - NRK2: 98
+2018/11/07 11:17:14 efficient.AverageChannelDurations took 36.278µs
+Top 10 TV Channels:
+2018/11/07 11:17:15 efficient.ChannelsViewers took 156.993µs
+1 - TV2 Norge: 238
+2 - NRK1: 216
+3 - Viasat 4: 146
+4 - TV2 Nyhet: 144
+5 - TV3 Norge: 135
+6 - MAX: 135
+7 - TVNORGE: 109
+8 - Disney Channel: 106
+9 - FEM: 103
+10 - NRK2: 98
+2018/11/07 11:17:15 efficient.ChannelsViewers took 147.813µs
+2018/11/07 11:17:15 efficient.AverageChannelDurations took 36.516µs
+Top 10 TV Channels:
+2018/11/07 11:17:16 efficient.ChannelsViewers took 301.94µs
+1 - TV2 Norge: 239
+2 - NRK1: 217
+3 - Viasat 4: 146
+4 - TV2 Nyhet: 144
+5 - MAX: 136
+6 - TV3 Norge: 135
+7 - TVNORGE: 109
+8 - Disney Channel: 106
+9 - FEM: 104
+2018/11/07 11:17:16 efficient.ChannelsViewers took 278.663µs
+10 - NRK2: 99
+2018/11/07 11:17:16 efficient.AverageChannelDurations took 41.494µs
+Top 10 TV Channels:
+2018/11/07 11:17:17 efficient.ChannelsViewers took 306.898µs
+1 - TV2 Norge: 240
+2 - NRK1: 219
+3 - Viasat 4: 145
+4 - TV2 Nyhet: 143
+5 - MAX: 134
+2018/11/07 11:17:17 efficient.ChannelsViewers took 214.735µs
+6 - TV3 Norge: 134
+7 - TVNORGE: 111
+8 - Disney Channel: 106
+9 - FEM: 104
+10 - NRK2: 101
+2018/11/07 11:17:17 efficient.AverageChannelDurations took 35.035µs
+Top 10 TV Channels:
+2018/11/07 11:17:18 efficient.ChannelsViewers took 148.828µs
+1 - TV2 Norge: 241
+2 - NRK1: 220
+3 - Viasat 4: 145
+4 - TV2 Nyhet: 142
+5 - MAX: 135
+6 - TV3 Norge: 134
+7 - TVNORGE: 109
+8 - Disney Channel: 106
+9 - FEM: 105
+10 - NRK2: 100
+2018/11/07 11:17:18 efficient.ChannelsViewers took 144.976µs
+2018/11/07 11:17:18 efficient.AverageChannelDurations took 34.961µs
+Top 10 TV Channels:
+2018/11/07 11:17:19 efficient.ChannelsViewers took 151.807µs
+1 - TV2 Norge: 244
+2 - NRK1: 222
+3 - Viasat 4: 146
+4 - TV2 Nyhet: 142
+5 - MAX: 136
+6 - TV3 Norge: 132
+7 - TVNORGE: 109
+8 - Disney Channel: 106
+9 - FEM: 105
+10 - NRK2: 100
+2018/11/07 11:17:19 efficient.ChannelsViewers took 152.134µs
+2018/11/07 11:17:19 efficient.AverageChannelDurations took 36.468µs
+Top 10 TV Channels:
+2018/11/07 11:17:20 efficient.ChannelsViewers took 151.526µs
+1 - TV2 Norge: 245
+2 - NRK1: 222
+3 - Viasat 4: 146
+4 - TV2 Nyhet: 143
+5 - MAX: 136
+6 - TV3 Norge: 131
+7 - TVNORGE: 109
+8 - Disney Channel: 106
+9 - FEM: 105
+10 - NRK2: 101
+2018/11/07 11:17:20 efficient.ChannelsViewers took 648.644µs
+2018/11/07 11:17:20 efficient.AverageChannelDurations took 108.981µs
+Top 10 TV Channels:
+2018/11/07 11:17:21 efficient.ChannelsViewers took 153.056µs
+1 - TV2 Norge: 246
+2 - NRK1: 224
+3 - Viasat 4: 146
+4 - TV2 Nyhet: 145
+5 - MAX: 136
+6 - TV3 Norge: 130
+7 - TVNORGE: 109
+8 - Disney Channel: 106
+9 - FEM: 105
+10 - NRK2: 102
+2018/11/07 11:17:21 efficient.ChannelsViewers took 139.552µs
+2018/11/07 11:17:21 efficient.AverageChannelDurations took 37.08µs
+Top 10 TV Channels:
+2018/11/07 11:17:22 efficient.ChannelsViewers took 215.943µs
+1 - TV2 Norge: 248
+2 - NRK1: 224
+3 - TV2 Nyhet: 146
+4 - Viasat 4: 145
+5 - MAX: 137
+6 - TV3 Norge: 130
+7 - TVNORGE: 110
+8 - Disney Channel: 107
+9 - FEM: 105
+10 - NRK2: 102
+2018/11/07 11:17:22 efficient.ChannelsViewers took 204.478µs
+2018/11/07 11:17:22 efficient.AverageChannelDurations took 38.985µs
+Top 10 TV Channels:
+2018/11/07 11:17:23 efficient.ChannelsViewers took 288.019µs
+1 - TV2 Norge: 248
+2 - NRK1: 225
+3 - Viasat 4: 146
+4 - TV2 Nyhet: 146
+2018/11/07 11:17:23 efficient.ChannelsViewers took 164.83µs
+5 - MAX: 138
+6 - TV3 Norge: 131
+7 - TVNORGE: 110
+8 - Disney Channel: 107
+9 - FEM: 104
+10 - NRK2: 103
+2018/11/07 11:17:23 efficient.AverageChannelDurations took 36.127µs
+Top 10 TV Channels:
+2018/11/07 11:17:24 efficient.ChannelsViewers took 309.329µs
+2018/11/07 11:17:24 efficient.AverageChannelDurations took 33.224µs
+2018/11/07 11:17:24 efficient.ChannelsViewers took 309.879µs
+1 - TV2 Norge: 249
+2 - NRK1: 226
+3 - TV2 Nyhet: 148
+4 - Viasat 4: 145
+5 - MAX: 138
+6 - TV3 Norge: 132
+7 - TVNORGE: 111
+8 - FEM: 107
+9 - Disney Channel: 107
+10 - NRK2: 103
+Top 10 TV Channels:
+2018/11/07 11:17:25 efficient.ChannelsViewers took 306.214µs
+2018/11/07 11:17:25 efficient.ChannelsViewers took 170.911µs
+1 - TV2 Norge: 249
+2 - NRK1: 227
+3 - TV2 Nyhet: 152
+4 - Viasat 4: 144
+5 - MAX: 138
+6 - TV3 Norge: 133
+7 - TVNORGE: 112
+2018/11/07 11:17:25 efficient.AverageChannelDurations took 41.468µs
+8 - FEM: 108
+9 - Disney Channel: 108
+10 - NRK2: 103
+Top 10 TV Channels:
+2018/11/07 11:17:26 efficient.ChannelsViewers took 224.847µs
+2018/11/07 11:17:26 efficient.ChannelsViewers took 315.76µs
+1 - TV2 Norge: 250
+2 - NRK1: 230
+3 - TV2 Nyhet: 152
+4 - Viasat 4: 144
+5 - MAX: 138
+6 - TV3 Norge: 133
+7 - TVNORGE: 112
+8 - Disney Channel: 110
+9 - FEM: 108
+10 - NRK2: 103
+2018/11/07 11:17:26 efficient.AverageChannelDurations took 33.177µs
+Top 10 TV Channels:
+2018/11/07 11:17:27 efficient.ChannelsViewers took 170.674µs
+2018/11/07 11:17:27 efficient.AverageChannelDurations took 34.102µs
+2018/11/07 11:17:27 efficient.ChannelsViewers took 289.625µs
+1 - TV2 Norge: 255
+2 - NRK1: 231
+3 - TV2 Nyhet: 154
+4 - Viasat 4: 144
+5 - MAX: 138
+6 - TV3 Norge: 131
+7 - TVNORGE: 114
+8 - FEM: 109
+9 - Disney Channel: 109
+10 - NRK2: 104
+Top 10 TV Channels:
+2018/11/07 11:17:28 efficient.ChannelsViewers took 278.402µs
+1 - TV2 Norge: 256
+2 - NRK1: 234
+3 - TV2 Nyhet: 153
+4 - Viasat 4: 144
+2018/11/07 11:17:28 efficient.ChannelsViewers took 311.501µs
+5 - MAX: 139
+6 - TV3 Norge: 132
+7 - TVNORGE: 113
+8 - Disney Channel: 110
+9 - FEM: 109
+10 - NRK2: 104
+2018/11/07 11:17:28 efficient.AverageChannelDurations took 42.588µs
+Top 10 TV Channels:
+2018/11/07 11:17:29 efficient.ChannelsViewers took 264.99µs
+2018/11/07 11:17:29 efficient.ChannelsViewers took 151.262µs
+1 - TV2 Norge: 260
+2 - NRK1: 233
+3 - TV2 Nyhet: 153
+4 - Viasat 4: 145
+5 - MAX: 139
+6 - TV3 Norge: 133
+7 - TVNORGE: 114
+8 - Disney Channel: 110
+9 - FEM: 109
+10 - NRK2: 105
+2018/11/07 11:17:29 efficient.AverageChannelDurations took 33.375µs
+Top 10 TV Channels:
+2018/11/07 11:17:30 efficient.ChannelsViewers took 160.545µs
+1 - TV2 Norge: 264
+2 - NRK1: 234
+3 - TV2 Nyhet: 154
+4 - Viasat 4: 146
+5 - MAX: 139
+6 - TV3 Norge: 130
+7 - TVNORGE: 116
+8 - Disney Channel: 110
+9 - FEM: 108
+10 - NRK2: 106
+2018/11/07 11:17:30 efficient.ChannelsViewers took 315.342µs
+2018/11/07 11:17:30 efficient.AverageChannelDurations took 33.748µs
+Top 10 TV Channels:
+2018/11/07 11:17:31 efficient.ChannelsViewers took 159.937µs
+2018/11/07 11:17:31 efficient.ChannelsViewers took 327.829µs
+1 - TV2 Norge: 265
+2 - NRK1: 233
+3 - TV2 Nyhet: 153
+4 - Viasat 4: 146
+2018/11/07 11:17:31 efficient.AverageChannelDurations took 37.494µs
+5 - MAX: 139
+6 - TV3 Norge: 126
+7 - TVNORGE: 119
+8 - Disney Channel: 110
+9 - FEM: 108
+10 - NRK2: 107
+Top 10 TV Channels:
+2018/11/07 11:17:32 efficient.ChannelsViewers took 159.639µs
+1 - TV2 Norge: 269
+2 - NRK1: 233
+3 - TV2 Nyhet: 154
+4 - Viasat 4: 147
+5 - MAX: 138
+6 - TVNORGE: 122
+7 - TV3 Norge: 122
+8 - FEM: 110
+9 - Disney Channel: 110
+10 - NRK2: 107
+2018/11/07 11:17:32 efficient.ChannelsViewers took 313.755µs
+2018/11/07 11:17:32 efficient.AverageChannelDurations took 34.073µs
+Top 10 TV Channels:
+2018/11/07 11:17:33 efficient.ChannelsViewers took 150.333µs
+1 - TV2 Norge: 275
+2 - NRK1: 234
+3 - TV2 Nyhet: 155
+4 - Viasat 4: 147
+5 - MAX: 138
+6 - TVNORGE: 124
+7 - TV3 Norge: 121
+8 - FEM: 112
+9 - Disney Channel: 111
+10 - NRK2: 107
+2018/11/07 11:17:33 efficient.ChannelsViewers took 146.489µs
+2018/11/07 11:17:33 efficient.AverageChannelDurations took 33.237µs
+Top 10 TV Channels:
+2018/11/07 11:17:34 efficient.ChannelsViewers took 290.189µs
+2018/11/07 11:17:34 efficient.ChannelsViewers took 314.854µs
+1 - TV2 Norge: 282
+2 - NRK1: 238
+3 - TV2 Nyhet: 154
+4 - Viasat 4: 149
+5 - MAX: 137
+6 - TVNORGE: 123
+7 - TV3 Norge: 121
+8 - FEM: 112
+9 - Disney Channel: 111
+10 - NRK2: 107
+2018/11/07 11:17:34 efficient.AverageChannelDurations took 41.15µs
+Top 10 TV Channels:
+2018/11/07 11:17:35 efficient.ChannelsViewers took 212.296µs
+2018/11/07 11:17:35 efficient.ChannelsViewers took 304.14µs
+2018/11/07 11:17:35 efficient.AverageChannelDurations took 41.21µs
+1 - TV2 Norge: 286
+2 - NRK1: 239
+3 - TV2 Nyhet: 156
+4 - Viasat 4: 149
+5 - MAX: 138
+6 - TVNORGE: 127
+7 - TV3 Norge: 117
+8 - FEM: 114
+9 - Disney Channel: 111
+10 - NRK2: 107
+Top 10 TV Channels:
+2018/11/07 11:17:36 efficient.ChannelsViewers took 300.244µs
+2018/11/07 11:17:36 efficient.ChannelsViewers took 279.077µs
+2018/11/07 11:17:36 efficient.AverageChannelDurations took 39.891µs
+1 - TV2 Norge: 291
+2 - NRK1: 242
+3 - TV2 Nyhet: 156
+4 - Viasat 4: 149
+5 - MAX: 138
+6 - TVNORGE: 127
+7 - FEM: 115
+8 - TV3 Norge: 115
+9 - Disney Channel: 111
+10 - NRK2: 108
+Top 10 TV Channels:
+2018/11/07 11:17:37 efficient.ChannelsViewers took 181.876µs
+2018/11/07 11:17:37 efficient.ChannelsViewers took 300.07µs
+1 - TV2 Norge: 293
+2 - NRK1: 240
+3 - TV2 Nyhet: 154
+4 - Viasat 4: 149
+5 - MAX: 138
+6 - TVNORGE: 129
+7 - FEM: 116
+8 - TV3 Norge: 115
+9 - Disney Channel: 111
+2018/11/07 11:17:37 efficient.AverageChannelDurations took 34.684µs
+10 - NRK2: 107
+Top 10 TV Channels:
+2018/11/07 11:17:38 efficient.ChannelsViewers took 183.756µs
+2018/11/07 11:17:38 efficient.AverageChannelDurations took 34.396µs
+2018/11/07 11:17:38 efficient.ChannelsViewers took 303.04µs
+1 - TV2 Norge: 294
+2 - NRK1: 241
+3 - TV2 Nyhet: 155
+4 - Viasat 4: 149
+5 - MAX: 141
+6 - TVNORGE: 131
+7 - FEM: 116
+8 - TV3 Norge: 112
+9 - Disney Channel: 110
+10 - NRK2: 107
+Top 10 TV Channels:
+2018/11/07 11:17:39 efficient.ChannelsViewers took 270.323µs
+2018/11/07 11:17:39 efficient.ChannelsViewers took 330.394µs
+2018/11/07 11:17:39 efficient.AverageChannelDurations took 35.526µs
+1 - TV2 Norge: 298
+2 - NRK1: 242
+3 - TV2 Nyhet: 155
+4 - Viasat 4: 148
+5 - MAX: 143
+6 - TVNORGE: 132
+7 - FEM: 117
+8 - TV3 Norge: 113
+9 - Disney Channel: 110
+10 - NRK2: 107
+Top 10 TV Channels:
+2018/11/07 11:17:40 efficient.ChannelsViewers took 305.753µs
+2018/11/07 11:17:40 efficient.ChannelsViewers took 276.986µs
+2018/11/07 11:17:40 efficient.AverageChannelDurations took 39.343µs
+1 - TV2 Norge: 301
+2 - NRK1: 246
+3 - TV2 Nyhet: 156
+4 - Viasat 4: 148
+5 - MAX: 143
+6 - TVNORGE: 133
+7 - FEM: 117
+8 - TV3 Norge: 112
+9 - Disney Channel: 111
+10 - NRK2: 105
+Top 10 TV Channels:
+2018/11/07 11:17:41 efficient.ChannelsViewers took 163.837µs
+2018/11/07 11:17:41 efficient.AverageChannelDurations took 35.419µs
+2018/11/07 11:17:41 efficient.ChannelsViewers took 259.245µs
+1 - TV2 Norge: 304
+2 - NRK1: 247
+3 - TV2 Nyhet: 158
+4 - Viasat 4: 148
+5 - MAX: 143
+6 - TVNORGE: 134
+7 - FEM: 118
+8 - Disney Channel: 110
+9 - TV3 Norge: 110
+10 - NRK2: 105
+Top 10 TV Channels:
+2018/11/07 11:17:42 efficient.ChannelsViewers took 323.269µs
+2018/11/07 11:17:42 efficient.ChannelsViewers took 274.91µs
+2018/11/07 11:17:42 efficient.AverageChannelDurations took 37.943µs
+1 - TV2 Norge: 309
+2 - NRK1: 247
+3 - TV2 Nyhet: 158
+4 - Viasat 4: 148
+5 - MAX: 146
+6 - TVNORGE: 137
+7 - FEM: 119
+8 - Disney Channel: 112
+9 - TV3 Norge: 111
+10 - NRK2: 104
+Top 10 TV Channels:
+2018/11/07 11:17:43 efficient.ChannelsViewers took 208.246µs
+2018/11/07 11:17:43 efficient.ChannelsViewers took 323.269µs
+1 - TV2 Norge: 310
+2 - NRK1: 249
+3 - TV2 Nyhet: 160
+4 - Viasat 4: 149
+5 - MAX: 147
+6 - TVNORGE: 137
+7 - FEM: 119
+8 - Disney Channel: 112
+9 - TV3 Norge: 111
+10 - TV2 Zebra: 105
+2018/11/07 11:17:43 efficient.AverageChannelDurations took 37.642µs
+Top 10 TV Channels:
+2018/11/07 11:17:44 efficient.ChannelsViewers took 298.325µs
+2018/11/07 11:17:44 efficient.AverageChannelDurations took 38.116µs
+2018/11/07 11:17:44 efficient.ChannelsViewers took 280.117µs
+1 - TV2 Norge: 311
+2 - NRK1: 249
+3 - TV2 Nyhet: 160
+4 - Viasat 4: 151
+5 - MAX: 147
+6 - TVNORGE: 139
+7 - FEM: 119
+8 - Disney Channel: 113
+9 - TV3 Norge: 112
+10 - TV2 Zebra: 104
+Top 10 TV Channels:
+2018/11/07 11:17:45 efficient.ChannelsViewers took 178.24µs
+1 - TV2 Norge: 313
+2 - NRK1: 248
+3 - TV2 Nyhet: 161
+4 - Viasat 4: 151
+5 - MAX: 147
+6 - TVNORGE: 138
+7 - FEM: 119
+8 - TV3 Norge: 114
+2018/11/07 11:17:45 efficient.ChannelsViewers took 302.463µs
+9 - Disney Channel: 113
+10 - TV2 Zebra: 104
+2018/11/07 11:17:45 efficient.AverageChannelDurations took 34.423µs
+Top 10 TV Channels:
+2018/11/07 11:17:46 efficient.ChannelsViewers took 232.453µs
+2018/11/07 11:17:46 efficient.AverageChannelDurations took 33.694µs
+2018/11/07 11:17:46 efficient.ChannelsViewers took 515.049µs
+1 - TV2 Norge: 316
+2 - NRK1: 249
+3 - TV2 Nyhet: 162
+4 - Viasat 4: 151
+5 - MAX: 146
+6 - TVNORGE: 138
+7 - FEM: 119
+8 - Disney Channel: 115
+9 - TV3 Norge: 114
+10 - TV2 Zebra: 105
+Top 10 TV Channels:
+2018/11/07 11:17:47 efficient.ChannelsViewers took 293.182µs
+2018/11/07 11:17:47 efficient.ChannelsViewers took 332.475µs
+1 - TV2 Norge: 315
+2 - NRK1: 249
+3 - TV2 Nyhet: 162
+4 - Viasat 4: 152
+5 - MAX: 146
+6 - TVNORGE: 141
+7 - FEM: 120
+2018/11/07 11:17:47 efficient.AverageChannelDurations took 46.474µs
+8 - Disney Channel: 117
+9 - TV3 Norge: 116
+10 - TV2 Zebra: 105
+Top 10 TV Channels:
+2018/11/07 11:17:48 efficient.ChannelsViewers took 240.72µs
+1 - TV2 Norge: 316
+2 - NRK1: 248
+3 - TV2 Nyhet: 164
+4 - Viasat 4: 152
+5 - MAX: 147
+6 - TVNORGE: 141
+7 - FEM: 123
+8 - Disney Channel: 118
+9 - TV3 Norge: 116
+2018/11/07 11:17:48 efficient.ChannelsViewers took 329.548µs
+10 - TV2 Zebra: 106
+2018/11/07 11:17:48 efficient.AverageChannelDurations took 40.803µs
+Top 10 TV Channels:
+2018/11/07 11:17:49 efficient.ChannelsViewers took 287.002µs
+1 - TV2 Norge: 317
+2 - NRK1: 248
+3 - TV2 Nyhet: 165
+4 - Viasat 4: 152
+5 - MAX: 147
+6 - TVNORGE: 142
+7 - FEM: 124
+8 - Disney Channel: 119
+9 - TV3 Norge: 115
+10 - TV2 Zebra: 106
+2018/11/07 11:17:49 efficient.ChannelsViewers took 1.072914ms
+2018/11/07 11:17:49 efficient.AverageChannelDurations took 99.405µs
+Top 10 TV Channels:
+2018/11/07 11:17:50 efficient.ChannelsViewers took 163.061µs
+1 - TV2 Norge: 319
+2 - NRK1: 247
+3 - TV2 Nyhet: 165
+4 - Viasat 4: 151
+5 - MAX: 148
+6 - TVNORGE: 142
+7 - FEM: 124
+8 - Disney Channel: 121
+9 - TV3 Norge: 115
+10 - TV2 Zebra: 106
+2018/11/07 11:17:50 efficient.ChannelsViewers took 133.126µs
+2018/11/07 11:17:50 efficient.AverageChannelDurations took 37.531µs
+Top 10 TV Channels:
+2018/11/07 11:17:51 efficient.ChannelsViewers took 178.945µs
+1 - TV2 Norge: 319
+2 - NRK1: 247
+3 - TV2 Nyhet: 165
+4 - Viasat 4: 151
+5 - MAX: 150
+6 - TVNORGE: 142
+7 - FEM: 124
+8 - Disney Channel: 120
+9 - TV3 Norge: 115
+10 - TV2 Zebra: 105
+2018/11/07 11:17:51 efficient.ChannelsViewers took 127.676µs
+2018/11/07 11:17:51 efficient.AverageChannelDurations took 35.379µs
+Top 10 TV Channels:
+2018/11/07 11:17:52 efficient.ChannelsViewers took 158.531µs
+1 - TV2 Norge: 324
+2 - NRK1: 249
+3 - TV2 Nyhet: 165
+4 - Viasat 4: 150
+5 - MAX: 150
+6 - TVNORGE: 139
+7 - FEM: 124
+8 - Disney Channel: 120
+9 - TV3 Norge: 115
+10 - TV2 Zebra: 107
+2018/11/07 11:17:52 efficient.ChannelsViewers took 134.243µs
+2018/11/07 11:17:52 efficient.AverageChannelDurations took 39.71µs
+Top 10 TV Channels:
+2018/11/07 11:17:53 efficient.ChannelsViewers took 332.448µs
+2018/11/07 11:17:53 efficient.ChannelsViewers took 372.015µs
+2018/11/07 11:17:53 efficient.AverageChannelDurations took 35.798µs
+1 - TV2 Norge: 326
+2 - NRK1: 250
+3 - TV2 Nyhet: 167
+4 - MAX: 151
+5 - Viasat 4: 150
+6 - TVNORGE: 137
+7 - FEM: 124
+8 - Disney Channel: 120
+9 - TV3 Norge: 115
+10 - TV2 Zebra: 107
+Top 10 TV Channels:
+2018/11/07 11:17:54 efficient.ChannelsViewers took 178.333µs
+1 - TV2 Norge: 328
+2 - NRK1: 253
+3 - TV2 Nyhet: 167
+4 - MAX: 152
+2018/11/07 11:17:54 efficient.ChannelsViewers took 308.991µs
+5 - Viasat 4: 150
+6 - TVNORGE: 135
+7 - FEM: 125
+8 - Disney Channel: 121
+9 - TV3 Norge: 115
+10 - TV2 Zebra: 107
+2018/11/07 11:17:54 efficient.AverageChannelDurations took 56.6µs
+Top 10 TV Channels:
+2018/11/07 11:17:55 efficient.ChannelsViewers took 304.106µs
+2018/11/07 11:17:55 efficient.ChannelsViewers took 328.586µs
+1 - TV2 Norge: 334
+2 - NRK1: 252
+3 - TV2 Nyhet: 166
+2018/11/07 11:17:55 efficient.AverageChannelDurations took 41.136µs
+4 - MAX: 154
+5 - Viasat 4: 150
+6 - TVNORGE: 134
+7 - FEM: 127
+8 - Disney Channel: 122
+9 - TV3 Norge: 115
+10 - TV2 Zebra: 107
+Top 10 TV Channels:
+2018/11/07 11:17:56 efficient.ChannelsViewers took 192.275µs
+1 - TV2 Norge: 333
+2 - NRK1: 253
+3 - TV2 Nyhet: 166
+4 - MAX: 154
+5 - Viasat 4: 150
+6 - TVNORGE: 137
+2018/11/07 11:17:56 efficient.ChannelsViewers took 324.42µs
+7 - FEM: 126
+8 - Disney Channel: 122
+9 - TV3 Norge: 114
+10 - NRK2: 107
+2018/11/07 11:17:56 efficient.AverageChannelDurations took 37.271µs
+Top 10 TV Channels:
+2018/11/07 11:17:57 efficient.ChannelsViewers took 318.759µs
+2018/11/07 11:17:57 efficient.ChannelsViewers took 349.084µs
+1 - TV2 Norge: 331
+2 - NRK1: 254
+3 - TV2 Nyhet: 166
+4 - MAX: 155
+5 - Viasat 4: 148
+6 - TVNORGE: 138
+7 - FEM: 128
+8 - Disney Channel: 123
+9 - TV3 Norge: 114
+10 - NRK2: 108
+2018/11/07 11:17:57 efficient.AverageChannelDurations took 34.975µs
+Top 10 TV Channels:
+2018/11/07 11:17:58 efficient.ChannelsViewers took 289.59µs
+1 - TV2 Norge: 334
+2 - NRK1: 254
+3 - TV2 Nyhet: 167
+4 - MAX: 156
+5 - Viasat 4: 149
+2018/11/07 11:17:58 efficient.ChannelsViewers took 165.548µs
+6 - TVNORGE: 135
+7 - FEM: 130
+8 - Disney Channel: 123
+9 - TV3 Norge: 114
+10 - NRK2: 108
+2018/11/07 11:17:58 efficient.AverageChannelDurations took 40.111µs
+Top 10 TV Channels:
+2018/11/07 11:17:59 efficient.ChannelsViewers took 306.631µs
+1 - TV2 Norge: 335
+2 - NRK1: 255
+3 - TV2 Nyhet: 167
+4 - MAX: 157
+5 - Viasat 4: 150
+2018/11/07 11:17:59 efficient.ChannelsViewers took 158.912µs
+6 - TVNORGE: 133
+7 - FEM: 132
+8 - Disney Channel: 123
+9 - TV3 Norge: 116
+10 - NRK2: 110
+2018/11/07 11:17:59 efficient.AverageChannelDurations took 36.235µs
+Top 10 TV Channels:
+2018/11/07 11:18:00 efficient.ChannelsViewers took 269.7µs
+2018/11/07 11:18:00 efficient.ChannelsViewers took 161.263µs
+1 - TV2 Norge: 337
+2 - NRK1: 256
+3 - TV2 Nyhet: 166
+4 - MAX: 157
+5 - Viasat 4: 150
+6 - TVNORGE: 135
+7 - FEM: 132
+8 - Disney Channel: 123
+9 - TV3 Norge: 116
+10 - NRK2: 109
+2018/11/07 11:18:00 efficient.AverageChannelDurations took 56.813µs
+Top 10 TV Channels:
+2018/11/07 11:18:01 efficient.ChannelsViewers took 316.578µs
+2018/11/07 11:18:01 efficient.AverageChannelDurations took 35.948µs
+2018/11/07 11:18:01 efficient.ChannelsViewers took 323.941µs
+1 - TV2 Norge: 339
+2 - NRK1: 258
+3 - TV2 Nyhet: 167
+4 - MAX: 157
+5 - Viasat 4: 150
+6 - FEM: 135
+7 - TVNORGE: 133
+8 - Disney Channel: 123
+9 - TV3 Norge: 116
+10 - NRK2: 109
+Top 10 TV Channels:
+2018/11/07 11:18:02 efficient.ChannelsViewers took 186.988µs
+2018/11/07 11:18:02 efficient.AverageChannelDurations took 38.246µs
+2018/11/07 11:18:02 efficient.ChannelsViewers took 304.709µs
+1 - TV2 Norge: 339
+2 - NRK1: 260
+3 - TV2 Nyhet: 167
+4 - MAX: 160
+5 - Viasat 4: 148
+6 - FEM: 135
+7 - TVNORGE: 132
+8 - Disney Channel: 124
+9 - TV3 Norge: 116
+10 - NRK2: 109
+Top 10 TV Channels:
+2018/11/07 11:18:03 efficient.ChannelsViewers took 168.602µs
+2018/11/07 11:18:03 efficient.AverageChannelDurations took 39.442µs
+2018/11/07 11:18:03 efficient.ChannelsViewers took 287.416µs
+1 - TV2 Norge: 340
+2 - NRK1: 261
+3 - TV2 Nyhet: 168
+4 - MAX: 163
+5 - Viasat 4: 150
+6 - FEM: 134
+7 - TVNORGE: 131
+8 - Disney Channel: 125
+9 - TV3 Norge: 116
+10 - NRK2: 109
+2018/11/07 11:18:04 efficient.ChannelsViewers took 162.275µs
+Top 10 TV Channels:
+2018/11/07 11:18:04 efficient.AverageChannelDurations took 38.922µs
+2018/11/07 11:18:04 efficient.ChannelsViewers took 220.504µs
+1 - TV2 Norge: 344
+2 - NRK1: 261
+3 - TV2 Nyhet: 168
+4 - MAX: 161
+5 - Viasat 4: 154
+6 - FEM: 134
+7 - TVNORGE: 132
+8 - Disney Channel: 126
+9 - TV3 Norge: 117
+10 - TV2 Zebra: 106
+Top 10 TV Channels:
+2018/11/07 11:18:05 efficient.ChannelsViewers took 283.694µs
+2018/11/07 11:18:05 efficient.ChannelsViewers took 160.549µs
+1 - TV2 Norge: 344
+2 - NRK1: 261
+3 - TV2 Nyhet: 169
+4 - MAX: 161
+5 - Viasat 4: 155
+2018/11/07 11:18:05 efficient.AverageChannelDurations took 45.225µs
+6 - FEM: 135
+7 - TVNORGE: 130
+8 - Disney Channel: 125
+9 - TV3 Norge: 117
+10 - NRK2: 108
+Top 10 TV Channels:
+2018/11/07 11:18:06 efficient.ChannelsViewers took 268.364µs
+2018/11/07 11:18:06 efficient.ChannelsViewers took 312.686µs
+1 - TV2 Norge: 343
+2 - NRK1: 264
+3 - TV2 Nyhet: 170
+4 - MAX: 161
+5 - Viasat 4: 156
+6 - FEM: 135
+7 - TVNORGE: 130
+8 - Disney Channel: 125
+9 - TV3 Norge: 118
+10 - NRK2: 109
+2018/11/07 11:18:06 efficient.AverageChannelDurations took 34.774µs
+Top 10 TV Channels:
+2018/11/07 11:18:07 efficient.ChannelsViewers took 211.139µs
+2018/11/07 11:18:07 efficient.ChannelsViewers took 343.693µs
+2018/11/07 11:18:07 efficient.AverageChannelDurations took 33.11µs
+1 - TV2 Norge: 345
+2 - NRK1: 264
+3 - TV2 Nyhet: 172
+4 - MAX: 161
+5 - Viasat 4: 157
+6 - FEM: 136
+7 - TVNORGE: 132
+8 - Disney Channel: 125
+9 - TV3 Norge: 118
+10 - NRK2: 110
+Top 10 TV Channels:
+2018/11/07 11:18:08 efficient.ChannelsViewers took 295.918µs
+2018/11/07 11:18:08 efficient.ChannelsViewers took 161.705µs
+1 - TV2 Norge: 346
+2 - NRK1: 263
+3 - TV2 Nyhet: 172
+4 - MAX: 163
+5 - Viasat 4: 158
+2018/11/07 11:18:08 efficient.AverageChannelDurations took 63.724µs
+6 - FEM: 137
+7 - TVNORGE: 132
+8 - Disney Channel: 128
+9 - TV3 Norge: 120
+10 - NRK2: 110
+Top 10 TV Channels:
+2018/11/07 11:18:09 efficient.ChannelsViewers took 281.473µs
+2018/11/07 11:18:09 efficient.AverageChannelDurations took 38.23µs
+2018/11/07 11:18:09 efficient.ChannelsViewers took 316.159µs
+1 - TV2 Norge: 346
+2 - NRK1: 264
+3 - TV2 Nyhet: 172
+4 - MAX: 163
+5 - Viasat 4: 159
+6 - FEM: 138
+7 - TVNORGE: 133
+8 - Disney Channel: 128
+9 - TV3 Norge: 120
+10 - NRK2: 111
+Top 10 TV Channels:
+2018/11/07 11:18:10 efficient.ChannelsViewers took 318.484µs
+2018/11/07 11:18:10 efficient.ChannelsViewers took 354.313µs
+1 - TV2 Norge: 346
+2 - NRK1: 265
+3 - TV2 Nyhet: 173
+2018/11/07 11:18:10 efficient.AverageChannelDurations took 40.736µs
+4 - MAX: 164
+5 - Viasat 4: 160
+6 - FEM: 137
+7 - TVNORGE: 133
+8 - Disney Channel: 129
+9 - TV3 Norge: 120
+10 - TV2 Zebra: 110
+Top 10 TV Channels:
+2018/11/07 11:18:11 efficient.ChannelsViewers took 274.649µs
+2018/11/07 11:18:11 efficient.AverageChannelDurations took 34.621µs
+2018/11/07 11:18:11 efficient.ChannelsViewers took 340.512µs
+1 - TV2 Norge: 347
+2 - NRK1: 266
+3 - TV2 Nyhet: 174
+4 - MAX: 165
+5 - Viasat 4: 160
+6 - FEM: 137
+7 - TVNORGE: 132
+8 - Disney Channel: 129
+9 - TV3 Norge: 119
+10 - TV2 Zebra: 110
+2018/11/07 11:18:12 efficient.ChannelsViewers took 159.74µs
+Top 10 TV Channels:
+2018/11/07 11:18:12 efficient.AverageChannelDurations took 40.582µs
+2018/11/07 11:18:12 efficient.ChannelsViewers took 248.698µs
+1 - TV2 Norge: 348
+2 - NRK1: 268
+3 - TV2 Nyhet: 173
+4 - MAX: 168
+5 - Viasat 4: 161
+6 - FEM: 138
+7 - TVNORGE: 133
+8 - Disney Channel: 128
+9 - TV3 Norge: 119
+10 - TV2 Zebra: 110
+Top 10 TV Channels:
+2018/11/07 11:18:13 efficient.ChannelsViewers took 207.099µs
+1 - TV2 Norge: 348
+2 - NRK1: 271
+3 - TV2 Nyhet: 177
+4 - MAX: 168
+2018/11/07 11:18:13 efficient.ChannelsViewers took 381.558µs
+5 - Viasat 4: 162
+6 - FEM: 138
+7 - TVNORGE: 131
+8 - Disney Channel: 128
+9 - TV3 Norge: 120
+10 - TV2 Zebra: 110
+2018/11/07 11:18:13 efficient.AverageChannelDurations took 41.157µs
+Top 10 TV Channels:
+2018/11/07 11:18:14 efficient.ChannelsViewers took 773.299µs
+1 - TV2 Norge: 347
+2 - NRK1: 268
+3 - TV2 Nyhet: 177
+4 - MAX: 169
+5 - Viasat 4: 162
+6 - FEM: 137
+7 - TVNORGE: 132
+8 - Disney Channel: 129
+9 - TV3 Norge: 119
+10 - NRK2: 111
+2018/11/07 11:18:14 efficient.ChannelsViewers took 1.322661ms
+2018/11/07 11:18:14 efficient.AverageChannelDurations took 116.434µs
+Top 10 TV Channels:
+2018/11/07 11:18:15 efficient.ChannelsViewers took 179.85µs
+1 - TV2 Norge: 348
+2 - NRK1: 267
+3 - TV2 Nyhet: 178
+4 - MAX: 167
+5 - Viasat 4: 163
+6 - FEM: 138
+7 - TVNORGE: 132
+8 - Disney Channel: 129
+9 - TV3 Norge: 120
+10 - NRK2: 112
+2018/11/07 11:18:15 efficient.ChannelsViewers took 144.922µs
+2018/11/07 11:18:15 efficient.AverageChannelDurations took 58.224µs
+Top 10 TV Channels:
+2018/11/07 11:18:16 efficient.ChannelsViewers took 172.812µs
+1 - TV2 Norge: 349
+2 - NRK1: 269
+3 - TV2 Nyhet: 178
+4 - MAX: 166
+5 - Viasat 4: 163
+6 - FEM: 138
+7 - TVNORGE: 131
+8 - Disney Channel: 130
+9 - TV3 Norge: 119
+10 - NRK2: 113
+2018/11/07 11:18:16 efficient.ChannelsViewers took 156.758µs
+2018/11/07 11:18:16 efficient.AverageChannelDurations took 36.452µs
+Top 10 TV Channels:
+2018/11/07 11:18:17 efficient.ChannelsViewers took 164.755µs
+1 - TV2 Norge: 350
+2 - NRK1: 268
+3 - TV2 Nyhet: 180
+4 - MAX: 168
+5 - Viasat 4: 164
+6 - FEM: 138
+7 - TVNORGE: 132
+8 - Disney Channel: 129
+9 - TV3 Norge: 119
+10 - NRK2: 113
+2018/11/07 11:18:17 efficient.ChannelsViewers took 143.045µs
+2018/11/07 11:18:17 efficient.AverageChannelDurations took 39.319µs
+Top 10 TV Channels:
+2018/11/07 11:18:18 efficient.ChannelsViewers took 173.602µs
+1 - TV2 Norge: 348
+2 - NRK1: 269
+3 - TV2 Nyhet: 180
+4 - MAX: 168
+5 - Viasat 4: 164
+6 - FEM: 139
+7 - Disney Channel: 131
+8 - TVNORGE: 130
+9 - TV3 Norge: 121
+10 - NRK2: 113
+2018/11/07 11:18:18 efficient.ChannelsViewers took 159.479µs
+2018/11/07 11:18:18 efficient.AverageChannelDurations took 38.905µs
+Top 10 TV Channels:
+2018/11/07 11:18:19 efficient.ChannelsViewers took 165.384µs
+1 - TV2 Norge: 348
+2 - NRK1: 272
+3 - TV2 Nyhet: 180
+4 - MAX: 170
+5 - Viasat 4: 164
+6 - FEM: 139
+7 - Disney Channel: 131
+8 - TVNORGE: 128
+9 - TV3 Norge: 120
+10 - NRK2: 115
+2018/11/07 11:18:19 efficient.ChannelsViewers took 138.503µs
+2018/11/07 11:18:19 efficient.AverageChannelDurations took 54.855µs
+Top 10 TV Channels:
+2018/11/07 11:18:20 efficient.ChannelsViewers took 156.538µs
+1 - TV2 Norge: 349
+2 - NRK1: 271
+3 - TV2 Nyhet: 179
+4 - MAX: 171
+5 - Viasat 4: 165
+6 - FEM: 139
+7 - Disney Channel: 133
+8 - TVNORGE: 128
+9 - TV3 Norge: 119
+10 - NRK2: 115
+2018/11/07 11:18:20 efficient.ChannelsViewers took 151.529µs
+2018/11/07 11:18:20 efficient.AverageChannelDurations took 39.944µs
+Top 10 TV Channels:
+2018/11/07 11:18:21 efficient.ChannelsViewers took 298.262µs
+1 - TV2 Norge: 349
+2018/11/07 11:18:21 efficient.ChannelsViewers took 245.176µs
+2 - NRK1: 271
+3 - TV2 Nyhet: 179
+4 - MAX: 171
+5 - Viasat 4: 165
+6 - FEM: 138
+7 - Disney Channel: 132
+8 - TVNORGE: 126
+9 - TV3 Norge: 120
+10 - TV2 Zebra: 115
+2018/11/07 11:18:21 efficient.AverageChannelDurations took 39.547µs
+Top 10 TV Channels:
+2018/11/07 11:18:22 efficient.ChannelsViewers took 157.547µs
+1 - TV2 Norge: 350
+2 - NRK1: 272
+3 - TV2 Nyhet: 180
+4 - MAX: 171
+5 - Viasat 4: 165
+6 - FEM: 138
+7 - Disney Channel: 132
+8 - TVNORGE: 125
+9 - TV3 Norge: 121
+10 - TV2 Zebra: 116
+2018/11/07 11:18:22 efficient.ChannelsViewers took 142.727µs
+2018/11/07 11:18:22 efficient.AverageChannelDurations took 36.057µs
+Top 10 TV Channels:
+2018/11/07 11:18:23 efficient.ChannelsViewers took 312.011µs
+2018/11/07 11:18:23 efficient.ChannelsViewers took 348.52µs
+2018/11/07 11:18:23 efficient.AverageChannelDurations took 40.88µs
+1 - TV2 Norge: 352
+2 - NRK1: 274
+3 - TV2 Nyhet: 180
+4 - MAX: 171
+5 - Viasat 4: 166
+6 - FEM: 139
+7 - Disney Channel: 133
+8 - TVNORGE: 125
+9 - TV3 Norge: 122
+10 - TV2 Zebra: 117
+Top 10 TV Channels:
+2018/11/07 11:18:24 efficient.ChannelsViewers took 182.257µs
+1 - TV2 Norge: 355
+2 - NRK1: 274
+3 - TV2 Nyhet: 179
+4 - MAX: 172
+5 - Viasat 4: 165
+2018/11/07 11:18:24 efficient.ChannelsViewers took 332.307µs
+6 - FEM: 137
+7 - Disney Channel: 133
+8 - TVNORGE: 126
+9 - TV3 Norge: 121
+10 - TV2 Zebra: 119
+2018/11/07 11:18:24 efficient.AverageChannelDurations took 42.213µs
+Top 10 TV Channels:
+2018/11/07 11:18:25 efficient.ChannelsViewers took 263.196µs
+2018/11/07 11:18:25 efficient.ChannelsViewers took 163.963µs
+1 - TV2 Norge: 352
+2 - NRK1: 276
+3 - TV2 Nyhet: 179
+4 - MAX: 172
+5 - Viasat 4: 163
+6 - FEM: 139
+7 - Disney Channel: 135
+8 - TVNORGE: 126
+9 - TV3 Norge: 123
+10 - TV2 Zebra: 120
+2018/11/07 11:18:25 efficient.AverageChannelDurations took 34.25µs
+Top 10 TV Channels:
+2018/11/07 11:18:26 efficient.ChannelsViewers took 275.619µs
+2018/11/07 11:18:26 efficient.ChannelsViewers took 333.909µs
+1 - TV2 Norge: 350
+2 - NRK1: 276
+3 - TV2 Nyhet: 180
+4 - MAX: 173
+5 - Viasat 4: 163
+6 - FEM: 140
+7 - Disney Channel: 135
+8 - TVNORGE: 128
+9 - TV3 Norge: 126
+10 - TV2 Zebra: 120
+2018/11/07 11:18:26 efficient.AverageChannelDurations took 34.36µs
+Top 10 TV Channels:
+2018/11/07 11:18:27 efficient.ChannelsViewers took 285.054µs
+2018/11/07 11:18:27 efficient.ChannelsViewers took 275.829µs
+1 - TV2 Norge: 350
+2 - NRK1: 278
+3 - TV2 Nyhet: 180
+4 - MAX: 176
+5 - Viasat 4: 163
+6 - FEM: 142
+7 - Disney Channel: 135
+8 - TV3 Norge: 126
+9 - TVNORGE: 126
+10 - TV2 Zebra: 120
+2018/11/07 11:18:27 efficient.AverageChannelDurations took 39.192µs
+Top 10 TV Channels:
+2018/11/07 11:18:28 efficient.ChannelsViewers took 311.221µs
+1 - TV2 Norge: 349
+2 - NRK1: 278
+2018/11/07 11:18:28 efficient.ChannelsViewers took 249.61µs
+3 - TV2 Nyhet: 181
+4 - MAX: 176
+5 - Viasat 4: 164
+6 - FEM: 142
+7 - Disney Channel: 135
+8 - TV3 Norge: 128
+9 - TVNORGE: 125
+10 - TV2 Zebra: 121
+2018/11/07 11:18:28 efficient.AverageChannelDurations took 35.399µs
+Top 10 TV Channels:
+2018/11/07 11:18:29 efficient.ChannelsViewers took 316.693µs
+2018/11/07 11:18:29 efficient.ChannelsViewers took 357.031µs
+1 - TV2 Norge: 349
+2 - NRK1: 279
+3 - TV2 Nyhet: 183
+4 - MAX: 177
+5 - Viasat 4: 164
+6 - FEM: 142
+7 - Disney Channel: 137
+8 - TV3 Norge: 127
+9 - TVNORGE: 126
+10 - TV2 Zebra: 121
+2018/11/07 11:18:29 efficient.AverageChannelDurations took 38.651µs
+Top 10 TV Channels:
+2018/11/07 11:18:30 efficient.ChannelsViewers took 171.269µs
+2018/11/07 11:18:30 efficient.AverageChannelDurations took 36.409µs
+2018/11/07 11:18:30 efficient.ChannelsViewers took 310.883µs
+1 - TV2 Norge: 351
+2 - NRK1: 279
+3 - TV2 Nyhet: 184
+4 - MAX: 177
+5 - Viasat 4: 162
+6 - FEM: 143
+7 - Disney Channel: 138
+8 - TV3 Norge: 127
+9 - TVNORGE: 126
+10 - TV2 Zebra: 120
+Top 10 TV Channels:
+2018/11/07 11:18:31 efficient.ChannelsViewers took 168.311µs
+2018/11/07 11:18:31 efficient.ChannelsViewers took 331.276µs
+1 - TV2 Norge: 349
+2 - NRK1: 279
+3 - TV2 Nyhet: 185
+4 - MAX: 175
+5 - Viasat 4: 162
+6 - FEM: 144
+7 - Disney Channel: 138
+8 - TV3 Norge: 129
+9 - TVNORGE: 125
+10 - TV2 Zebra: 121
+2018/11/07 11:18:31 efficient.AverageChannelDurations took 39.259µs
+Top 10 TV Channels:
+2018/11/07 11:18:32 efficient.ChannelsViewers took 243.875µs
+2018/11/07 11:18:32 efficient.ChannelsViewers took 322.479µs
+1 - TV2 Norge: 351
+2 - NRK1: 280
+3 - TV2 Nyhet: 184
+2018/11/07 11:18:32 efficient.AverageChannelDurations took 35.326µs
+4 - MAX: 177
+5 - Viasat 4: 164
+6 - FEM: 145
+7 - Disney Channel: 137
+8 - TV3 Norge: 130
+9 - TVNORGE: 125
+10 - TV2 Zebra: 123
+Top 10 TV Channels:
+2018/11/07 11:18:33 efficient.ChannelsViewers took 309.224µs
+2018/11/07 11:18:33 efficient.ChannelsViewers took 312.96µs
+1 - TV2 Norge: 352
+2 - NRK1: 279
+3 - TV2 Nyhet: 185
+4 - MAX: 178
+5 - Viasat 4: 166
+2018/11/07 11:18:33 efficient.AverageChannelDurations took 43.814µs
+6 - FEM: 145
+7 - Disney Channel: 137
+8 - TV3 Norge: 130
+9 - TVNORGE: 125
+10 - TV2 Zebra: 121
+Top 10 TV Channels:
+2018/11/07 11:18:34 efficient.ChannelsViewers took 305.534µs
+1 - TV2 Norge: 352
+2 - NRK1: 279
+3 - TV2 Nyhet: 185
+2018/11/07 11:18:34 efficient.ChannelsViewers took 349.69µs
+4 - MAX: 178
+5 - Viasat 4: 166
+6 - FEM: 145
+7 - Disney Channel: 137
+8 - TV3 Norge: 131
+9 - TVNORGE: 125
+10 - TV2 Zebra: 121
+2018/11/07 11:18:34 efficient.AverageChannelDurations took 43.226µs
+Top 10 TV Channels:
+2018/11/07 11:18:35 efficient.ChannelsViewers took 327.489µs
+2018/11/07 11:18:35 efficient.ChannelsViewers took 235.496µs
+1 - TV2 Norge: 351
+2 - NRK1: 279
+3 - TV2 Nyhet: 185
+4 - MAX: 178
+5 - Viasat 4: 167
+6 - FEM: 146
+7 - Disney Channel: 137
+8 - TV3 Norge: 132
+9 - TVNORGE: 124
+10 - TV2 Zebra: 121
+2018/11/07 11:18:35 efficient.AverageChannelDurations took 39.383µs
+Top 10 TV Channels:
+2018/11/07 11:18:36 efficient.ChannelsViewers took 289.873µs
+1 - TV2 Norge: 353
+2 - NRK1: 277
+3 - TV2 Nyhet: 186
+2018/11/07 11:18:36 efficient.ChannelsViewers took 233.652µs
+4 - MAX: 178
+5 - Viasat 4: 168
+6 - FEM: 146
+7 - Disney Channel: 137
+8 - TV3 Norge: 129
+9 - TVNORGE: 125
+10 - TV2 Zebra: 121
+2018/11/07 11:18:36 efficient.AverageChannelDurations took 38.44µs
+Top 10 TV Channels:
+2018/11/07 11:18:37 efficient.ChannelsViewers took 306.276µs
+2018/11/07 11:18:37 efficient.ChannelsViewers took 316.245µs
+1 - TV2 Norge: 353
+2 - NRK1: 277
+3 - TV2 Nyhet: 189
+4 - MAX: 178
+5 - Viasat 4: 168
+6 - FEM: 147
+2018/11/07 11:18:37 efficient.AverageChannelDurations took 44.332µs
+7 - Disney Channel: 139
+8 - TV3 Norge: 129
+9 - TVNORGE: 125
+10 - TV2 Zebra: 122
+Top 10 TV Channels:
+2018/11/07 11:18:38 efficient.ChannelsViewers took 312.333µs
+2018/11/07 11:18:38 efficient.ChannelsViewers took 325.357µs
+1 - TV2 Norge: 354
+2 - NRK1: 277
+3 - TV2 Nyhet: 189
+4 - MAX: 179
+5 - Viasat 4: 169
+6 - FEM: 147
+7 - Disney Channel: 139
+8 - TVNORGE: 128
+9 - TV3 Norge: 127
+10 - TV2 Zebra: 122
+2018/11/07 11:18:38 efficient.AverageChannelDurations took 36.241µs
+Top 10 TV Channels:
+2018/11/07 11:18:39 efficient.ChannelsViewers took 300.748µs
+2018/11/07 11:18:39 efficient.ChannelsViewers took 602.839µs
+2018/11/07 11:18:39 efficient.AverageChannelDurations took 107.581µs
+1 - TV2 Norge: 355
+2 - NRK1: 277
+3 - TV2 Nyhet: 189
+4 - MAX: 179
+5 - Viasat 4: 168
+6 - FEM: 148
+7 - Disney Channel: 139
+8 - TVNORGE: 128
+9 - TV3 Norge: 127
+10 - TV2 Zebra: 123
+2018/11/07 11:18:40 efficient.ChannelsViewers took 165.655µs
+2018/11/07 11:18:40 efficient.AverageChannelDurations took 40.198µs
+Top 10 TV Channels:
+2018/11/07 11:18:40 efficient.ChannelsViewers took 157.494µs
+1 - TV2 Norge: 357
+2 - NRK1: 278
+3 - TV2 Nyhet: 189
+4 - MAX: 179
+5 - Viasat 4: 168
+6 - FEM: 150
+7 - Disney Channel: 140
+8 - TVNORGE: 128
+9 - TV2 Zebra: 125
+10 - TV3 Norge: 125
+Top 10 TV Channels:
+2018/11/07 11:18:41 efficient.ChannelsViewers took 206.753µs
+2018/11/07 11:18:41 efficient.AverageChannelDurations took 44.008µs
+2018/11/07 11:18:41 efficient.ChannelsViewers took 312.812µs
+1 - TV2 Norge: 353
+2 - NRK1: 280
+3 - TV2 Nyhet: 189
+4 - MAX: 179
+5 - Viasat 4: 171
+6 - FEM: 150
+7 - Disney Channel: 140
+8 - TV2 Zebra: 128
+9 - TVNORGE: 127
+10 - TV3 Norge: 126
+2018/11/07 11:18:42 efficient.ChannelsViewers took 181.321µs
+Top 10 TV Channels:
+2018/11/07 11:18:42 efficient.AverageChannelDurations took 40.586µs
+2018/11/07 11:18:42 efficient.ChannelsViewers took 237.795µs
+1 - TV2 Norge: 353
+2 - NRK1: 280
+3 - TV2 Nyhet: 191
+4 - MAX: 180
+5 - Viasat 4: 171
+6 - FEM: 151
+7 - Disney Channel: 140
+8 - TV2 Zebra: 129
+9 - TVNORGE: 127
+10 - TV3 Norge: 126
+Top 10 TV Channels:
+2018/11/07 11:18:43 efficient.ChannelsViewers took 208.451µs
+2018/11/07 11:18:43 efficient.AverageChannelDurations took 41.699µs
+2018/11/07 11:18:43 efficient.ChannelsViewers took 327.65µs
+1 - TV2 Norge: 353
+2 - NRK1: 278
+3 - TV2 Nyhet: 191
+4 - MAX: 181
+5 - Viasat 4: 173
+6 - FEM: 153
+7 - Disney Channel: 140
+8 - TV2 Zebra: 130
+9 - TVNORGE: 127
+10 - TV3 Norge: 125
+Top 10 TV Channels:
+2018/11/07 11:18:44 efficient.ChannelsViewers took 314.193µs
+2018/11/07 11:18:44 efficient.ChannelsViewers took 289.421µs
+1 - TV2 Norge: 356
+2 - NRK1: 280
+3 - TV2 Nyhet: 191
+4 - MAX: 181
+5 - Viasat 4: 174
+2018/11/07 11:18:44 efficient.AverageChannelDurations took 35.643µs
+6 - FEM: 153
+7 - Disney Channel: 142
+8 - TV2 Zebra: 131
+9 - TVNORGE: 128
+10 - TV3 Norge: 123
+Top 10 TV Channels:
+2018/11/07 11:18:45 efficient.ChannelsViewers took 220.493µs
+2018/11/07 11:18:45 efficient.ChannelsViewers took 340.75µs
+2018/11/07 11:18:45 efficient.AverageChannelDurations took 35.974µs
+1 - TV2 Norge: 361
+2 - NRK1: 278
+3 - TV2 Nyhet: 192
+4 - MAX: 180
+5 - Viasat 4: 173
+6 - FEM: 154
+7 - Disney Channel: 142
+8 - TV2 Zebra: 131
+9 - TVNORGE: 128
+10 - TV3 Norge: 123
+Top 10 TV Channels:
+2018/11/07 11:18:46 efficient.ChannelsViewers took 187.093µs
+1 - TV2 Norge: 363
+2 - NRK1: 277
+3 - TV2 Nyhet: 192
+4 - MAX: 181
+5 - Viasat 4: 173
+2018/11/07 11:18:46 efficient.ChannelsViewers took 358.339µs
+6 - FEM: 153
+7 - Disney Channel: 141
+8 - TV2 Zebra: 130
+9 - TVNORGE: 129
+10 - TV3 Norge: 125
+2018/11/07 11:18:46 efficient.AverageChannelDurations took 51.958µs
+Top 10 TV Channels:
+2018/11/07 11:18:47 efficient.ChannelsViewers took 178.644µs
+2018/11/07 11:18:47 efficient.ChannelsViewers took 371.165µs
+2018/11/07 11:18:47 efficient.AverageChannelDurations took 35.918µs
+1 - TV2 Norge: 365
+2 - NRK1: 278
+3 - TV2 Nyhet: 192
+4 - MAX: 179
+5 - Viasat 4: 175
+6 - FEM: 155
+7 - Disney Channel: 140
+8 - TVNORGE: 130
+9 - TV2 Zebra: 129
+10 - TV3 Norge: 124
+Top 10 TV Channels:
+2018/11/07 11:18:48 efficient.ChannelsViewers took 333.762µs
+2018/11/07 11:18:48 efficient.ChannelsViewers took 391.995µs
+2018/11/07 11:18:48 efficient.AverageChannelDurations took 38.192µs
+1 - TV2 Norge: 365
+2 - NRK1: 277
+3 - TV2 Nyhet: 193
+4 - MAX: 179
+5 - Viasat 4: 174
+6 - FEM: 155
+7 - Disney Channel: 140
+8 - TV2 Zebra: 131
+9 - TVNORGE: 130
+10 - NRK2: 125
+Top 10 TV Channels:
+2018/11/07 11:18:49 efficient.ChannelsViewers took 167.419µs
+1 - TV2 Norge: 364
+2 - NRK1: 278
+3 - TV2 Nyhet: 193
+4 - MAX: 179
+5 - Viasat 4: 175
+6 - FEM: 155
+7 - Disney Channel: 139
+8 - TV2 Zebra: 131
+9 - TVNORGE: 131
+10 - NRK2: 126
+2018/11/07 11:18:49 efficient.ChannelsViewers took 332.947µs
+2018/11/07 11:18:49 efficient.AverageChannelDurations took 35.824µs
+Top 10 TV Channels:
+2018/11/07 11:18:50 efficient.ChannelsViewers took 295.834µs
+2018/11/07 11:18:50 efficient.ChannelsViewers took 181.568µs
+1 - TV2 Norge: 365
+2 - NRK1: 277
+3 - TV2 Nyhet: 193
+4 - MAX: 182
+5 - Viasat 4: 175
+6 - FEM: 155
+7 - Disney Channel: 139
+8 - TVNORGE: 131
+9 - TV2 Zebra: 131
+10 - NRK2: 127
+2018/11/07 11:18:50 efficient.AverageChannelDurations took 39.466µs
+Top 10 TV Channels:
+2018/11/07 11:18:51 efficient.ChannelsViewers took 218.141µs
+2018/11/07 11:18:51 efficient.AverageChannelDurations took 35.851µs
+2018/11/07 11:18:51 efficient.ChannelsViewers took 507.197µs
+1 - TV2 Norge: 365
+2 - NRK1: 277
+3 - TV2 Nyhet: 193
+4 - MAX: 182
+5 - Viasat 4: 175
+6 - FEM: 155
+7 - Disney Channel: 139
+8 - TVNORGE: 131
+9 - TV2 Zebra: 130
+10 - NRK2: 130
+Top 10 TV Channels:
+2018/11/07 11:18:52 efficient.ChannelsViewers took 198.414µs
+2018/11/07 11:18:52 efficient.ChannelsViewers took 310.142µs
+1 - TV2 Norge: 366
+2018/11/07 11:18:52 efficient.AverageChannelDurations took 40.61µs
+2 - NRK1: 278
+3 - TV2 Nyhet: 194
+4 - MAX: 185
+5 - Viasat 4: 175
+6 - FEM: 153
+7 - Disney Channel: 140
+8 - TV2 Zebra: 132
+9 - NRK2: 130
+10 - TVNORGE: 130
+Top 10 TV Channels:
+2018/11/07 11:18:53 efficient.ChannelsViewers took 319.56µs
+2018/11/07 11:18:53 efficient.ChannelsViewers took 368.234µs
+1 - TV2 Norge: 365
+2 - NRK1: 280
+3 - TV2 Nyhet: 194
+4 - MAX: 185
+5 - Viasat 4: 175
+6 - FEM: 153
+7 - Disney Channel: 140
+8 - TV2 Zebra: 132
+9 - NRK2: 132
+10 - TVNORGE: 131
+2018/11/07 11:18:53 efficient.AverageChannelDurations took 37.455µs
+Top 10 TV Channels:
+2018/11/07 11:18:54 efficient.ChannelsViewers took 257.896µs
+1 - TV2 Norge: 366
+2 - NRK1: 282
+2018/11/07 11:18:54 efficient.ChannelsViewers took 181.889µs
+3 - TV2 Nyhet: 194
+4 - MAX: 186
+5 - Viasat 4: 175
+6 - FEM: 151
+7 - Disney Channel: 142
+8 - TV2 Zebra: 132
+9 - NRK2: 131
+10 - TVNORGE: 131
+2018/11/07 11:18:54 efficient.AverageChannelDurations took 35.781µs
+Top 10 TV Channels:
+2018/11/07 11:18:55 efficient.ChannelsViewers took 299.933µs
+2018/11/07 11:18:55 efficient.ChannelsViewers took 219.905µs
+1 - TV2 Norge: 367
+2 - NRK1: 282
+3 - TV2 Nyhet: 194
+4 - MAX: 186
+5 - Viasat 4: 175
+6 - FEM: 151
+7 - Disney Channel: 142
+8 - TV2 Zebra: 133
+9 - TVNORGE: 131
+10 - NRK2: 131
+2018/11/07 11:18:55 efficient.AverageChannelDurations took 40.696µs
+Top 10 TV Channels:
+2018/11/07 11:18:56 efficient.ChannelsViewers took 294.73µs
+2018/11/07 11:18:56 efficient.ChannelsViewers took 334.165µs
+2018/11/07 11:18:56 efficient.AverageChannelDurations took 37.485µs
+1 - TV2 Norge: 368
+2 - NRK1: 282
+3 - TV2 Nyhet: 193
+4 - MAX: 187
+5 - Viasat 4: 175
+6 - FEM: 150
+7 - Disney Channel: 142
+8 - TV2 Zebra: 133
+9 - NRK2: 131
+10 - TVNORGE: 130
+Top 10 TV Channels:
+2018/11/07 11:18:57 efficient.ChannelsViewers took 208.339µs
+2018/11/07 11:18:57 efficient.ChannelsViewers took 388.974µs
+1 - TV2 Norge: 369
+2 - NRK1: 283
+3 - TV2 Nyhet: 192
+4 - MAX: 187
+5 - Viasat 4: 175
+6 - FEM: 149
+7 - Disney Channel: 143
+8 - TV2 Zebra: 133
+9 - NRK2: 131
+10 - TVNORGE: 130
+2018/11/07 11:18:57 efficient.AverageChannelDurations took 40.201µs
+Top 10 TV Channels:
+2018/11/07 11:18:58 efficient.ChannelsViewers took 285.444µs
+2018/11/07 11:18:58 efficient.ChannelsViewers took 170.624µs
+1 - TV2 Norge: 372
+2 - NRK1: 283
+3 - TV2 Nyhet: 192
+4 - MAX: 187
+5 - Viasat 4: 175
+6 - FEM: 148
+7 - Disney Channel: 143
+8 - TV2 Zebra: 133
+9 - NRK2: 131
+10 - TVNORGE: 130
+2018/11/07 11:18:58 efficient.AverageChannelDurations took 37.912µs
+Top 10 TV Channels:
+2018/11/07 11:18:59 efficient.ChannelsViewers took 181.999µs
+1 - TV2 Norge: 373
+2 - NRK1: 284
+3 - TV2 Nyhet: 192
+4 - MAX: 189
+5 - Viasat 4: 177
+6 - FEM: 148
+7 - Disney Channel: 144
+2018/11/07 11:18:59 efficient.ChannelsViewers took 323.419µs
+8 - TV2 Zebra: 134
+9 - NRK2: 131
+10 - TVNORGE: 128
+2018/11/07 11:18:59 efficient.AverageChannelDurations took 37.749µs
+Top 10 TV Channels:
+2018/11/07 11:19:00 efficient.ChannelsViewers took 305.757µs
+2018/11/07 11:19:00 efficient.ChannelsViewers took 182.741µs
+1 - TV2 Norge: 375
+2 - NRK1: 284
+3 - MAX: 192
+4 - TV2 Nyhet: 191
+5 - Viasat 4: 176
+6 - FEM: 148
+7 - Disney Channel: 144
+8 - TV2 Zebra: 135
+9 - NRK2: 135
+10 - TVNORGE: 129
+2018/11/07 11:19:00 efficient.AverageChannelDurations took 42.718µs
+Top 10 TV Channels:
+2018/11/07 11:19:01 efficient.ChannelsViewers took 321.391µs
+1 - TV2 Norge: 377
+2018/11/07 11:19:01 efficient.ChannelsViewers took 313.237µs
+2 - NRK1: 284
+3 - TV2 Nyhet: 194
+4 - MAX: 192
+5 - Viasat 4: 176
+6 - FEM: 148
+7 - Disney Channel: 143
+8 - TV2 Zebra: 135
+9 - NRK2: 135
+10 - TVNORGE: 130
+2018/11/07 11:19:01 efficient.AverageChannelDurations took 35.733µs
+Top 10 TV Channels:
+2018/11/07 11:19:02 efficient.ChannelsViewers took 388.337µs
+2018/11/07 11:19:02 efficient.ChannelsViewers took 252.621µs
+1 - TV2 Norge: 380
+2 - NRK1: 286
+3 - TV2 Nyhet: 194
+4 - MAX: 192
+5 - Viasat 4: 175
+6 - FEM: 149
+7 - Disney Channel: 144
+8 - NRK2: 134
+9 - TV2 Zebra: 133
+10 - TVNORGE: 130
+2018/11/07 11:19:02 efficient.AverageChannelDurations took 42.898µs
+Top 10 TV Channels:
+2018/11/07 11:19:03 efficient.ChannelsViewers took 369.379µs
+2018/11/07 11:19:03 efficient.ChannelsViewers took 386.308µs
+1 - TV2 Norge: 381
+2 - NRK1: 285
+3 - TV2 Nyhet: 192
+4 - MAX: 192
+5 - Viasat 4: 175
+6 - FEM: 149
+7 - Disney Channel: 145
+8 - TV2 Zebra: 133
+9 - NRK2: 132
+10 - TVNORGE: 130
+2018/11/07 11:19:03 efficient.AverageChannelDurations took 405.333µs
+Top 10 TV Channels:
+2018/11/07 11:19:04 efficient.ChannelsViewers took 175.666µs
+1 - TV2 Norge: 381
+2 - NRK1: 285
+3 - TV2 Nyhet: 193
+4 - MAX: 192
+5 - Viasat 4: 175
+6 - FEM: 149
+7 - Disney Channel: 147
+8 - NRK2: 133
+9 - TV2 Zebra: 132
+10 - TVNORGE: 131
+2018/11/07 11:19:04 efficient.ChannelsViewers took 162.363µs
+2018/11/07 11:19:04 efficient.AverageChannelDurations took 38.724µs
+Top 10 TV Channels:
+2018/11/07 11:19:05 efficient.ChannelsViewers took 186.918µs
+1 - TV2 Norge: 381
+2 - NRK1: 290
+3 - TV2 Nyhet: 193
+4 - MAX: 191
+5 - Viasat 4: 175
+6 - FEM: 149
+7 - Disney Channel: 147
+8 - NRK2: 133
+9 - TV3 Norge: 131
+10 - TVNORGE: 131
+2018/11/07 11:19:05 efficient.ChannelsViewers took 175.416µs
+2018/11/07 11:19:05 efficient.AverageChannelDurations took 37.959µs
+Top 10 TV Channels:
+2018/11/07 11:19:06 efficient.ChannelsViewers took 162.023µs
+1 - TV2 Norge: 383
+2 - NRK1: 289
+3 - TV2 Nyhet: 194
+4 - MAX: 192
+5 - Viasat 4: 178
+6 - FEM: 149
+7 - Disney Channel: 148
+8 - NRK2: 133
+9 - TV3 Norge: 132
+10 - TVNORGE: 131
+2018/11/07 11:19:06 efficient.ChannelsViewers took 167.984µs
+2018/11/07 11:19:06 efficient.AverageChannelDurations took 40.305µs
+Top 10 TV Channels:
+2018/11/07 11:19:07 efficient.ChannelsViewers took 164.736µs
+1 - TV2 Norge: 384
+2 - NRK1: 290
+3 - TV2 Nyhet: 193
+4 - MAX: 192
+5 - Viasat 4: 178
+6 - FEM: 150
+7 - Disney Channel: 148
+8 - NRK2: 134
+9 - TVNORGE: 131
+10 - TV2 Zebra: 130
+2018/11/07 11:19:07 efficient.ChannelsViewers took 152.184µs
+2018/11/07 11:19:07 efficient.AverageChannelDurations took 38.831µs
+Top 10 TV Channels:
+2018/11/07 11:19:08 efficient.ChannelsViewers took 160.819µs
+1 - TV2 Norge: 384
+2 - NRK1: 290
+3 - TV2 Nyhet: 195
+4 - MAX: 193
+5 - Viasat 4: 177
+6 - FEM: 149
+7 - Disney Channel: 148
+8 - NRK2: 135
+9 - TVNORGE: 130
+10 - TV3 Norge: 130
+2018/11/07 11:19:08 efficient.ChannelsViewers took 159.853µs
+2018/11/07 11:19:08 efficient.AverageChannelDurations took 40.078µs
+Top 10 TV Channels:
+2018/11/07 11:19:09 efficient.ChannelsViewers took 281.038µs
+2018/11/07 11:19:09 efficient.ChannelsViewers took 389.375µs
+2018/11/07 11:19:09 efficient.AverageChannelDurations took 41.742µs
+1 - TV2 Norge: 386
+2 - NRK1: 291
+3 - TV2 Nyhet: 197
+4 - MAX: 193
+5 - Viasat 4: 176
+6 - FEM: 149
+7 - Disney Channel: 148
+8 - NRK2: 136
+9 - TV3 Norge: 131
+10 - TVNORGE: 130
+Top 10 TV Channels:
+2018/11/07 11:19:10 efficient.ChannelsViewers took 344.616µs
+2018/11/07 11:19:10 efficient.ChannelsViewers took 372.989µs
+1 - TV2 Norge: 386
+2 - NRK1: 293
+3 - TV2 Nyhet: 197
+2018/11/07 11:19:10 efficient.AverageChannelDurations took 40.642µs
+4 - MAX: 193
+5 - Viasat 4: 176
+6 - FEM: 149
+7 - Disney Channel: 149
+8 - NRK2: 137
+9 - TV3 Norge: 131
+10 - TV2 Zebra: 130
+Top 10 TV Channels:
+2018/11/07 11:19:11 efficient.ChannelsViewers took 171.386µs
+1 - TV2 Norge: 387
+2 - NRK1: 295
+3 - TV2 Nyhet: 196
+4 - MAX: 194
+5 - Viasat 4: 177
+6 - FEM: 148
+7 - Disney Channel: 148
+8 - NRK2: 137
+9 - TV2 Zebra: 130
+10 - TV3 Norge: 130
+2018/11/07 11:19:11 efficient.ChannelsViewers took 345.394µs
+2018/11/07 11:19:11 efficient.AverageChannelDurations took 40.92µs
+Top 10 TV Channels:
+2018/11/07 11:19:12 efficient.ChannelsViewers took 176.355µs
+2018/11/07 11:19:12 efficient.ChannelsViewers took 356.138µs
+2018/11/07 11:19:12 efficient.AverageChannelDurations took 40.167µs
+1 - TV2 Norge: 388
+2 - NRK1: 296
+3 - TV2 Nyhet: 197
+4 - MAX: 195
+5 - Viasat 4: 177
+6 - Disney Channel: 149
+7 - FEM: 149
+8 - NRK2: 137
+9 - TV3 Norge: 131
+10 - TV2 Zebra: 130
+Top 10 TV Channels:
+2018/11/07 11:19:13 efficient.ChannelsViewers took 280.006µs
+2018/11/07 11:19:13 efficient.ChannelsViewers took 343.551µs
+1 - TV2 Norge: 388
+2 - NRK1: 298
+3 - TV2 Nyhet: 199
+4 - MAX: 196
+5 - Viasat 4: 179
+6 - Disney Channel: 151
+7 - FEM: 149
+8 - NRK2: 137
+9 - TV2 Zebra: 131
+10 - TV3 Norge: 130
+2018/11/07 11:19:13 efficient.AverageChannelDurations took 37.478µs
+Top 10 TV Channels:
+2018/11/07 11:19:14 efficient.ChannelsViewers took 323.894µs
+2018/11/07 11:19:14 efficient.ChannelsViewers took 280.298µs
+1 - TV2 Norge: 389
+2 - NRK1: 299
+3 - TV2 Nyhet: 199
+4 - MAX: 196
+5 - Viasat 4: 181
+2018/11/07 11:19:14 efficient.AverageChannelDurations took 44.947µs
+6 - Disney Channel: 151
+7 - FEM: 149
+8 - NRK2: 137
+9 - TV2 Zebra: 132
+10 - TV3 Norge: 131
+Top 10 TV Channels:
+2018/11/07 11:19:15 efficient.ChannelsViewers took 303.434µs
+1 - TV2 Norge: 389
+2 - NRK1: 299
+3 - TV2 Nyhet: 199
+2018/11/07 11:19:15 efficient.ChannelsViewers took 311.242µs
+4 - MAX: 196
+5 - Viasat 4: 181
+6 - Disney Channel: 151
+7 - FEM: 150
+8 - NRK2: 137
+9 - TV2 Zebra: 132
+10 - TVNORGE: 131
+2018/11/07 11:19:15 efficient.AverageChannelDurations took 38.076µs
+Top 10 TV Channels:
+2018/11/07 11:19:16 efficient.ChannelsViewers took 186.4µs
+2018/11/07 11:19:16 efficient.ChannelsViewers took 343.232µs
+1 - TV2 Norge: 390
+2 - NRK1: 298
+3 - TV2 Nyhet: 200
+4 - MAX: 196
+5 - Viasat 4: 181
+6 - Disney Channel: 151
+2018/11/07 11:19:16 efficient.AverageChannelDurations took 50.21µs
+7 - FEM: 150
+8 - NRK2: 137
+9 - TV2 Zebra: 132
+10 - TVNORGE: 131
+Top 10 TV Channels:
+2018/11/07 11:19:17 efficient.ChannelsViewers took 335.413µs
+2018/11/07 11:19:17 efficient.ChannelsViewers took 313.658µs
+1 - TV2 Norge: 392
+2 - NRK1: 299
+3 - TV2 Nyhet: 200
+4 - MAX: 197
+5 - Viasat 4: 182
+6 - Disney Channel: 153
+7 - FEM: 150
+8 - NRK2: 136
+9 - TV2 Zebra: 134
+10 - TVNORGE: 132
+2018/11/07 11:19:17 efficient.AverageChannelDurations took 43.026µs
+Top 10 TV Channels:
+2018/11/07 11:19:18 efficient.ChannelsViewers took 299.583µs
+2018/11/07 11:19:18 efficient.ChannelsViewers took 333.587µs
+2018/11/07 11:19:18 efficient.AverageChannelDurations took 37.334µs
+1 - TV2 Norge: 391
+2 - NRK1: 299
+3 - TV2 Nyhet: 201
+4 - MAX: 198
+5 - Viasat 4: 182
+6 - Disney Channel: 155
+7 - FEM: 152
+8 - NRK2: 135
+9 - TV2 Zebra: 134
+10 - TVNORGE: 132
+Top 10 TV Channels:
+2018/11/07 11:19:19 efficient.ChannelsViewers took 252.802µs
+2018/11/07 11:19:19 efficient.ChannelsViewers took 330.456µs
+1 - TV2 Norge: 393
+2 - NRK1: 301
+3 - TV2 Nyhet: 203
+4 - MAX: 198
+5 - Viasat 4: 183
+6 - Disney Channel: 155
+7 - FEM: 151
+8 - TV2 Zebra: 137
+9 - NRK2: 135
+10 - TVNORGE: 132
+2018/11/07 11:19:19 efficient.AverageChannelDurations took 39.423µs
+Top 10 TV Channels:
+2018/11/07 11:19:20 efficient.ChannelsViewers took 280.441µs
+2018/11/07 11:19:20 efficient.ChannelsViewers took 378.578µs
+1 - TV2 Norge: 392
+2018/11/07 11:19:20 efficient.AverageChannelDurations took 44.014µs
+2 - NRK1: 299
+3 - TV2 Nyhet: 205
+4 - MAX: 198
+5 - Viasat 4: 183
+6 - Disney Channel: 156
+7 - FEM: 152
+8 - TV2 Zebra: 136
+9 - NRK2: 135
+10 - TVNORGE: 132
+Top 10 TV Channels:
+2018/11/07 11:19:21 efficient.ChannelsViewers took 299.231µs
+2018/11/07 11:19:21 efficient.ChannelsViewers took 336.16µs
+1 - TV2 Norge: 392
+2 - NRK1: 301
+3 - TV2 Nyhet: 205
+4 - MAX: 198
+5 - Viasat 4: 183
+6 - Disney Channel: 158
+7 - FEM: 152
+8 - TV2 Zebra: 136
+9 - NRK2: 136
+10 - TV3 Norge: 132
+2018/11/07 11:19:21 efficient.AverageChannelDurations took 44.251µs
+Top 10 TV Channels:
+2018/11/07 11:19:22 efficient.ChannelsViewers took 346.051µs
+2018/11/07 11:19:22 efficient.ChannelsViewers took 347.935µs
+1 - TV2 Norge: 392
+2 - NRK1: 301
+3 - TV2 Nyhet: 203
+4 - MAX: 200
+5 - Viasat 4: 183
+6 - Disney Channel: 159
+7 - FEM: 153
+8 - TV2 Zebra: 137
+9 - NRK2: 136
+10 - TV3 Norge: 133
+2018/11/07 11:19:22 efficient.AverageChannelDurations took 38.003µs
+Top 10 TV Channels:
+2018/11/07 11:19:23 efficient.ChannelsViewers took 231.457µs
+1 - TV2 Norge: 390
+2 - NRK1: 301
+3 - TV2 Nyhet: 203
+2018/11/07 11:19:23 efficient.ChannelsViewers took 391.759µs
+4 - MAX: 200
+5 - Viasat 4: 184
+6 - Disney Channel: 160
+7 - FEM: 152
+8 - TV2 Zebra: 138
+9 - NRK2: 136
+10 - TV3 Norge: 133
+2018/11/07 11:19:23 efficient.AverageChannelDurations took 42.57µs
+Top 10 TV Channels:
+2018/11/07 11:19:24 efficient.ChannelsViewers took 225.502µs
+1 - TV2 Norge: 394
+2 - NRK1: 302
+3 - TV2 Nyhet: 204
+4 - MAX: 201
+5 - Viasat 4: 183
+6 - Disney Channel: 161
+7 - FEM: 153
+8 - TV2 Zebra: 138
+9 - NRK2: 137
+2018/11/07 11:19:24 efficient.ChannelsViewers took 246.964µs
+10 - TV3 Norge: 133
+2018/11/07 11:19:24 efficient.AverageChannelDurations took 37.942µs
+Top 10 TV Channels:
+2018/11/07 11:19:25 efficient.ChannelsViewers took 312.69µs
+1 - TV2 Norge: 396
+2 - NRK1: 304
+3 - TV2 Nyhet: 204
+4 - MAX: 201
+5 - Viasat 4: 184
+2018/11/07 11:19:25 efficient.ChannelsViewers took 182.06µs
+6 - Disney Channel: 161
+7 - FEM: 153
+8 - TV2 Zebra: 137
+9 - NRK2: 136
+10 - TVNORGE: 135
+2018/11/07 11:19:25 efficient.AverageChannelDurations took 43.616µs
+Top 10 TV Channels:
+2018/11/07 11:19:26 efficient.ChannelsViewers took 642.07µs
+2018/11/07 11:19:26 efficient.AverageChannelDurations took 184.516µs
+2018/11/07 11:19:26 efficient.ChannelsViewers took 1.545767ms
+1 - TV2 Norge: 396
+2 - NRK1: 305
+3 - TV2 Nyhet: 203
+4 - MAX: 202
+5 - Viasat 4: 184
+6 - Disney Channel: 161
+7 - FEM: 153
+8 - NRK2: 138
+9 - TV2 Zebra: 137
+10 - TVNORGE: 136
+2018/11/07 11:19:27 efficient.ChannelsViewers took 175.543µs
+Top 10 TV Channels:
+2018/11/07 11:19:27 efficient.AverageChannelDurations took 43.383µs
+2018/11/07 11:19:27 efficient.ChannelsViewers took 235.339µs
+1 - TV2 Norge: 397
+2 - NRK1: 305
+3 - TV2 Nyhet: 205
+4 - MAX: 202
+5 - Viasat 4: 185
+6 - Disney Channel: 161
+7 - FEM: 154
+8 - NRK2: 138
+9 - TVNORGE: 136
+10 - TV2 Zebra: 135
+Top 10 TV Channels:
+2018/11/07 11:19:28 efficient.ChannelsViewers took 313.053µs
+2018/11/07 11:19:28 efficient.ChannelsViewers took 192.707µs
+1 - TV2 Norge: 399
+2 - NRK1: 306
+3 - TV2 Nyhet: 205
+4 - MAX: 202
+2018/11/07 11:19:28 efficient.AverageChannelDurations took 44.091µs
+5 - Viasat 4: 185
+6 - Disney Channel: 162
+7 - FEM: 153
+8 - NRK2: 140
+9 - TVNORGE: 136
+10 - TV2 Zebra: 135
+Top 10 TV Channels:
+2018/11/07 11:19:29 efficient.ChannelsViewers took 219.344µs
+2018/11/07 11:19:29 efficient.ChannelsViewers took 384.183µs
+1 - TV2 Norge: 400
+2 - NRK1: 307
+3 - TV2 Nyhet: 205
+4 - MAX: 202
+2018/11/07 11:19:29 efficient.AverageChannelDurations took 39.954µs
+5 - Viasat 4: 184
+6 - Disney Channel: 163
+7 - FEM: 153
+8 - NRK2: 141
+9 - TVNORGE: 136
+10 - TV2 Zebra: 135
+Top 10 TV Channels:
+2018/11/07 11:19:30 efficient.ChannelsViewers took 321.365µs
+2018/11/07 11:19:30 efficient.ChannelsViewers took 342.514µs
+1 - TV2 Norge: 401
+2 - NRK1: 308
+2018/11/07 11:19:30 efficient.AverageChannelDurations took 39.048µs
+3 - TV2 Nyhet: 207
+4 - MAX: 202
+5 - Viasat 4: 184
+6 - Disney Channel: 163
+7 - FEM: 153
+8 - NRK2: 141
+9 - TVNORGE: 136
+10 - TV2 Zebra: 135
+Top 10 TV Channels:
+2018/11/07 11:19:31 efficient.ChannelsViewers took 220.275µs
+2018/11/07 11:19:31 efficient.ChannelsViewers took 327.871µs
+2018/11/07 11:19:31 efficient.AverageChannelDurations took 40.522µs
+1 - TV2 Norge: 402
+2 - NRK1: 309
+3 - TV2 Nyhet: 207
+4 - MAX: 202
+5 - Viasat 4: 186
+6 - Disney Channel: 164
+7 - FEM: 152
+8 - NRK2: 141
+9 - TVNORGE: 137
+10 - TV2 Zebra: 135
+Top 10 TV Channels:
+2018/11/07 11:19:32 efficient.ChannelsViewers took 215.96µs
+1 - TV2 Norge: 402
+2 - NRK1: 309
+2018/11/07 11:19:32 efficient.ChannelsViewers took 369.067µs
+3 - TV2 Nyhet: 206
+4 - MAX: 202
+5 - Viasat 4: 186
+6 - Disney Channel: 166
+7 - FEM: 152
+8 - NRK2: 141
+9 - TVNORGE: 137
+10 - TV2 Zebra: 135
+2018/11/07 11:19:32 efficient.AverageChannelDurations took 41.509µs
+Top 10 TV Channels:
+2018/11/07 11:19:33 efficient.ChannelsViewers took 256.327µs
+2018/11/07 11:19:33 efficient.ChannelsViewers took 342.545µs
+1 - TV2 Norge: 403
+2018/11/07 11:19:33 efficient.AverageChannelDurations took 43.387µs
+2 - NRK1: 309
+3 - TV2 Nyhet: 205
+4 - MAX: 204
+5 - Viasat 4: 185
+6 - Disney Channel: 166
+7 - FEM: 154
+8 - NRK2: 140
+9 - TVNORGE: 138
+10 - TV2 Zebra: 136
+Top 10 TV Channels:
+2018/11/07 11:19:34 efficient.ChannelsViewers took 270.415µs
+1 - TV2 Norge: 404
+2 - NRK1: 310
+3 - TV2 Nyhet: 205
+2018/11/07 11:19:34 efficient.ChannelsViewers took 329.739µs
+4 - MAX: 204
+5 - Viasat 4: 185
+6 - Disney Channel: 166
+7 - FEM: 154
+8 - NRK2: 140
+9 - TVNORGE: 139
+10 - TV2 Zebra: 137
+2018/11/07 11:19:34 efficient.AverageChannelDurations took 39.456µs
+Top 10 TV Channels:
+2018/11/07 11:19:35 efficient.ChannelsViewers took 309.463µs
+2018/11/07 11:19:35 efficient.ChannelsViewers took 296.027µs
+2018/11/07 11:19:35 efficient.AverageChannelDurations took 42.461µs
+1 - TV2 Norge: 407
+2 - NRK1: 310
+3 - TV2 Nyhet: 204
+4 - MAX: 204
+5 - Viasat 4: 185
+6 - Disney Channel: 166
+7 - FEM: 156
+8 - NRK2: 140
+9 - TVNORGE: 138
+10 - TV2 Zebra: 137
+Top 10 TV Channels:
+2018/11/07 11:19:36 efficient.ChannelsViewers took 257.814µs
+1 - TV2 Norge: 408
+2018/11/07 11:19:36 efficient.ChannelsViewers took 396.995µs
+2 - NRK1: 310
+3 - MAX: 203
+4 - TV2 Nyhet: 203
+5 - Viasat 4: 186
+6 - Disney Channel: 166
+7 - FEM: 155
+8 - TVNORGE: 140
+9 - NRK2: 139
+10 - TV2 Zebra: 138
+2018/11/07 11:19:36 efficient.AverageChannelDurations took 42.511µs
+Top 10 TV Channels:
+2018/11/07 11:19:37 efficient.ChannelsViewers took 289.109µs
+1 - TV2 Norge: 408
+2 - NRK1: 311
+3 - TV2 Nyhet: 204
+4 - MAX: 203
+5 - Viasat 4: 186
+2018/11/07 11:19:37 efficient.ChannelsViewers took 247.257µs
+6 - Disney Channel: 166
+7 - FEM: 154
+8 - TVNORGE: 140
+9 - NRK2: 139
+10 - TV2 Zebra: 138
+2018/11/07 11:19:37 efficient.AverageChannelDurations took 43.198µs
+Top 10 TV Channels:
+2018/11/07 11:19:38 efficient.ChannelsViewers took 165.641µs
+2018/11/07 11:19:38 efficient.ChannelsViewers took 337.558µs
+1 - TV2 Norge: 409
+2 - NRK1: 312
+3 - MAX: 204
+4 - TV2 Nyhet: 203
+5 - Viasat 4: 186
+2018/11/07 11:19:38 efficient.AverageChannelDurations took 44.271µs
+6 - Disney Channel: 167
+7 - FEM: 155
+8 - TVNORGE: 140
+9 - TV2 Zebra: 138
+10 - NRK2: 137
+Top 10 TV Channels:
+2018/11/07 11:19:39 efficient.ChannelsViewers took 288.258µs
+2018/11/07 11:19:39 efficient.ChannelsViewers took 198.571µs
+1 - TV2 Norge: 409
+2 - NRK1: 313
+3 - MAX: 205
+4 - TV2 Nyhet: 203
+5 - Viasat 4: 185
+6 - Disney Channel: 167
+7 - FEM: 155
+8 - TVNORGE: 140
+9 - TV2 Zebra: 138
+10 - NRK2: 137
+2018/11/07 11:19:39 efficient.AverageChannelDurations took 40.225µs
+Top 10 TV Channels:
+2018/11/07 11:19:40 efficient.ChannelsViewers took 229.791µs
+1 - TV2 Norge: 410
+2 - NRK1: 313
+3 - MAX: 205
+4 - TV2 Nyhet: 202
+5 - Viasat 4: 184
+6 - Disney Channel: 169
+7 - FEM: 157
+8 - TVNORGE: 139
+9 - TV2 Zebra: 138
+10 - NRK2: 138
+2018/11/07 11:19:40 efficient.ChannelsViewers took 222.793µs
+2018/11/07 11:19:40 efficient.AverageChannelDurations took 42.002µs
+Top 10 TV Channels:
+2018/11/07 11:19:41 efficient.ChannelsViewers took 180.077µs
+2018/11/07 11:19:41 efficient.ChannelsViewers took 356.324µs
+2018/11/07 11:19:41 efficient.AverageChannelDurations took 44.165µs
+1 - TV2 Norge: 412
+2 - NRK1: 314
+3 - MAX: 205
+4 - TV2 Nyhet: 202
+5 - Viasat 4: 185
+6 - Disney Channel: 171
+7 - FEM: 158
+8 - TVNORGE: 139
+9 - NRK2: 138
+10 - TV2 Zebra: 138
+Top 10 TV Channels:
+2018/11/07 11:19:42 efficient.ChannelsViewers took 212.339µs
+2018/11/07 11:19:42 efficient.ChannelsViewers took 346.748µs
+1 - TV2 Norge: 414
+2 - NRK1: 316
+3 - MAX: 206
+4 - TV2 Nyhet: 200
+5 - Viasat 4: 187
+6 - Disney Channel: 172
+7 - FEM: 159
+8 - TV2 Zebra: 138
+9 - TVNORGE: 138
+10 - NRK2: 138
+2018/11/07 11:19:42 efficient.AverageChannelDurations took 41.875µs
+Top 10 TV Channels:
+2018/11/07 11:19:43 efficient.ChannelsViewers took 241.447µs
+2018/11/07 11:19:43 efficient.ChannelsViewers took 338.745µs
+1 - TV2 Norge: 414
+2 - NRK1: 316
+3 - MAX: 207
+4 - TV2 Nyhet: 202
+5 - Viasat 4: 187
+6 - Disney Channel: 172
+7 - FEM: 159
+8 - TV2 Zebra: 140
+9 - NRK2: 139
+10 - TVNORGE: 138
+2018/11/07 11:19:43 efficient.AverageChannelDurations took 36.921µs
+Top 10 TV Channels:
+2018/11/07 11:19:44 efficient.ChannelsViewers took 316.861µs
+2018/11/07 11:19:44 efficient.ChannelsViewers took 335.879µs
+2018/11/07 11:19:44 efficient.AverageChannelDurations took 41.455µs
+1 - TV2 Norge: 416
+2 - NRK1: 316
+3 - MAX: 207
+4 - TV2 Nyhet: 201
+5 - Viasat 4: 188
+6 - Disney Channel: 175
+7 - FEM: 159
+8 - TV2 Zebra: 140
+9 - NRK2: 139
+10 - TVNORGE: 139
+Top 10 TV Channels:
+2018/11/07 11:19:45 efficient.ChannelsViewers took 176.382µs
+2018/11/07 11:19:45 efficient.AverageChannelDurations took 39.517µs
+2018/11/07 11:19:45 efficient.ChannelsViewers took 286.366µs
+1 - TV2 Norge: 417
+2 - NRK1: 316
+3 - MAX: 209
+4 - TV2 Nyhet: 201
+5 - Viasat 4: 189
+6 - Disney Channel: 176
+7 - FEM: 158
+8 - TV2 Zebra: 140
+9 - TVNORGE: 139
+10 - NRK2: 138
+Top 10 TV Channels:
+2018/11/07 11:19:46 efficient.ChannelsViewers took 207.898µs
+1 - TV2 Norge: 418
+2 - NRK1: 318
+3 - MAX: 209
+4 - TV2 Nyhet: 202
+5 - Viasat 4: 190
+6 - Disney Channel: 177
+7 - FEM: 158
+8 - TVNORGE: 140
+9 - TV2 Zebra: 138
+10 - NRK2: 137
+2018/11/07 11:19:46 efficient.ChannelsViewers took 380.42µs
+2018/11/07 11:19:46 efficient.AverageChannelDurations took 41.518µs
+Top 10 TV Channels:
+2018/11/07 11:19:47 efficient.ChannelsViewers took 197.472µs
+1 - TV2 Norge: 420
+2 - NRK1: 320
+3 - MAX: 210
+4 - TV2 Nyhet: 201
+5 - Viasat 4: 190
+6 - Disney Channel: 177
+7 - FEM: 158
+8 - TVNORGE: 140
+9 - TV2 Zebra: 138
+10 - NRK2: 136
+2018/11/07 11:19:47 efficient.ChannelsViewers took 364.021µs
+2018/11/07 11:19:47 efficient.AverageChannelDurations took 41.515µs
+Top 10 TV Channels:
+2018/11/07 11:19:48 efficient.ChannelsViewers took 342.648µs
+2018/11/07 11:19:48 efficient.ChannelsViewers took 354.955µs
+1 - TV2 Norge: 421
+2018/11/07 11:19:48 efficient.AverageChannelDurations took 37.829µs
+2 - NRK1: 321
+3 - MAX: 210
+4 - TV2 Nyhet: 200
+5 - Viasat 4: 190
+6 - Disney Channel: 177
+7 - FEM: 159
+8 - TVNORGE: 140
+9 - TV2 Zebra: 139
+10 - NRK2: 135
+Top 10 TV Channels:
+2018/11/07 11:19:49 efficient.ChannelsViewers took 326.504µs
+2018/11/07 11:19:49 efficient.ChannelsViewers took 241.362µs
+2018/11/07 11:19:49 efficient.AverageChannelDurations took 39.393µs
+1 - TV2 Norge: 422
+2 - NRK1: 321
+3 - MAX: 210
+4 - TV2 Nyhet: 199
+5 - Viasat 4: 191
+6 - Disney Channel: 178
+7 - FEM: 159
+8 - TVNORGE: 140
+9 - TV2 Zebra: 139
+10 - TV3 Norge: 136
+Top 10 TV Channels:
+2018/11/07 11:19:50 efficient.ChannelsViewers took 300.702µs
+2018/11/07 11:19:50 efficient.ChannelsViewers took 385.136µs
+1 - TV2 Norge: 424
+2 - NRK1: 320
+3 - MAX: 211
+4 - TV2 Nyhet: 199
+5 - Viasat 4: 192
+6 - Disney Channel: 179
+7 - FEM: 159
+8 - TVNORGE: 140
+9 - TV2 Zebra: 139
+10 - TV3 Norge: 135
+2018/11/07 11:19:50 efficient.AverageChannelDurations took 42.444µs
+Top 10 TV Channels:
+2018/11/07 11:19:51 efficient.ChannelsViewers took 205.368µs
+2018/11/07 11:19:51 efficient.AverageChannelDurations took 37.888µs
+2018/11/07 11:19:51 efficient.ChannelsViewers took 357.863µs
+1 - TV2 Norge: 423
+2 - NRK1: 321
+3 - MAX: 211
+4 - TV2 Nyhet: 199
+5 - Viasat 4: 192
+6 - Disney Channel: 181
+7 - FEM: 158
+8 - TVNORGE: 140
+9 - TV2 Zebra: 139
+10 - TV3 Norge: 135
+Top 10 TV Channels:
+2018/11/07 11:19:52 efficient.ChannelsViewers took 367.667µs
+2018/11/07 11:19:52 efficient.ChannelsViewers took 371.818µs
+1 - TV2 Norge: 423
+2 - NRK1: 321
+3 - MAX: 211
+4 - TV2 Nyhet: 199
+5 - Viasat 4: 192
+6 - Disney Channel: 182
+7 - FEM: 159
+8 - TVNORGE: 139
+9 - TV2 Zebra: 138
+10 - NRK2: 135
+2018/11/07 11:19:52 efficient.AverageChannelDurations took 40.018µs
+Top 10 TV Channels:
+2018/11/07 11:19:53 efficient.ChannelsViewers took 323.586µs
+2018/11/07 11:19:53 efficient.ChannelsViewers took 286.743µs
+1 - TV2 Norge: 424
+2 - NRK1: 321
+3 - MAX: 212
+4 - TV2 Nyhet: 199
+5 - Viasat 4: 192
+6 - Disney Channel: 184
+7 - FEM: 159
+8 - TVNORGE: 140
+9 - TV2 Zebra: 140
+10 - NRK2: 135
+2018/11/07 11:19:53 efficient.AverageChannelDurations took 41.331µs
+Top 10 TV Channels:
+2018/11/07 11:19:54 efficient.ChannelsViewers took 310.574µs
+2018/11/07 11:19:54 efficient.ChannelsViewers took 246.605µs
+1 - TV2 Norge: 424
+2 - NRK1: 324
+3 - MAX: 212
+4 - TV2 Nyhet: 199
+5 - Viasat 4: 191
+6 - Disney Channel: 184
+7 - FEM: 159
+8 - TVNORGE: 141
+9 - TV2 Zebra: 140
+10 - NRK2: 135
+2018/11/07 11:19:54 efficient.AverageChannelDurations took 45.846µs
+Top 10 TV Channels:
+2018/11/07 11:19:55 efficient.ChannelsViewers took 315.326µs
+2018/11/07 11:19:55 efficient.ChannelsViewers took 224.052µs
+1 - TV2 Norge: 425
+2 - NRK1: 324
+3 - MAX: 212
+4 - TV2 Nyhet: 199
+5 - Viasat 4: 191
+6 - Disney Channel: 185
+7 - FEM: 159
+8 - TVNORGE: 142
+9 - TV2 Zebra: 140
+10 - NRK2: 134
+2018/11/07 11:19:55 efficient.AverageChannelDurations took 37.247µs
+Top 10 TV Channels:
+2018/11/07 11:19:56 efficient.ChannelsViewers took 350.093µs
+2018/11/07 11:19:56 efficient.AverageChannelDurations took 37.699µs
+2018/11/07 11:19:56 efficient.ChannelsViewers took 289.133µs
+1 - TV2 Norge: 421
+2 - NRK1: 324
+3 - MAX: 213
+4 - TV2 Nyhet: 200
+5 - Viasat 4: 192
+6 - Disney Channel: 186
+7 - FEM: 160
+8 - TVNORGE: 141
+9 - TV2 Zebra: 140
+10 - TV3 Norge: 135
+Top 10 TV Channels:
+2018/11/07 11:19:57 efficient.ChannelsViewers took 300.528µs
+1 - TV2 Norge: 423
+2018/11/07 11:19:57 efficient.ChannelsViewers took 380.678µs
+2 - NRK1: 324
+3 - MAX: 213
+4 - TV2 Nyhet: 203
+5 - Viasat 4: 192
+6 - Disney Channel: 187
+7 - FEM: 160
+8 - TVNORGE: 141
+9 - TV2 Zebra: 140
+10 - TV3 Norge: 136
+2018/11/07 11:19:57 efficient.AverageChannelDurations took 39.58µs
+Top 10 TV Channels:
+2018/11/07 11:19:58 efficient.ChannelsViewers took 302.498µs
+1 - TV2 Norge: 422
+2 - NRK1: 325
+3 - MAX: 213
+4 - TV2 Nyhet: 201
+2018/11/07 11:19:58 efficient.ChannelsViewers took 241.9µs
+5 - Viasat 4: 195
+6 - Disney Channel: 187
+7 - FEM: 162
+8 - TVNORGE: 144
+9 - TV2 Zebra: 140
+10 - TV3 Norge: 136
+2018/11/07 11:19:58 efficient.AverageChannelDurations took 37.564µs
+Top 10 TV Channels:
+2018/11/07 11:19:59 efficient.ChannelsViewers took 242.869µs
+1 - TV2 Norge: 422
+2 - NRK1: 326
+3 - MAX: 214
+4 - TV2 Nyhet: 200
+5 - Viasat 4: 197
+6 - Disney Channel: 188
+7 - FEM: 163
+8 - TVNORGE: 146
+2018/11/07 11:19:59 efficient.ChannelsViewers took 216.757µs
+9 - TV2 Zebra: 141
+10 - TV3 Norge: 135
+2018/11/07 11:19:59 efficient.AverageChannelDurations took 49.849µs
+Top 10 TV Channels:
+2018/11/07 11:20:00 efficient.ChannelsViewers took 307.813µs
+1 - TV2 Norge: 424
+2 - NRK1: 326
+3 - MAX: 214
+4 - TV2 Nyhet: 201
+2018/11/07 11:20:00 efficient.ChannelsViewers took 173.24µs
+5 - Viasat 4: 197
+6 - Disney Channel: 188
+7 - FEM: 162
+8 - TVNORGE: 145
+9 - TV2 Zebra: 143
+10 - TV3 Norge: 135
+2018/11/07 11:20:00 efficient.AverageChannelDurations took 47.951µs
+Top 10 TV Channels:
+2018/11/07 11:20:01 efficient.ChannelsViewers took 304.942µs
+2018/11/07 11:20:01 efficient.ChannelsViewers took 392.979µs
+2018/11/07 11:20:01 efficient.AverageChannelDurations took 41.685µs
+1 - TV2 Norge: 425
+2 - NRK1: 327
+3 - MAX: 215
+4 - TV2 Nyhet: 201
+5 - Viasat 4: 198
+6 - Disney Channel: 190
+7 - FEM: 162
+8 - TVNORGE: 147
+9 - TV2 Zebra: 143
+10 - TV3 Norge: 136
+Top 10 TV Channels:
+2018/11/07 11:20:02 efficient.ChannelsViewers took 188.954µs
+1 - TV2 Norge: 428
+2 - NRK1: 328
+3 - MAX: 215
+4 - TV2 Nyhet: 202
+5 - Viasat 4: 199
+6 - Disney Channel: 191
+7 - FEM: 163
+8 - TVNORGE: 148
+2018/11/07 11:20:02 efficient.ChannelsViewers took 317.945µs
+9 - TV2 Zebra: 143
+10 - TV3 Norge: 137
+2018/11/07 11:20:02 efficient.AverageChannelDurations took 34.04µs
+Top 10 TV Channels:
+2018/11/07 11:20:03 efficient.ChannelsViewers took 333.425µs
+1 - TV2 Norge: 428
+2 - NRK1: 328
+3 - MAX: 217
+2018/11/07 11:20:03 efficient.ChannelsViewers took 269.79µs
+4 - TV2 Nyhet: 202
+5 - Viasat 4: 198
+6 - Disney Channel: 192
+7 - FEM: 163
+8 - TVNORGE: 148
+9 - TV2 Zebra: 143
+10 - TV3 Norge: 137
+2018/11/07 11:20:03 efficient.AverageChannelDurations took 47.89µs
+Top 10 TV Channels:
+2018/11/07 11:20:04 efficient.ChannelsViewers took 288.374µs
+2018/11/07 11:20:04 efficient.ChannelsViewers took 251.774µs
+1 - TV2 Norge: 429
+2 - NRK1: 330
+3 - MAX: 218
+4 - TV2 Nyhet: 202
+5 - Viasat 4: 198
+6 - Disney Channel: 192
+7 - FEM: 163
+8 - TVNORGE: 148
+9 - TV2 Zebra: 144
+10 - TV3 Norge: 138
+2018/11/07 11:20:04 efficient.AverageChannelDurations took 94.265µs
+Top 10 TV Channels:
+2018/11/07 11:20:05 efficient.ChannelsViewers took 264.893µs
+2018/11/07 11:20:05 efficient.ChannelsViewers took 414.174µs
+2018/11/07 11:20:05 efficient.AverageChannelDurations took 47.657µs
+1 - TV2 Norge: 430
+2 - NRK1: 334
+3 - MAX: 221
+4 - TV2 Nyhet: 201
+5 - Viasat 4: 199
+6 - Disney Channel: 192
+7 - FEM: 162
+8 - TVNORGE: 148
+9 - TV2 Zebra: 145
+10 - TV3 Norge: 138
+Top 10 TV Channels:
+2018/11/07 11:20:06 efficient.ChannelsViewers took 284.161µs
+2018/11/07 11:20:06 efficient.ChannelsViewers took 263.853µs
+1 - TV2 Norge: 431
+2 - NRK1: 335
+3 - MAX: 220
+4 - TV2 Nyhet: 201
+5 - Viasat 4: 200
+6 - Disney Channel: 193
+2018/11/07 11:20:06 efficient.AverageChannelDurations took 36.463µs
+7 - FEM: 162
+8 - TVNORGE: 147
+9 - TV2 Zebra: 146
+10 - TV3 Norge: 138
+Top 10 TV Channels:
+2018/11/07 11:20:07 efficient.ChannelsViewers took 193.147µs
+1 - TV2 Norge: 432
+2 - NRK1: 337
+3 - MAX: 220
+4 - Viasat 4: 201
+5 - TV2 Nyhet: 200
+6 - Disney Channel: 193
+2018/11/07 11:20:07 efficient.ChannelsViewers took 315.69µs
+7 - FEM: 162
+8 - TVNORGE: 146
+9 - TV2 Zebra: 146
+10 - TV3 Norge: 138
+2018/11/07 11:20:07 efficient.AverageChannelDurations took 42.355µs
+Top 10 TV Channels:
+2018/11/07 11:20:08 efficient.ChannelsViewers took 180.459µs
+2018/11/07 11:20:08 efficient.AverageChannelDurations took 37.163µs
+2018/11/07 11:20:08 efficient.ChannelsViewers took 507.491µs
+1 - TV2 Norge: 436
+2 - NRK1: 337
+3 - MAX: 221
+4 - Viasat 4: 201
+5 - TV2 Nyhet: 200
+6 - Disney Channel: 194
+7 - FEM: 162
+8 - TVNORGE: 146
+9 - TV2 Zebra: 146
+10 - TV3 Norge: 138
+2018/11/07 11:20:09 efficient.ChannelsViewers took 197.448µs
+Top 10 TV Channels:
+2018/11/07 11:20:09 efficient.AverageChannelDurations took 41.676µs
+2018/11/07 11:20:09 efficient.ChannelsViewers took 281.988µs
+1 - TV2 Norge: 437
+2 - NRK1: 338
+3 - MAX: 222
+4 - TV2 Nyhet: 200
+5 - Viasat 4: 200
+6 - Disney Channel: 195
+7 - FEM: 162
+8 - TV2 Zebra: 146
+9 - TVNORGE: 146
+10 - TV3 Norge: 139
+2018/11/07 11:20:10 efficient.ChannelsViewers took 174.991µs
+Top 10 TV Channels:
+2018/11/07 11:20:10 efficient.AverageChannelDurations took 37.839µs
+2018/11/07 11:20:10 efficient.ChannelsViewers took 187.737µs
+1 - TV2 Norge: 438
+2 - NRK1: 337
+3 - MAX: 223
+4 - Viasat 4: 200
+5 - TV2 Nyhet: 199
+6 - Disney Channel: 197
+7 - FEM: 162
+8 - TV2 Zebra: 147
+9 - TVNORGE: 145
+10 - TV3 Norge: 139
+Top 10 TV Channels:
+2018/11/07 11:20:11 efficient.ChannelsViewers took 164.518µs
+2018/11/07 11:20:11 efficient.AverageChannelDurations took 40.215µs
+2018/11/07 11:20:11 efficient.ChannelsViewers took 262.798µs
+1 - TV2 Norge: 439
+2 - NRK1: 338
+3 - MAX: 226
+4 - TV2 Nyhet: 200
+5 - Viasat 4: 200
+6 - Disney Channel: 199
+7 - FEM: 163
+8 - TVNORGE: 147
+9 - TV2 Zebra: 147
+10 - TV3 Norge: 139
+Top 10 TV Channels:
+2018/11/07 11:20:12 efficient.ChannelsViewers took 203.109µs
+1 - TV2 Norge: 439
+2 - NRK1: 340
+3 - MAX: 227
+4 - TV2 Nyhet: 201
+2018/11/07 11:20:12 efficient.ChannelsViewers took 334.106µs
+5 - Viasat 4: 200
+6 - Disney Channel: 199
+7 - FEM: 163
+8 - TVNORGE: 148
+9 - TV2 Zebra: 147
+10 - TV3 Norge: 138
+2018/11/07 11:20:12 efficient.AverageChannelDurations took 49.552µs
+Top 10 TV Channels:
+2018/11/07 11:20:13 efficient.ChannelsViewers took 297.503µs
+2018/11/07 11:20:13 efficient.ChannelsViewers took 276.181µs
+1 - TV2 Norge: 440
+2 - NRK1: 339
+3 - MAX: 228
+4 - TV2 Nyhet: 202
+5 - Viasat 4: 201
+6 - Disney Channel: 199
+7 - FEM: 163
+8 - TVNORGE: 149
+9 - TV2 Zebra: 147
+10 - TV3 Norge: 138
+2018/11/07 11:20:13 efficient.AverageChannelDurations took 37.741µs
+Top 10 TV Channels:
+2018/11/07 11:20:14 efficient.ChannelsViewers took 118.641µs
+2018/11/07 11:20:14 efficient.AverageChannelDurations took 28.82µs
+2018/11/07 11:20:14 efficient.ChannelsViewers took 367.328µs
+1 - TV2 Norge: 440
+2 - NRK1: 339
+3 - MAX: 228
+4 - TV2 Nyhet: 205
+5 - Viasat 4: 201
+6 - Disney Channel: 199
+7 - FEM: 163
+8 - TVNORGE: 150
+9 - TV2 Zebra: 148
+10 - TV3 Norge: 139
+Top 10 TV Channels:
+2018/11/07 11:20:15 efficient.ChannelsViewers took 300.226µs
+1 - TV2 Norge: 441
+2 - NRK1: 338
+3 - MAX: 229
+4 - TV2 Nyhet: 205
+5 - Viasat 4: 200
+6 - Disney Channel: 199
+7 - FEM: 163
+8 - TVNORGE: 150
+9 - TV2 Zebra: 148
+10 - TV3 Norge: 139
+2018/11/07 11:20:15 efficient.ChannelsViewers took 1.069884ms
+2018/11/07 11:20:15 efficient.AverageChannelDurations took 66.936µs
+Top 10 TV Channels:
+2018/11/07 11:20:16 efficient.ChannelsViewers took 110.608µs
+1 - TV2 Norge: 440
+2 - NRK1: 340
+3 - MAX: 228
+4 - TV2 Nyhet: 206
+5 - Viasat 4: 200
+6 - Disney Channel: 199
+7 - FEM: 165
+8 - TVNORGE: 150
+9 - TV2 Zebra: 148
+10 - TV3 Norge: 138
+2018/11/07 11:20:16 efficient.ChannelsViewers took 93.147µs
+2018/11/07 11:20:16 efficient.AverageChannelDurations took 25µs
+Top 10 TV Channels:
+2018/11/07 11:20:17 efficient.ChannelsViewers took 113.816µs
+1 - TV2 Norge: 440
+2 - NRK1: 342
+3 - MAX: 227
+4 - TV2 Nyhet: 205
+5 - Viasat 4: 201
+6 - Disney Channel: 200
+7 - FEM: 166
+8 - TVNORGE: 151
+9 - TV2 Zebra: 148
+10 - TV3 Norge: 139
+2018/11/07 11:20:17 efficient.ChannelsViewers took 84.211µs
+2018/11/07 11:20:17 efficient.AverageChannelDurations took 26.42µs
+Top 10 TV Channels:
+2018/11/07 11:20:18 efficient.ChannelsViewers took 111.995µs
+1 - TV2 Norge: 441
+2 - NRK1: 343
+3 - MAX: 228
+4 - TV2 Nyhet: 205
+5 - Viasat 4: 201
+6 - Disney Channel: 201
+7 - FEM: 166
+8 - TVNORGE: 151
+9 - TV2 Zebra: 149
+10 - TV3 Norge: 139
+2018/11/07 11:20:18 efficient.ChannelsViewers took 99.012µs
+2018/11/07 11:20:18 efficient.AverageChannelDurations took 21.213µs
+Top 10 TV Channels:
+2018/11/07 11:20:19 efficient.ChannelsViewers took 143.325µs
+1 - TV2 Norge: 440
+2 - NRK1: 344
+3 - MAX: 228
+4 - TV2 Nyhet: 205
+5 - Viasat 4: 202
+6 - Disney Channel: 201
+7 - FEM: 166
+8 - TVNORGE: 152
+9 - TV2 Zebra: 149
+10 - TV3 Norge: 138
+2018/11/07 11:20:19 efficient.ChannelsViewers took 111.257µs
+2018/11/07 11:20:19 efficient.AverageChannelDurations took 24.487µs
+Top 10 TV Channels:
+2018/11/07 11:20:20 efficient.ChannelsViewers took 189.466µs
+1 - TV2 Norge: 443
+2 - NRK1: 342
+3 - MAX: 228
+4 - Viasat 4: 205
+5 - TV2 Nyhet: 205
+6 - Disney Channel: 201
+7 - FEM: 167
+8 - TVNORGE: 153
+9 - TV2 Zebra: 149
+10 - TV3 Norge: 139
+2018/11/07 11:20:20 efficient.ChannelsViewers took 359.529µs
+2018/11/07 11:20:20 efficient.AverageChannelDurations took 43.246µs
+Top 10 TV Channels:
+2018/11/07 11:20:21 efficient.ChannelsViewers took 293.756µs
+2018/11/07 11:20:21 efficient.ChannelsViewers took 166.122µs
+1 - TV2 Norge: 442
+2 - NRK1: 343
+3 - MAX: 226
+4 - TV2 Nyhet: 206
+5 - Viasat 4: 205
+6 - Disney Channel: 199
+7 - FEM: 169
+8 - TVNORGE: 154
+9 - TV2 Zebra: 150
+10 - TV3 Norge: 139
+2018/11/07 11:20:21 efficient.AverageChannelDurations took 43.026µs
+Top 10 TV Channels:
+2018/11/07 11:20:22 efficient.ChannelsViewers took 188.372µs
+2018/11/07 11:20:22 efficient.ChannelsViewers took 355.04µs
+2018/11/07 11:20:22 efficient.AverageChannelDurations took 38.206µs
+1 - TV2 Norge: 443
+2 - NRK1: 344
+3 - MAX: 225
+4 - TV2 Nyhet: 207
+5 - Viasat 4: 206
+6 - Disney Channel: 199
+7 - FEM: 171
+8 - TVNORGE: 153
+9 - TV2 Zebra: 150
+10 - TV3 Norge: 139
+Top 10 TV Channels:
+2018/11/07 11:20:23 efficient.ChannelsViewers took 278.798µs
+2018/11/07 11:20:23 efficient.AverageChannelDurations took 47.116µs
+2018/11/07 11:20:23 efficient.ChannelsViewers took 440.333µs
+1 - TV2 Norge: 445
+2 - NRK1: 344
+3 - MAX: 223
+4 - TV2 Nyhet: 208
+5 - Viasat 4: 206
+6 - Disney Channel: 199
+7 - FEM: 170
+8 - TVNORGE: 153
+9 - TV2 Zebra: 151
+10 - TV3 Norge: 139
+Top 10 TV Channels:
+2018/11/07 11:20:24 efficient.ChannelsViewers took 311.862µs
+2018/11/07 11:20:24 efficient.ChannelsViewers took 264.737µs
+1 - TV2 Norge: 444
+2018/11/07 11:20:24 efficient.AverageChannelDurations took 44.425µs
+2 - NRK1: 344
+3 - MAX: 226
+4 - TV2 Nyhet: 210
+5 - Viasat 4: 206
+6 - Disney Channel: 199
+7 - FEM: 171
+8 - TVNORGE: 154
+9 - TV2 Zebra: 152
+10 - TV3 Norge: 139
+Top 10 TV Channels:
+2018/11/07 11:20:25 efficient.ChannelsViewers took 332.615µs
+2018/11/07 11:20:25 efficient.ChannelsViewers took 301.617µs
+1 - TV2 Norge: 444
+2 - NRK1: 343
+3 - MAX: 225
+4 - TV2 Nyhet: 210
+5 - Viasat 4: 207
+6 - Disney Channel: 200
+7 - FEM: 171
+8 - TVNORGE: 154
+9 - TV2 Zebra: 153
+10 - TV3 Norge: 139
+2018/11/07 11:20:25 efficient.AverageChannelDurations took 40.853µs
+Top 10 TV Channels:
+2018/11/07 11:20:26 efficient.ChannelsViewers took 362.42µs
+2018/11/07 11:20:26 efficient.ChannelsViewers took 308.151µs
+1 - TV2 Norge: 445
+2 - NRK1: 343
+3 - MAX: 224
+4 - Viasat 4: 210
+5 - TV2 Nyhet: 210
+6 - Disney Channel: 199
+7 - FEM: 170
+8 - TVNORGE: 154
+9 - TV2 Zebra: 153
+10 - TV3 Norge: 140
+2018/11/07 11:20:26 efficient.AverageChannelDurations took 43.416µs
+Top 10 TV Channels:
+2018/11/07 11:20:27 efficient.ChannelsViewers took 331.199µs
+2018/11/07 11:20:27 efficient.ChannelsViewers took 283.345µs
+1 - TV2 Norge: 448
+2 - NRK1: 345
+2018/11/07 11:20:27 efficient.AverageChannelDurations took 48.349µs
+3 - MAX: 223
+4 - Viasat 4: 210
+5 - TV2 Nyhet: 210
+6 - Disney Channel: 199
+7 - FEM: 170
+8 - TV2 Zebra: 155
+9 - TVNORGE: 154
+10 - TV3 Norge: 141
+Top 10 TV Channels:
+2018/11/07 11:20:28 efficient.ChannelsViewers took 306.115µs
+2018/11/07 11:20:28 efficient.ChannelsViewers took 286.799µs
+1 - TV2 Norge: 449
+2 - NRK1: 345
+3 - MAX: 223
+4 - Viasat 4: 211
+5 - TV2 Nyhet: 210
+6 - Disney Channel: 198
+7 - FEM: 170
+8 - TV2 Zebra: 155
+9 - TVNORGE: 154
+10 - TV3 Norge: 141
+2018/11/07 11:20:28 efficient.AverageChannelDurations took 44.269µs
+Top 10 TV Channels:
+2018/11/07 11:20:29 efficient.ChannelsViewers took 290.136µs
+2018/11/07 11:20:29 efficient.AverageChannelDurations took 38.504µs
+2018/11/07 11:20:29 efficient.ChannelsViewers took 330.444µs
+1 - TV2 Norge: 450
+2 - NRK1: 346
+3 - MAX: 224
+4 - Viasat 4: 211
+5 - TV2 Nyhet: 209
+6 - Disney Channel: 198
+7 - FEM: 169
+8 - TV2 Zebra: 155
+9 - TVNORGE: 153
+10 - TV3 Norge: 142
+Top 10 TV Channels:
+2018/11/07 11:20:30 efficient.ChannelsViewers took 339.251µs
+2018/11/07 11:20:30 efficient.ChannelsViewers took 390.034µs
+1 - TV2 Norge: 454
+2 - NRK1: 346
+3 - MAX: 225
+4 - Viasat 4: 210
+5 - TV2 Nyhet: 209
+6 - Disney Channel: 198
+7 - FEM: 170
+8 - TV2 Zebra: 155
+9 - TVNORGE: 152
+10 - TV3 Norge: 142
+2018/11/07 11:20:30 efficient.AverageChannelDurations took 43.506µs
+Top 10 TV Channels:
+2018/11/07 11:20:31 efficient.ChannelsViewers took 342.427µs
+1 - TV2 Norge: 455
+2018/11/07 11:20:31 efficient.ChannelsViewers took 313.223µs
+2 - NRK1: 347
+3 - MAX: 223
+4 - Viasat 4: 212
+5 - TV2 Nyhet: 209
+6 - Disney Channel: 198
+7 - FEM: 170
+8 - TV2 Zebra: 155
+9 - TVNORGE: 152
+10 - TV3 Norge: 141
+2018/11/07 11:20:31 efficient.AverageChannelDurations took 77.893µs
+Top 10 TV Channels:
+2018/11/07 11:20:32 efficient.ChannelsViewers took 299.034µs
+1 - TV2 Norge: 457
+2 - NRK1: 346
+2018/11/07 11:20:32 efficient.ChannelsViewers took 253.519µs
+3 - MAX: 223
+4 - Viasat 4: 213
+5 - TV2 Nyhet: 210
+6 - Disney Channel: 198
+7 - FEM: 170
+8 - TV2 Zebra: 154
+9 - TVNORGE: 152
+10 - TV3 Norge: 140
+2018/11/07 11:20:32 efficient.AverageChannelDurations took 45.501µs
+Top 10 TV Channels:
+2018/11/07 11:20:33 efficient.ChannelsViewers took 204.784µs
+2018/11/07 11:20:33 efficient.ChannelsViewers took 364.227µs
+2018/11/07 11:20:33 efficient.AverageChannelDurations took 43.397µs
+1 - TV2 Norge: 458
+2 - NRK1: 347
+3 - MAX: 223
+4 - Viasat 4: 214
+5 - TV2 Nyhet: 210
+6 - Disney Channel: 199
+7 - FEM: 170
+8 - TVNORGE: 153
+9 - TV2 Zebra: 153
+10 - TV3 Norge: 141
+Top 10 TV Channels:
+2018/11/07 11:20:34 efficient.ChannelsViewers took 276.866µs
+2018/11/07 11:20:34 efficient.AverageChannelDurations took 42.923µs
+2018/11/07 11:20:34 efficient.ChannelsViewers took 366.617µs
+1 - TV2 Norge: 461
+2 - NRK1: 348
+3 - MAX: 221
+4 - Viasat 4: 216
+5 - TV2 Nyhet: 210
+6 - Disney Channel: 199
+7 - FEM: 170
+8 - TVNORGE: 153
+9 - TV2 Zebra: 152
+10 - TV3 Norge: 141
+Top 10 TV Channels:
+2018/11/07 11:20:35 efficient.ChannelsViewers took 174.37µs
+2018/11/07 11:20:35 efficient.AverageChannelDurations took 47.794µs
+2018/11/07 11:20:35 efficient.ChannelsViewers took 359.957µs
+1 - TV2 Norge: 461
+2 - NRK1: 348
+3 - MAX: 223
+4 - Viasat 4: 216
+5 - TV2 Nyhet: 209
+6 - Disney Channel: 200
+7 - FEM: 171
+8 - TVNORGE: 153
+9 - TV2 Zebra: 152
+10 - TV3 Norge: 141
+2018/11/07 11:20:36 efficient.ChannelsViewers took 188.643µs
+Top 10 TV Channels:
+2018/11/07 11:20:36 efficient.AverageChannelDurations took 40.134µs
+2018/11/07 11:20:36 efficient.ChannelsViewers took 228.878µs
+1 - TV2 Norge: 462
+2 - NRK1: 349
+3 - MAX: 223
+4 - Viasat 4: 217
+5 - TV2 Nyhet: 209
+6 - Disney Channel: 200
+7 - FEM: 171
+8 - TV2 Zebra: 153
+9 - TVNORGE: 152
+10 - TV3 Norge: 142
+2018/11/07 11:20:37 efficient.ChannelsViewers took 174.367µs
+Top 10 TV Channels:
+2018/11/07 11:20:37 efficient.AverageChannelDurations took 40.817µs
+2018/11/07 11:20:37 efficient.ChannelsViewers took 310.932µs
+1 - TV2 Norge: 464
+2 - NRK1: 348
+3 - MAX: 224
+4 - Viasat 4: 216
+5 - TV2 Nyhet: 211
+6 - Disney Channel: 198
+7 - FEM: 170
+8 - TV2 Zebra: 153
+9 - TVNORGE: 152
+10 - TV3 Norge: 141
+2018/11/07 11:20:38 efficient.ChannelsViewers took 179.031µs
+Top 10 TV Channels:
+2018/11/07 11:20:38 efficient.AverageChannelDurations took 44.044µs
+2018/11/07 11:20:38 efficient.ChannelsViewers took 254.35µs
+1 - TV2 Norge: 464
+2 - NRK1: 349
+3 - MAX: 224
+4 - Viasat 4: 217
+5 - TV2 Nyhet: 213
+6 - Disney Channel: 198
+7 - FEM: 169
+8 - TV2 Zebra: 154
+9 - TVNORGE: 153
+10 - TV3 Norge: 141
+2018/11/07 11:20:39 efficient.ChannelsViewers took 170.797µs
+Top 10 TV Channels:
+2018/11/07 11:20:39 efficient.AverageChannelDurations took 48.459µs
+2018/11/07 11:20:39 efficient.ChannelsViewers took 355.895µs
+1 - TV2 Norge: 466
+2 - NRK1: 349
+3 - MAX: 223
+4 - Viasat 4: 220
+5 - TV2 Nyhet: 213
+6 - Disney Channel: 197
+7 - FEM: 169
+8 - TV2 Zebra: 154
+9 - TVNORGE: 152
+10 - TV3 Norge: 141
+Top 10 TV Channels:
+2018/11/07 11:20:40 efficient.ChannelsViewers took 317.909µs
+2018/11/07 11:20:40 efficient.ChannelsViewers took 237.058µs
+2018/11/07 11:20:40 efficient.AverageChannelDurations took 48.339µs
+1 - TV2 Norge: 466
+2 - NRK1: 347
+3 - MAX: 223
+4 - Viasat 4: 221
+5 - TV2 Nyhet: 213
+6 - Disney Channel: 197
+7 - FEM: 168
+8 - TV2 Zebra: 154
+9 - TVNORGE: 152
+10 - TV3 Norge: 142
+Top 10 TV Channels:
+2018/11/07 11:20:41 efficient.ChannelsViewers took 794.375µs
+1 - TV2 Norge: 466
+2 - NRK1: 348
+3 - MAX: 223
+4 - Viasat 4: 222
+5 - TV2 Nyhet: 214
+6 - Disney Channel: 198
+7 - FEM: 168
+8 - TV2 Zebra: 154
+9 - TVNORGE: 154
+10 - TV3 Norge: 142
+2018/11/07 11:20:41 efficient.ChannelsViewers took 1.563722ms
+2018/11/07 11:20:41 efficient.AverageChannelDurations took 126.272µs
+Top 10 TV Channels:
+2018/11/07 11:20:42 efficient.ChannelsViewers took 171.987µs
+1 - TV2 Norge: 467
+2 - NRK1: 351
+3 - Viasat 4: 222
+4 - MAX: 222
+5 - TV2 Nyhet: 215
+6 - Disney Channel: 198
+7 - FEM: 169
+8 - TV2 Zebra: 154
+9 - TVNORGE: 153
+10 - TV3 Norge: 144
+2018/11/07 11:20:42 efficient.ChannelsViewers took 164.993µs
+2018/11/07 11:20:42 efficient.AverageChannelDurations took 43.242µs
+Top 10 TV Channels:
+2018/11/07 11:20:43 efficient.ChannelsViewers took 173.388µs
+1 - TV2 Norge: 470
+2 - NRK1: 351
+3 - Viasat 4: 225
+4 - MAX: 220
+5 - TV2 Nyhet: 215
+6 - Disney Channel: 198
+7 - FEM: 169
+8 - TV2 Zebra: 154
+9 - TVNORGE: 153
+10 - TV3 Norge: 146
+2018/11/07 11:20:43 efficient.ChannelsViewers took 152.412µs
+2018/11/07 11:20:43 efficient.AverageChannelDurations took 42.28µs
+Top 10 TV Channels:
+2018/11/07 11:20:44 efficient.ChannelsViewers took 167.061µs
+1 - TV2 Norge: 470
+2 - NRK1: 354
+3 - Viasat 4: 225
+4 - MAX: 221
+5 - TV2 Nyhet: 215
+6 - Disney Channel: 198
+7 - FEM: 168
+8 - TVNORGE: 155
+9 - TV2 Zebra: 153
+10 - TV3 Norge: 146
+2018/11/07 11:20:44 efficient.ChannelsViewers took 154.176µs
+2018/11/07 11:20:44 efficient.AverageChannelDurations took 43.413µs
+Top 10 TV Channels:
+2018/11/07 11:20:45 efficient.ChannelsViewers took 172.398µs
+1 - TV2 Norge: 470
+2 - NRK1: 353
+3 - Viasat 4: 226
+4 - MAX: 221
+5 - TV2 Nyhet: 215
+6 - Disney Channel: 200
+7 - FEM: 168
+8 - TVNORGE: 155
+9 - TV2 Zebra: 153
+10 - TV3 Norge: 148
+2018/11/07 11:20:45 efficient.ChannelsViewers took 157.518µs
+2018/11/07 11:20:45 efficient.AverageChannelDurations took 40.446µs
+Top 10 TV Channels:
+2018/11/07 11:20:46 efficient.ChannelsViewers took 173.661µs
+1 - TV2 Norge: 468
+2 - NRK1: 353
+3 - Viasat 4: 227
+4 - MAX: 221
+5 - TV2 Nyhet: 214
+6 - Disney Channel: 201
+7 - FEM: 170
+8 - TVNORGE: 155
+9 - TV2 Zebra: 153
+10 - TV3 Norge: 152
+2018/11/07 11:20:46 efficient.ChannelsViewers took 160.114µs
+2018/11/07 11:20:46 efficient.AverageChannelDurations took 41.705µs
+Top 10 TV Channels:
+2018/11/07 11:20:47 efficient.ChannelsViewers took 187.664µs
+1 - TV2 Norge: 468
+2 - NRK1: 361
+3 - Viasat 4: 226
+4 - MAX: 221
+5 - TV2 Nyhet: 214
+6 - Disney Channel: 201
+7 - FEM: 170
+8 - TVNORGE: 154
+9 - TV2 Zebra: 154
+10 - TV3 Norge: 152
+2018/11/07 11:20:47 efficient.ChannelsViewers took 170.687µs
+2018/11/07 11:20:47 efficient.AverageChannelDurations took 40.054µs
+Top 10 TV Channels:
+2018/11/07 11:20:48 efficient.ChannelsViewers took 164.257µs
+1 - TV2 Norge: 468
+2 - NRK1: 360
+3 - Viasat 4: 227
+4 - MAX: 221
+5 - TV2 Nyhet: 217
+6 - Disney Channel: 201
+7 - FEM: 169
+8 - TV2 Zebra: 154
+9 - TVNORGE: 154
+10 - TV3 Norge: 152
+2018/11/07 11:20:48 efficient.ChannelsViewers took 153.066µs
+2018/11/07 11:20:48 efficient.AverageChannelDurations took 39.549µs
+Top 10 TV Channels:
+2018/11/07 11:20:49 efficient.ChannelsViewers took 171.736µs
+1 - TV2 Norge: 467
+2 - NRK1: 359
+3 - Viasat 4: 226
+4 - MAX: 221
+5 - TV2 Nyhet: 217
+6 - Disney Channel: 201
+7 - FEM: 170
+8 - TV2 Zebra: 155
+9 - TVNORGE: 154
+10 - TV3 Norge: 152
+2018/11/07 11:20:49 efficient.ChannelsViewers took 150.286µs
+2018/11/07 11:20:49 efficient.AverageChannelDurations took 41.023µs
+Top 10 TV Channels:
+2018/11/07 11:20:50 efficient.ChannelsViewers took 166.724µs
+1 - TV2 Norge: 469
+2 - NRK1: 357
+3 - Viasat 4: 226
+4 - TV2 Nyhet: 217
+5 - MAX: 217
+6 - Disney Channel: 204
+7 - FEM: 172
+8 - TV2 Zebra: 155
+9 - TVNORGE: 155
+10 - TV3 Norge: 153
+2018/11/07 11:20:50 efficient.ChannelsViewers took 156.07µs
+2018/11/07 11:20:50 efficient.AverageChannelDurations took 40.338µs
+Top 10 TV Channels:
+2018/11/07 11:20:51 efficient.ChannelsViewers took 173.47µs
+1 - TV2 Norge: 471
+2 - NRK1: 357
+3 - Viasat 4: 227
+4 - MAX: 218
+5 - TV2 Nyhet: 215
+6 - Disney Channel: 205
+7 - FEM: 172
+8 - TVNORGE: 155
+9 - TV2 Zebra: 155
+10 - TV3 Norge: 152
+2018/11/07 11:20:51 efficient.ChannelsViewers took 162.377µs
+2018/11/07 11:20:51 efficient.AverageChannelDurations took 40.185µs
+Top 10 TV Channels:
+2018/11/07 11:20:52 efficient.ChannelsViewers took 165.357µs
+1 - TV2 Norge: 472
+2 - NRK1: 357
+3 - Viasat 4: 228
+4 - MAX: 217
+5 - TV2 Nyhet: 215
+6 - Disney Channel: 205
+7 - FEM: 172
+8 - TV2 Zebra: 156
+9 - TVNORGE: 156
+10 - TV3 Norge: 151
+2018/11/07 11:20:52 efficient.ChannelsViewers took 150.519µs
+2018/11/07 11:20:52 efficient.AverageChannelDurations took 44.219µs
+Top 10 TV Channels:
+2018/11/07 11:20:53 efficient.ChannelsViewers took 186.805µs
+1 - TV2 Norge: 473
+2 - NRK1: 357
+3 - Viasat 4: 228
+4 - MAX: 217
+5 - TV2 Nyhet: 215
+6 - Disney Channel: 205
+7 - FEM: 172
+8 - TVNORGE: 157
+9 - TV2 Zebra: 156
+10 - TV3 Norge: 151
+2018/11/07 11:20:53 efficient.ChannelsViewers took 159.435µs
+2018/11/07 11:20:53 efficient.AverageChannelDurations took 39.918µs
+Top 10 TV Channels:
+2018/11/07 11:20:54 efficient.ChannelsViewers took 171.513µs
+1 - TV2 Norge: 473
+2 - NRK1: 357
+3 - Viasat 4: 228
+4 - MAX: 219
+5 - TV2 Nyhet: 216
+6 - Disney Channel: 205
+7 - FEM: 171
+8 - TVNORGE: 157
+9 - TV2 Zebra: 156
+10 - TV3 Norge: 153
+2018/11/07 11:20:54 efficient.ChannelsViewers took 154.322µs
+2018/11/07 11:20:54 efficient.AverageChannelDurations took 37.241µs
+Top 10 TV Channels:
+2018/11/07 11:20:55 efficient.ChannelsViewers took 191.292µs
+1 - TV2 Norge: 474
+2 - NRK1: 363
+3 - Viasat 4: 227
+4 - MAX: 219
+5 - TV2 Nyhet: 216
+6 - Disney Channel: 204
+7 - FEM: 171
+8 - TVNORGE: 158
+9 - TV2 Zebra: 156
+10 - TV3 Norge: 154
+2018/11/07 11:20:55 efficient.ChannelsViewers took 195.937µs
+2018/11/07 11:20:55 efficient.AverageChannelDurations took 43.94µs
+Top 10 TV Channels:
+2018/11/07 11:20:56 efficient.ChannelsViewers took 174.544µs
+1 - TV2 Norge: 479
+2 - NRK1: 365
+3 - Viasat 4: 227
+4 - MAX: 217
+5 - TV2 Nyhet: 215
+6 - Disney Channel: 205
+7 - FEM: 173
+8 - TVNORGE: 158
+9 - TV2 Zebra: 156
+10 - TV3 Norge: 153
+2018/11/07 11:20:56 efficient.ChannelsViewers took 157.451µs
+2018/11/07 11:20:56 efficient.AverageChannelDurations took 43.818µs
+Top 10 TV Channels:
+2018/11/07 11:20:57 efficient.ChannelsViewers took 186.755µs
+1 - TV2 Norge: 483
+2 - NRK1: 365
+3 - Viasat 4: 230
+4 - TV2 Nyhet: 217
+5 - MAX: 215
+6 - Disney Channel: 205
+7 - FEM: 173
+8 - TVNORGE: 158
+9 - TV2 Zebra: 156
+10 - TV3 Norge: 154
+2018/11/07 11:20:57 efficient.ChannelsViewers took 158.12µs
+2018/11/07 11:20:57 efficient.AverageChannelDurations took 39.901µs
+Top 10 TV Channels:
+2018/11/07 11:20:58 efficient.ChannelsViewers took 169.695µs
+1 - TV2 Norge: 484
+2 - NRK1: 366
+3 - Viasat 4: 230
+4 - TV2 Nyhet: 220
+5 - MAX: 213
+6 - Disney Channel: 206
+7 - FEM: 175
+8 - TVNORGE: 158
+9 - TV2 Zebra: 156
+10 - TV3 Norge: 154
+2018/11/07 11:20:58 efficient.ChannelsViewers took 156.372µs
+2018/11/07 11:20:58 efficient.AverageChannelDurations took 44.104µs
+Top 10 TV Channels:
+2018/11/07 11:20:59 efficient.ChannelsViewers took 196.657µs
+1 - TV2 Norge: 486
+2 - NRK1: 368
+3 - Viasat 4: 230
+4 - TV2 Nyhet: 220
+5 - MAX: 210
+6 - Disney Channel: 205
+7 - FEM: 176
+8 - TVNORGE: 157
+9 - TV2 Zebra: 156
+10 - TV3 Norge: 153
+2018/11/07 11:20:59 efficient.ChannelsViewers took 153.263µs
+2018/11/07 11:20:59 efficient.AverageChannelDurations took 40.469µs
+Top 10 TV Channels:
+2018/11/07 11:21:00 efficient.ChannelsViewers took 191.815µs
+1 - TV2 Norge: 490
+2 - NRK1: 369
+3 - Viasat 4: 230
+4 - TV2 Nyhet: 219
+5 - Disney Channel: 205
+6 - MAX: 201
+7 - FEM: 177
+8 - TVNORGE: 157
+9 - TV2 Zebra: 156
+10 - TV3 Norge: 156
+2018/11/07 11:21:00 efficient.ChannelsViewers took 146.309µs
+2018/11/07 11:21:00 efficient.AverageChannelDurations took 40.807µs
+Top 10 TV Channels:
+2018/11/07 11:21:01 efficient.ChannelsViewers took 180.131µs
+1 - TV2 Norge: 492
+2 - NRK1: 369
+3 - Viasat 4: 232
+4 - TV2 Nyhet: 219
+5 - Disney Channel: 205
+6 - MAX: 199
+7 - FEM: 180
+8 - TVNORGE: 158
+9 - TV2 Zebra: 157
+10 - TV3 Norge: 155
+2018/11/07 11:21:01 efficient.ChannelsViewers took 155.994µs
+2018/11/07 11:21:01 efficient.AverageChannelDurations took 44.403µs
+Top 10 TV Channels:
+2018/11/07 11:21:02 efficient.ChannelsViewers took 174.758µs
+1 - TV2 Norge: 492
+2 - NRK1: 373
+3 - Viasat 4: 234
+4 - TV2 Nyhet: 219
+5 - Disney Channel: 205
+6 - MAX: 197
+7 - FEM: 181
+8 - TV2 Zebra: 158
+9 - TVNORGE: 158
+10 - TV3 Norge: 155
+2018/11/07 11:21:02 efficient.ChannelsViewers took 150.63µs
+2018/11/07 11:21:02 efficient.AverageChannelDurations took 41.274µs
